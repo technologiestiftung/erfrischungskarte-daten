@@ -1,0 +1,28 @@
+{
+"type": "FeatureCollection",
+"name": "wasserspielplätze_osm",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Plansche im Volkspark Weinbergsweg", "category": "Wasserspielplatz" }, "geometry": { "type": "Point", "coordinates": [ 13.4024114, 52.5319802 ] } },
+{ "type": "Feature", "properties": { "name": "Plansche am Weißen See", "category": "Wasserspielplatz" }, "geometry": { "type": "Point", "coordinates": [ 13.4611146, 52.5553837 ] } },
+{ "type": "Feature", "properties": { "name": "Plansche Altlandsberger Platz", "category": "Wasserspielplatz" }, "geometry": { "type": "Point", "coordinates": [ 13.5729648, 52.5428158 ] } },
+{ "type": "Feature", "properties": { "name": "Plansche Einsteinpark", "category": "Wasserspielplatz" }, "geometry": { "type": "Point", "coordinates": [ 13.4450496, 52.5402411 ] } },
+{ "type": "Feature", "properties": { "name": "Plansche auf dem Spielberg", "category": "Wasserspielplatz" }, "geometry": { "type": "Point", "coordinates": [ 13.4328515, 52.5368736 ] } },
+{ "type": "Feature", "properties": { "name": "Wasserspielplatz", "category": "Wasserspielplatz" }, "geometry": { "type": "Point", "coordinates": [ 13.573191486065996, 52.565004123984849 ] } },
+{ "type": "Feature", "properties": { "name": "Sprühplansche am Anger", "category": "Wasserspielplatz" }, "geometry": { "type": "Point", "coordinates": [ 13.564083955868634, 52.540703447830928 ] } },
+{ "type": "Feature", "properties": { "name": "Wasserspielplatz", "category": "Wasserspielplatz" }, "geometry": { "type": "Point", "coordinates": [ 13.423039800725277, 52.433726405328237 ] } },
+{ "type": "Feature", "properties": { "name": "Plansche", "category": "Wasserspielplatz" }, "geometry": { "type": "Point", "coordinates": [ 13.459213977834009, 52.511069830117641 ] } },
+{ "type": "Feature", "properties": { "name": "Wasserspielplatz", "category": "Wasserspielplatz" }, "geometry": { "type": "Point", "coordinates": [ 13.3934203871252, 52.443959919202356 ] } },
+{ "type": "Feature", "properties": { "name": "Rudolf-Seiffert-Straße Grünzug Sprühanlage", "category": "Wasserspielplatz" }, "geometry": { "type": "Point", "coordinates": [ 13.472626503415116, 52.526202067158628 ] } },
+{ "type": "Feature", "properties": { "name": "Wasserspielplatz", "category": "Wasserspielplatz" }, "geometry": { "type": "Point", "coordinates": [ 13.510817690054784, 52.494045727091624 ] } },
+{ "type": "Feature", "properties": { "name": "Wasserspielplatz", "category": "Wasserspielplatz" }, "geometry": { "type": "Point", "coordinates": [ 13.346695210669413, 52.560036726587029 ] } },
+{ "type": "Feature", "properties": { "name": "Wasserspielplatz", "category": "Wasserspielplatz" }, "geometry": { "type": "Point", "coordinates": [ 13.529779556863085, 52.499814424251973 ] } },
+{ "type": "Feature", "properties": { "name": "Planschepark", "category": "Wasserspielplatz" }, "geometry": { "type": "Point", "coordinates": [ 13.38759491518873, 52.531096202359144 ] } },
+{ "type": "Feature", "properties": { "name": "Plansche", "category": "Wasserspielplatz" }, "geometry": { "type": "Point", "coordinates": [ 13.46088802615729, 52.519667679954175 ] } },
+{ "type": "Feature", "properties": { "name": "Plansche Marzahn Ost", "category": "Wasserspielplatz" }, "geometry": { "type": "Point", "coordinates": [ 13.577056060098645, 52.549218226965984 ] } },
+{ "type": "Feature", "properties": { "name": "Wasserspielplatz", "category": "Wasserspielplatz" }, "geometry": { "type": "Point", "coordinates": [ 13.573242602603841, 52.536504424517901 ] } },
+{ "type": "Feature", "properties": { "name": "Sprühplansche", "category": "Wasserspielplatz" }, "geometry": { "type": "Point", "coordinates": [ 13.560707080685068, 52.567704287683441 ] } },
+{ "type": "Feature", "properties": { "name": "Wasserspielplatz", "category": "Wasserspielplatz" }, "geometry": { "type": "Point", "coordinates": [ 13.248467189787171, 52.608120562771198 ] } },
+{ "type": "Feature", "properties": { "name": "Plansche Südspitze", "category": "Wasserspielplatz" }, "geometry": { "type": "Point", "coordinates": [ 13.543474490074393, 52.521925412793578 ] } }
+]
+}

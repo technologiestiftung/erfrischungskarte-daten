@@ -1,0 +1,25 @@
+{
+"type": "FeatureCollection",
+"name": "freibäder",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Badeschiff Berlin", "category": "Freibad" }, "geometry": { "type": "Point", "coordinates": [ 13.4532015, 52.4964226 ] } },
+{ "type": "Feature", "properties": { "name": "Kinderbad Monbijou", "category": "Freibad" }, "geometry": { "type": "Point", "coordinates": [ 13.3974895, 52.5237993 ] } },
+{ "type": "Feature", "properties": { "name": "Kinderbad Platsch", "category": "Freibad" }, "geometry": { "type": "Point", "coordinates": [ 13.56229, 52.55218 ] } },
+{ "type": "Feature", "properties": { "name": "Kombibad Gropiusstadt", "category": "Freibad" }, "geometry": { "type": "Point", "coordinates": [ 13.4697445, 52.427849 ] } },
+{ "type": "Feature", "properties": { "name": "Kombibad Mariendorf", "category": "Freibad" }, "geometry": { "type": "Point", "coordinates": [ 13.4026454, 52.4205096 ] } },
+{ "type": "Feature", "properties": { "name": "Kombibad Seestraße", "category": "Freibad" }, "geometry": { "type": "Point", "coordinates": [ 13.363945, 52.557347 ] } },
+{ "type": "Feature", "properties": { "name": "Kombibad Spandau Süd", "category": "Freibad" }, "geometry": { "type": "Point", "coordinates": [ 13.188151, 52.518246299999987 ] } },
+{ "type": "Feature", "properties": { "name": "Sommerbad Am Insulaner", "category": "Freibad" }, "geometry": { "type": "Point", "coordinates": [ 13.3508897, 52.4559633 ] } },
+{ "type": "Feature", "properties": { "name": "Sommerbad Humboldthain", "category": "Freibad" }, "geometry": { "type": "Point", "coordinates": [ 13.3812715, 52.544767 ] } },
+{ "type": "Feature", "properties": { "name": "Sommerbad Kreuzberg", "category": "Freibad" }, "geometry": { "type": "Point", "coordinates": [ 13.4057805, 52.4979092 ] } },
+{ "type": "Feature", "properties": { "name": "Sommerbad Mariendorf", "category": "Freibad" }, "geometry": { "type": "Point", "coordinates": [ 13.3978213, 52.4431446 ] } },
+{ "type": "Feature", "properties": { "name": "Sommerbad Neukölln", "category": "Freibad" }, "geometry": { "type": "Point", "coordinates": [ 13.41637, 52.4797 ] } },
+{ "type": "Feature", "properties": { "name": "Sommerbad Olympiastadion", "category": "Freibad" }, "geometry": { "type": "Point", "coordinates": [ 13.2439461, 52.5152349 ] } },
+{ "type": "Feature", "properties": { "name": "Sommerbad Pankow", "category": "Freibad" }, "geometry": { "type": "Point", "coordinates": [ 13.4129914, 52.5733991 ] } },
+{ "type": "Feature", "properties": { "name": "Sommerbad und Saunalandschaft Lichterfelde „Spucki“", "category": "Freibad" }, "geometry": { "type": "Point", "coordinates": [ 13.3125005, 52.4335448 ] } },
+{ "type": "Feature", "properties": { "name": "Sommerbad Wilmersdorf", "category": "Freibad" }, "geometry": { "type": "Point", "coordinates": [ 13.3034199, 52.4822857 ] } },
+{ "type": "Feature", "properties": { "name": "Sommerbad Wuhlheide", "category": "Freibad" }, "geometry": { "type": "Point", "coordinates": [ 13.5167106, 52.4719707 ] } },
+{ "type": "Feature", "properties": { "name": "Sportbad Britz", "category": "Freibad" }, "geometry": { "type": "Point", "coordinates": [ 13.4738975, 52.440124399999988 ] } }
+]
+}
