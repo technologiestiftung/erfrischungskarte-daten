@@ -108,4 +108,4 @@ geo_sf_temperatur <- geo_sf[,59:71]
 
 colnames(geo_sf_temperatur) <- c("9Uhr","10Uhr","11Uhr","12Uhr","13Uhr","14Uhr","15Uhr","16Uhr","17Uhr","18Uhr","19Uhr","20Uhr","21Uhr","geometry")
 
-st_write(geo_sf_temperatur, "~/t_Temperatur_9bis21_noMissing.geojson")
+st_write(geo_sf_temperatur, "~/t_Temperatur_9bis21.geojson")
