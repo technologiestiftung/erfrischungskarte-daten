@@ -20,21 +20,21 @@
       ]
     },
     {
-      "login": "vogelino",
-      "name": "Lucas Vogel",
-      "avatar_url": "https://avatars.githubusercontent.com/u/2759340?v=4",
-      "profile": "https://vogelino.com/",
-      "contributions": [
-        "doc"
-      ]
-    },
-    {
       "login": "evelynebrie",
       "name": "evelynebrie",
       "avatar_url": "https://avatars.githubusercontent.com/u/32559774?v=4",
       "profile": "https://github.com/evelynebrie",
       "contributions": [
         "data"
+      ]
+    },
+    {
+      "login": "vogelino",
+      "name": "Lucas Vogel",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2759340?v=4",
+      "profile": "https://vogelino.com/",
+      "contributions": [
+        "doc"
       ]
     }
   ],

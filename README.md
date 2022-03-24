@@ -2,7 +2,7 @@
 
 # Erfrischungskarte Daten
 
-This repository contains the original data for the Erfrischungskarte, as well as the code used to estimate hourly values for cold wind volume and temperature.
+This repository contains the original data for the [Erfrischungskarte](https://github.com/technologiestiftung/erfrischungskarte-frontend), as well as the code used to estimate hourly values for cold wind volume and temperature.
 
 - The Wind_Temperature folder contains the raw (values for specific hours) and clean data (quantiles for all hours from 9:00 to 21:00), in a Geojson format, for wind and temperature. The folder also encompasses a R code (Kaltluftvolum_Lufttemperatur.R) used to compute the estimates and quantiles for all hours.
 
@@ -22,8 +22,8 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="https://github.com/Lisa-Stubert"><img src="https://avatars.githubusercontent.com/u/61182572?v=4?s=64" width="64px;" alt=""/><br /><sub><b>Lisa-Stubert</b></sub></a><br /><a href="#data-Lisa-Stubert" title="Data">🔣</a></td>
-    <td align="center"><a href="https://vogelino.com/"><img src="https://avatars.githubusercontent.com/u/2759340?v=4?s=64" width="64px;" alt=""/><br /><sub><b>Lucas Vogel</b></sub></a><br /><a href="https://github.com/technologiestiftung/CityLAB Slides/commits?author=vogelino" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/evelynebrie"><img src="https://avatars.githubusercontent.com/u/32559774?v=4?s=64" width="64px;" alt=""/><br /><sub><b>evelynebrie</b></sub></a><br /><a href="#data-evelynebrie" title="Data">🔣</a></td>
+    <td align="center"><a href="https://vogelino.com/"><img src="https://avatars.githubusercontent.com/u/2759340?v=4?s=64" width="64px;" alt=""/><br /><sub><b>Lucas Vogel</b></sub></a><br /><a href="https://github.com/technologiestiftung/CityLAB Slides/commits?author=vogelino" title="Documentation">📖</a></td>
   </tr>
 </table>
 
