@@ -1,4 +1,4 @@
-![](https://img.shields.io/badge/Build%20with%20%E2%9D%A4%EF%B8%8F-at%20Technologiesitftung%20Berlin-blue)
+![](https://img.shields.io/badge/Built%20with%20%E2%9D%A4%EF%B8%8F-at%20Technologiestiftung%20Berlin-blue)
 
 # Erfrischungskarte Daten
 
@@ -10,7 +10,7 @@ This repository contains the original data for the [Erfrischungskarte](https://g
 
 ## Original data sources
 
-The information on temperature and cold air is based on processed [climate model data](https://www.berlin.de/umweltatlas/klima/klimaanalyse/2014/karten/)  from the Berlin Senatsverwaltung für Stadtentwicklung und Wohnen. For both topics, data is available for different times of the day. These data were interpolated to obtain data for each hour of the day. The shadows were calculated from a [digital terrain model](https://fbinter.stadt-berlin.de/fb/index.jsp?loginkey=zoomStart&mapId=k_dom@senstadt&bbox=387046,5818588,391547,5821400). The map is supplemented by points of interests, i.e. places that could be interesting in connection with the data. These come from various sources: The coordinates of the [green spaces](https://daten.berlin.de/datensaetze/grünanlagenbestand-berlin-einschl-der-öffentlichen-spielplätze-grünanlagen-wfs) were created from a data set on the public green space inventory. This is maintained by the district street and green space offices and made available on the Berlin geodata portal. The locations of the [fountains](https://daten.berlin.de/datensaetze/atkis-sonstiges-bauwerk-oder-sonstige-einrichtung-punkte-wfs) can also be found in the geodata portal and are part of the extensive ATKIS dataset, which is regularly updated by the district surveying offices. The locations of [bathing places](https://daten.berlin.de/datensaetze/liste-der-badestellen) come from the State Office for Health and Social Affairs (LaGeSo). The information on outdoor [swimming pools and indoor swimming pools](https://www.berlin.de/special/sport-und-fitness/schwimmen/schwimmbad/a-z/) is currently only available as a list via Berlin.de. They were transferred into a geodata set by means of webscraping. [Benches, picnic tables and drinking fountains](https://overpass-turbo.eu) were exported from Open Street Map, a freely accessible collection of geodata.
+The information on temperature and cold air is based on processed [climate model data](https://www.berlin.de/umweltatlas/klima/klimaanalyse/2014/karten/) from the Berlin Senatsverwaltung für Stadtentwicklung und Wohnen. For both topics, data is available for different times of the day. These data were interpolated to obtain data for each hour of the day. The shadows were calculated from a [digital terrain model](https://fbinter.stadt-berlin.de/fb/index.jsp?loginkey=zoomStart&mapId=k_dom@senstadt&bbox=387046,5818588,391547,5821400). The map is supplemented by points of interests, i.e. places that could be interesting in connection with the data. These come from various sources: The coordinates of the [green spaces](https://daten.berlin.de/datensaetze/grünanlagenbestand-berlin-einschl-der-öffentlichen-spielplätze-grünanlagen-wfs) were created from a data set on the public green space inventory. This is maintained by the district street and green space offices and made available on the Berlin geodata portal. The locations of the [fountains](https://daten.berlin.de/datensaetze/atkis-sonstiges-bauwerk-oder-sonstige-einrichtung-punkte-wfs) can also be found in the geodata portal and are part of the extensive ATKIS dataset, which is regularly updated by the district surveying offices. The locations of [bathing places](https://daten.berlin.de/datensaetze/liste-der-badestellen) come from the State Office for Health and Social Affairs (LaGeSo). The information on outdoor [swimming pools and indoor swimming pools](https://www.berlin.de/special/sport-und-fitness/schwimmen/schwimmbad/a-z/) is currently only available as a list via Berlin.de. They were transferred into a geodata set by means of webscraping. [Benches, picnic tables and drinking fountains](https://overpass-turbo.eu) were exported from Open Street Map, a freely accessible collection of geodata.
 
 ## Contributors
 
@@ -34,10 +34,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
 
-
 ## Data Licencing
 
-Please respect the licenses of inidividual datasets. See section original data sources above for more details. 
+Please respect the licenses of inidividual datasets. See section original data sources above for more details.
 
 ## Credits
 
@@ -73,4 +72,3 @@ Please respect the licenses of inidividual datasets. See section original data s
     </td>
   </tr>
 </table>
-
