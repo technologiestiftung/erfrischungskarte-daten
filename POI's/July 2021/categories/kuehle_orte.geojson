@@ -306,6 +306,15 @@
         "name": "Rosenkranz-Basilika",
         "info": "Kielerstr. 11, 12163 Berlin | Mo - Sa: 09:00 - 19:00 Uhr"
       }
+      },
+      {
+        "type": "Feature",
+        "geometry": { "type": "Point", "coordinates": [13.203647, 52.548738] },
+        "properties": {
+          "category": "Öffentlicher \"Kühler Raum\"",
+          "name": "Quartiersmanagement Spandauer Neustadt",
+          "info": "Lynarstraße 13, 13585 Berlin | Dienstag: 10:00 - 13:00 Uhr, Donnerstag 15:00 - 18:00 Uhr"
+        }
     }
   ]
 }
