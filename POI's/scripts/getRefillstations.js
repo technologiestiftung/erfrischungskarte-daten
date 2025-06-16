@@ -36,15 +36,7 @@ const getData = async () => {
 };
 
 const toGeoJSON = (data) => {
-  const geoJSONs = {
-    type: "FeatureCollection",
-    name: "pois_jun2023",
-    crs: {
-      type: "name",
-      properties: { name: "urn:ogc:def:crs:OGC:1.3:CRS84" },
-    },
-    features: [],
-  };
+  const geoJSONs = [];
   data.visible.forEach((d) => {
     if (
       d.description === "Refil Station" ||
@@ -64,7 +56,7 @@ const toGeoJSON = (data) => {
         coordinates: [d.lng, d.lat],
       },
     };
-    geoJSONs.features.push(feature);
+    geoJSONs.push(feature);
   });
   return geoJSONs;
 };
