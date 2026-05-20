@@ -1,0 +1,470 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wasserspielplatz",
+        "info": null,
+        "category": "Wasserspielplatz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5732715,
+          52.5650066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sprühplansche am Anger",
+        "info": null,
+        "category": "Wasserspielplatz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5640839,
+          52.5407034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": null,
+        "info": "Natur- und Wasserspielplatz",
+        "category": "Wasserspielplatz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4322941,
+          52.4930645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": null,
+        "info": "Das Wasserspiel schaltet sich ab Temperaturen über 21 Grad Celsius automatisch ein und sprudelt in 20-minütigen Intervallen.",
+        "category": "Wasserspielplatz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4891452,
+          52.4813107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": null,
+        "info": "Plansche",
+        "category": "Wasserspielplatz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4283472,
+          52.5269927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Plansche",
+        "info": null,
+        "category": "Wasserspielplatz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.423552,
+          52.5169325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wasserspielplatz Britzer Garten",
+        "info": null,
+        "category": "Wasserspielplatz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4227987,
+          52.4336445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Plansche",
+        "info": null,
+        "category": "Wasserspielplatz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.459214,
+          52.5110698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wasserspielplatz",
+        "info": null,
+        "category": "Wasserspielplatz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3934204,
+          52.4439599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wasserspielplatz Alt-Stralau",
+        "info": null,
+        "category": "Wasserspielplatz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4687777,
+          52.4943837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rudolf-Seiffert-Straße Grünzug Sprühanlage",
+        "info": null,
+        "category": "Wasserspielplatz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4726305,
+          52.5261967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wasserspielplatz",
+        "info": null,
+        "category": "Wasserspielplatz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5108413,
+          52.4940546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wasserspielplatz",
+        "info": null,
+        "category": "Wasserspielplatz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3466787,
+          52.5600406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wasserspielplatz",
+        "info": null,
+        "category": "Wasserspielplatz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5297817,
+          52.4998064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Planschepark",
+        "info": null,
+        "category": "Wasserspielplatz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3875962,
+          52.5310962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Plansche",
+        "info": null,
+        "category": "Wasserspielplatz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4608639,
+          52.5196701
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Plansche Marzahn Ost",
+        "info": null,
+        "category": "Wasserspielplatz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5770556,
+          52.5492162
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wasserspielplatz",
+        "info": null,
+        "category": "Wasserspielplatz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5733245,
+          52.5364505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sprühplansche",
+        "info": null,
+        "category": "Wasserspielplatz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5606836,
+          52.5676941
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": null,
+        "info": "Wasserspielplatz",
+        "category": "Wasserspielplatz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2484834,
+          52.6081308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": null,
+        "info": null,
+        "category": "Wasserspielplatz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3531341,
+          52.5464737
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Plansche Südspitze",
+        "info": null,
+        "category": "Wasserspielplatz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5434743,
+          52.5219242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Plansche im Volkspark Weinbergsweg",
+        "info": null,
+        "category": "Wasserspielplatz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4023965,
+          52.5319804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Plansche auf dem Spielberg",
+        "info": null,
+        "category": "Wasserspielplatz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4328548,
+          52.5368732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Plansche am Weißen See",
+        "info": null,
+        "category": "Wasserspielplatz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4609093,
+          52.5553726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": null,
+        "info": "Wasserlabyrinth",
+        "category": "Wasserspielplatz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4223407,
+          52.4334958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Community-Brunnen",
+        "info": null,
+        "category": "Wasserspielplatz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4056777,
+          52.5036026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Plansche Altlandsberger Platz",
+        "info": null,
+        "category": "Wasserspielplatz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5729655,
+          52.5427901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Plansche Einsteinpark",
+        "info": null,
+        "category": "Wasserspielplatz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4450496,
+          52.5402411
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": null,
+        "info": "Wasserspielplatz mit Pumpe",
+        "category": "Wasserspielplatz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2875936,
+          52.5036149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": null,
+        "info": "Plansche mit zwei am Rand befindlichen Seelöwenfiguren.",
+        "category": "Wasserspielplatz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4758853,
+          52.5182667
+        ]
+      }
+    }
+  ]
+}

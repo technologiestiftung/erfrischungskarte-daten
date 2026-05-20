@@ -1,0 +1,27 @@
+type,coordinates long,coordinates lat,category,name,info
+Feature,13.142278,52.432705,Badestelle,Alter Hof,https://www.berlin.de/lageso/gesundheit/gesundheitsschutz/badegewaesser/badestellen/artikel.344360.php
+Feature,13.622537,52.407498,Badestelle,Bammelecke,https://www.berlin.de/lageso/gesundheit/gesundheitsschutz/badegewaesser/badestellen/artikel.344320.php
+Feature,13.179797,52.465753,Badestelle,Breitehorn,https://www.berlin.de/lageso/gesundheit/gesundheitsschutz/badegewaesser/badestellen/artikel.344350.php
+Feature,13.211244,52.584988,Badestelle,Bürgerablage,https://www.berlin.de/lageso/gesundheit/gesundheitsschutz/badegewaesser/badestellen/artikel.344337.php
+Feature,13.735113,52.42692,Badestelle,Dämeritzsee,https://www.berlin.de/lageso/gesundheit/gesundheitsschutz/badegewaesser/badestellen/artikel.344321.php
+Feature,13.284889,52.569786,Badestelle,Flughafensee,https://www.berlin.de/lageso/gesundheit/gesundheitsschutz/badegewaesser/badestellen/artikel.344334.php
+Feature,13.575727,52.44094,Badestelle,"Gartenstraße, Flussbad",https://www.berlin.de/lageso/gesundheit/gesundheitsschutz/badegewaesser/badestellen/artikel.344323.php
+Feature,13.118568,52.471755,Badestelle,"Groß Glienicker See, nördlich",https://www.berlin.de/lageso/gesundheit/gesundheitsschutz/badegewaesser/badestellen/artikel.344340.php
+Feature,13.114633,52.460362,Badestelle,"Groß Glienicker See, südlich",https://www.berlin.de/lageso/gesundheit/gesundheitsschutz/badegewaesser/badestellen/artikel.344338.php
+Feature,13.65238,52.389494,Badestelle,Große Krampe,https://www.berlin.de/lageso/gesundheit/gesundheitsschutz/badegewaesser/badestellen/artikel.344326.php
+Feature,13.190224,52.450773,Badestelle,Große Steinlanke,https://www.berlin.de/lageso/gesundheit/gesundheitsschutz/badegewaesser/badestellen/artikel.344362.php
+Feature,13.194703,52.482197,Badestelle,Grunewaldturm,https://www.berlin.de/lageso/gesundheit/gesundheitsschutz/badegewaesser/badestellen/artikel.344359.php
+Feature,13.18595,52.484177,Badestelle,Kleine Badewiese,https://www.berlin.de/lageso/gesundheit/gesundheitsschutz/badegewaesser/badestellen/artikel.344351.php
+Feature,13.677621,52.428217,Badestelle,Kleiner Müggelsee,https://www.berlin.de/lageso/gesundheit/gesundheitsschutz/badegewaesser/badestellen/artikel.344328.php
+Feature,13.232416,52.45219,Badestelle,Krumme Lanke,https://www.berlin.de/lageso/gesundheit/gesundheitsschutz/badegewaesser/badestellen/artikel.344355.php
+Feature,13.196721,52.469332,Badestelle,Lieper Bucht,https://www.berlin.de/lageso/gesundheit/gesundheitsschutz/badegewaesser/badestellen/artikel.344358.php
+Feature,13.189634,52.458612,Badestelle,Radfahrerwiese,https://www.berlin.de/lageso/gesundheit/gesundheitsschutz/badegewaesser/badestellen/artikel.344357.php
+Feature,13.220866,52.594572,Badestelle,Sandhauser Straße,https://www.berlin.de/lageso/gesundheit/gesundheitsschutz/badegewaesser/badestellen/artikel.344341.php
+Feature,13.217128,52.443358,Badestelle,Schlachtensee,https://www.berlin.de/lageso/gesundheit/gesundheitsschutz/badegewaesser/badestellen/artikel.344356.php
+Feature,13.653285,52.373237,Badestelle,Schmöckwitz,https://www.berlin.de/lageso/gesundheit/gesundheitsschutz/badegewaesser/badestellen/artikel.344331.php
+Feature,13.685492,52.387203,Badestelle,Seddinsee,https://www.berlin.de/lageso/gesundheit/gesundheitsschutz/badegewaesser/badestellen/artikel.344332.php
+Feature,13.256018,52.568188,Badestelle,"Tegeler See, gegenüber Reiswerder",https://www.berlin.de/lageso/gesundheit/gesundheitsschutz/badegewaesser/badestellen/artikel.344345.php
+Feature,13.244252,52.575719,Badestelle,"Tegeler See, gegenüber Scharfenberg",https://www.berlin.de/lageso/gesundheit/gesundheitsschutz/badegewaesser/badestellen/artikel.344348.php
+Feature,13.255193,52.585638,Badestelle,"Tegeler See, Reiherwerder",https://www.berlin.de/lageso/gesundheit/gesundheitsschutz/badegewaesser/badestellen/artikel.344344.php
+Feature,13.246842,52.56216,Badestelle,"Tegeler See, Saatwinkel",https://www.berlin.de/lageso/gesundheit/gesundheitsschutz/badegewaesser/badestellen/artikel.344349.php
+Feature,13.234497,52.490609,Badestelle,Teufelssee,https://www.berlin.de/lageso/gesundheit/gesundheitsschutz/badegewaesser/badestellen/artikel.344363.php

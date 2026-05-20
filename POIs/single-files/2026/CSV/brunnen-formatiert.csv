@@ -1,0 +1,469 @@
+type,coordinates long,coordinates lat,category,name,info
+Point,13.206149821905766,52.538677431797865,Brunnen,Partnerschaftsbrunnen,Havelstraße
+Point,13.199560372331051,52.536364411394814,Brunnen,Mühlenbrunnen,Münsingerpark
+Point,13.201414965668063,52.53645225203617,Brunnen,Spielende Kinder,
+Point,13.203862870693449,52.537459842069566,Brunnen,Havelwelle,
+Point,13.28517827872009,52.630389965913615,Brunnen,Zierbrunnen,An der Buche 20
+Point,13.280416985147902,52.626434626785944,Brunnen,Barbarossabrunnen,
+Point,13.290661095288486,52.63360015581358,Brunnen,Kugelläuferin,Zeltinger Platz
+Point,13.288740692116733,52.63277245909478,Brunnen,Große Fontäne,Ludofingerplatz 7
+Point,13.288160723207143,52.632513831307925,Brunnen,Rechteckbrunnen,Ludofingerplatz 7
+Point,13.290813985173838,52.633668041514134,Brunnen,Kaskadenbrunnen,Zeltinger Platz
+Point,13.485892780920775,52.62125821828341,Brunnen,Brunnen Karow-Nord,
+Point,13.420899409008175,52.606841014216265,Brunnen,Zierbrunnen,
+Point,13.282608307398226,52.589688000775595,Brunnen,Schinkelbrunnen,
+Point,13.327966548225426,52.56377206386149,Brunnen,Wassertempel,
+Point,13.284169511766079,52.5897155261534,Brunnen,Felsenbrunnen,Gorkistraße 2
+Point,13.328355055450643,52.564120497958235,Brunnen,Wassertempel,
+Point,13.327398396849674,52.56400541237869,Brunnen,Wassertempel,
+Point,13.330900245837451,52.54972391120829,Brunnen,Rathenaubrunnen,
+Point,13.327716941682157,52.56432577885542,Brunnen,Wassertempel,
+Point,13.27215336165421,52.509359841438766,Brunnen,Blauer Obelisk,Theodor-Heuss-Platz
+Point,13.28920050295668,52.50319294669212,Brunnen,Große Kaskaden,
+Point,13.269940203274853,52.537967504412784,Brunnen,Jugendplatzbrunnen,
+Point,13.308024919168535,52.503253142498295,Brunnen,St. Georg-Brunnen,
+Point,13.33111864237951,52.52917276470115,Brunnen,Springbrunnen,Waldstraße / Waldenserstraße
+Point,13.312685487331636,52.500829897705735,Brunnen,Jungschwanenbrunnen,Leibnizstraße / Kurfürstendamm
+Point,13.289590865075434,52.50926679999275,Brunnen,Rundbecken mit Fontäne,
+Point,13.313169516777121,52.49952141482881,Brunnen,Drei Brunnenschalen,
+Point,13.299410480245257,52.5045445218857,Brunnen,Spielbrunnen,
+Point,13.313725019448633,52.50183601669785,Brunnen,Wasserfontäne,
+Point,13.295448230243778,52.52249691263473,Brunnen,Schlossbrunnen (SPSG),
+Point,13.30721528476826,52.50069546790299,Brunnen,Säule in der Brandung,Adenauerplatz
+Point,13.304797832010097,52.52614838483498,Brunnen,Rundbecken mit Fontäne,Mierendorffplatz
+Point,13.323331091180169,52.51069449202969,Brunnen,Entenbrunnen,Hardenbergstraße
+Point,13.294749884809951,52.513272727456496,Brunnen,Brunnenstelen,
+Point,13.46092562242753,52.55535285284351,Brunnen,Plansche am Weißen See,
+Point,13.464117514272818,52.554209555512536,Brunnen,Fontäne im Weißen See,
+Point,13.592075185493625,52.44017077994362,Brunnen,Springbrunnen,Salvador-Allende-Straße / Pablo-Neruda-Straße
+Point,13.40654029691584,52.5785216885117,Brunnen,Großer Springbrunnen,
+Point,13.409944004254466,52.57064395829236,Brunnen,Tröpfelbrunnen,Breite Straße / Berliner Straße
+Point,13.396064580226298,52.569355637976265,Brunnen,Großer Springbrunnen,Bürgerpark Pankow
+Point,13.376535650272524,52.55027721663437,Brunnen,Brunnenschale mit Fontäne,Brunnenplatz
+Point,13.393535752680602,52.57005438609737,Brunnen,Springbrunnen im Rosengarten,Bürgerpark Pankow
+Point,13.547445754660245,52.437954251219246,Brunnen,Brunnen Marktplatz Adlershof,Marktplatz Adlershof / Dörpfeldstraße
+Point,13.553491429757987,52.4352242169436,Brunnen,Kleine Elefanten,Arndtplatz
+Point,13.525158536161022,52.40250781270166,Brunnen,Der Wasservorhang,Schönefelder Chaussee 239
+Point,13.420204064691058,52.54273266763253,Brunnen,Zwei Bären,
+Point,13.440112120943425,52.5185773382481,Brunnen,Seerosenbrunnen,
+Point,13.465102889594982,52.50763354408448,Brunnen,Nilpferdbrunnen,Wühlischplatz / Holteistraße
+Point,13.432502910010877,52.49887058917058,Brunnen,Hausbrunnen,
+Point,13.45729188879451,52.51569795871514,Brunnen,Brunnenbecken,
+Point,13.444433911048831,52.54245133957681,Brunnen,Brunnenbecken,
+Point,13.482326561625717,52.51186506054341,Brunnen,Keramikbrunnen,Frankfurter-Allee 144
+Point,13.443800101531489,52.515401473564786,Brunnen,Fontäne,
+Point,13.428293968417,52.518527705044015,Brunnen,Schwebender Ring,Strausberger Platz
+Point,13.424339464613562,52.50205495536116,Brunnen,Feuerwehrbrunnen,Mariannenplatz
+Point,13.469961813407524,52.510944658052914,Brunnen,Erdquell,Traveplatz
+Point,13.432880569073914,52.53687082634172,Brunnen,Plansche auf dem Spielberg,
+Point,13.495648641741075,52.534591532462144,Brunnen,Findlingsbrunnen,Landsberger Allee 277
+Point,13.44475491858546,52.542401738096984,Brunnen,Brunnenbecken,
+Point,13.478077556221283,52.51377424337094,Brunnen,Jüngling mit Fisch,
+Point,13.424899682021346,52.539380725195414,Brunnen,Kinder unterm Regenschirm,Mittelpromenade Metzer Straße
+Point,13.434562310113451,52.52765251534228,Brunnen,Wasserglocke,Volkspark Friedrichshain
+Point,13.4368087865689,52.5388347218226,Brunnen,Knabe mit Fisch,Greifswalder Straße / Anton-Saefkow-Straße
+Point,13.416154547248688,52.50284838743245,Brunnen,Drachenbrunnen,Oranienplatz
+Point,13.4189823202791,52.51573775588654,Brunnen,Pfauenbrunnen,
+Point,13.486188914355242,52.53518412745845,Brunnen,Wasserstein,
+Point,13.459216005154564,52.511068768369284,Brunnen,Plansche,Boxhagener Platz
+Point,13.417555553908151,52.50475581717176,Brunnen,Indischer Brunnen,Leuschnerdamm 15
+Point,13.428356997652546,52.526984222532576,Brunnen,Plansche,
+Point,13.471516673164405,52.530164714320264,Brunnen,Kugelbrunnen,Anton-Saefkow-Platz 13
+Point,13.430424584027906,52.52371111157571,Brunnen,Findlingsbrunnen,Platz der Vereinten Nationen
+Point,13.457492658971198,52.515677019664,Brunnen,Brunnenbecken,
+Point,13.437144758445637,52.533023758815055,Brunnen,Stierbrunnen,Arnswalder Platz
+Point,13.426744160777407,52.527948010588894,Brunnen,Märchenbrunnen,
+Point,13.460869509798949,52.51966735064679,Brunnen,Plansche,Proskauer Straße 20
+Point,13.432374144444502,52.53928531683957,Brunnen,Sprudel vor der Ladenzone,Ernst-Thälmann-Park
+Point,13.43463296693523,52.51748369968581,Brunnen,Brunnenbecken Karl-Marx-Allee,Karl-Marx-Allee 70
+Point,13.42770117028941,52.52785341267081,Brunnen,Delphinbrunnen,Volkspark Friedrichshain
+Point,13.445069872684552,52.54023681825426,Brunnen,Plansche Einsteinpark,Einsteinpark
+Point,13.469343178638617,52.53317203871101,Brunnen,Vogelbrunnen,Judith-Auer-Straße 4-9
+Point,13.457163985582625,52.51570913025481,Brunnen,Brunnenbecken,
+Point,13.471793491709242,52.529369521999165,Brunnen,Wasserspiele,Anton-Saefkow-Platz 8
+Point,13.45761947348157,52.5156636847271,Brunnen,Brunnenbecken,
+Point,13.444085042720467,52.54252188257736,Brunnen,Brunnenbecken,
+Point,13.450532811773108,52.52124419536221,Brunnen,Kugelbrunnen,Petersburger Platz
+Point,13.198652407133237,52.533967236476855,Brunnen,Brunnen,
+Point,13.290494494911567,52.420600106395305,Brunnen,Lindenbrunnen,
+Point,13.29406208928254,52.422089249493474,Brunnen,Brunnentempel,Parkfriedhof Lichterfelde / Thuner Platz 2-4
+Point,13.335763269784593,52.609327602117766,Brunnen,Brunnen,
+Point,13.359227120959426,52.5170617653485,Brunnen,Tritonbrunnen,Großfürstenplatz
+Point,13.395509297713184,52.5239526654846,Brunnen,Schalenbrunnen,Monbijoupark
+Point,13.401011458684183,52.51198884349604,Brunnen,Spindlerbrunnen,Kleine Kurstraße 33
+Point,13.347936103192552,52.51683523699522,Brunnen,Froschbrunnen,Englischer Garten / Altonaer Straße 2
+Point,13.377724469817753,52.50568547874461,Brunnen,Brunnen an der Bernburger Str.,Bernburger Straße 15
+Point,13.39813609622725,52.51561385201948,Brunnen,Bärenbrunnen,Werderscher Markt / Schinkelplatz
+Point,13.392662093683912,52.51361456486327,Brunnen,Schillerbrunnen,
+Point,13.385481332614937,52.519991977071186,Brunnen,Kleine Liebessäule,
+Point,13.348095658189674,52.5167131352251,Brunnen,Froschbrunnen,
+Point,13.348182641218912,52.51686959045929,Brunnen,Froschbrunnen,
+Point,13.39513452530381,52.53256812476562,Brunnen,Geldzählerbrunnen,Pappelplatz
+Point,13.402444452816825,52.532004613484,Brunnen,Plansche,
+Point,13.378931228704296,52.51599305962842,Brunnen,Historische Brunnen,
+Point,13.406828998652408,52.51667934156027,Brunnen,Wappenbrunnen,
+Point,13.397111494072007,52.501847387694404,Brunnen,Brunnen am Berliner-Museum,
+Point,13.376350243447083,52.529245508348005,Brunnen,"Wasseranlage ""Sinkende Mauern""",
+Point,13.357288887628847,52.51359020185304,Brunnen,Brunnenschale,Gorßer Tiergarten
+Point,13.389932399614365,52.501499880717816,Brunnen,Nichtgeburtstagskaffeekanne,Theodor-Wolff-Park
+Point,13.391772642336498,52.498964809642594,Brunnen,Friedenssäule,Mehringplatz
+Point,13.340715029507201,52.505594033765234,Brunnen,Ammonitenbrunnen,Olof-Palme-Platz
+Point,13.39785991647114,52.51934813435404,Brunnen,Scholle auf dem Trockenen,Am Lustgarten 1
+Point,13.404436923230358,52.546193087610426,Brunnen,Walrosse,
+Point,13.347892850204142,52.51675537623734,Brunnen,Froschbrunnen,
+Point,13.374945193100118,52.51202789013646,Brunnen,Lessing,
+Point,13.34798073783181,52.51691323787879,Brunnen,Froschbrunnen,
+Point,13.40599410846936,52.50351288495696,Brunnen,Brunnenschalen,
+Point,13.336507149418805,52.50468973919306,Brunnen,Wasserklops,
+Point,13.408037649715745,52.52037708023181,Brunnen,Wasserkaskaden,
+Point,13.352590898321138,52.50504972857733,Brunnen,Kieselwaschbeton,
+Point,13.398676062335959,52.518121093237355,Brunnen,Überlaufstein,
+Point,13.343239421947152,52.50227067399884,Brunnen,Nordbrunnen,Wittenbergplatz
+Point,13.408357133684973,52.52012820772912,Brunnen,Wasserkaskaden,
+Point,13.37880671655443,52.51670138077815,Brunnen,Historische Brunnen,
+Point,13.396535753228488,52.51306447739618,Brunnen,Historischer Brunnen,Hausvogteilplatz
+Point,13.399677494220382,52.51858404207181,Brunnen,Modemer Brunnen,Am Lustgarten 1
+Point,13.352804500758786,52.504945779969574,Brunnen,Kieselwaschbeton,
+Point,13.360573657605121,52.503664102153095,Brunnen,Pferdetränke,
+Point,13.401980201806417,52.53728546736315,Brunnen,Historische Pumpe,Arkonaplatz
+Point,13.369413479957673,52.54466958067466,Brunnen,Tanz auf dem Vulkan,
+Point,13.352702616398135,52.50500240826457,Brunnen,Kieselwaschbeton,
+Point,13.40567388767118,52.50359336514006,Brunnen,Brunnenschalen,Ritterstraße
+Point,13.371553872834689,52.52015213931222,Brunnen,Forum am Kanzleramt,Wasserbecken
+Point,13.406834807139683,52.519599321781165,Brunnen,Neptunbrunnen,Rathausstraße 1
+Point,13.34384331953729,52.53190554993702,Brunnen,Forellenbach,
+Point,13.348139949195291,52.51679362179575,Brunnen,Froschbrunnen,
+Point,13.342714276257743,52.50135992290833,Brunnen,Südbrunnen (Lebensalter),Wittenbergplatz
+Point,13.408889388642521,52.531825826657396,Brunnen,Froschkönig,
+Point,13.412776275259464,52.52201803684569,Brunnen,Brunnen der Völkerfreundschaft,Alexanderplatz 9
+Point,13.398434476430268,52.541076848516646,Brunnen,Nilpferdbrunnen,
+Point,13.408224043142246,52.52252616682997,Brunnen,Markthallenbrunnen,Rosa-Luxenburg-Straße / Karl-Liebknecht-Straße
+Point,13.40825949069388,52.51683969010934,Brunnen,Trinkbrunnen zum Paddenwirt,
+Point,13.359294128266816,52.54715698183151,Brunnen,Brunnenschale,
+Point,13.398776903942101,52.54131307299111,Brunnen,Schwellenbrunnen,Vinetaplatz
+Point,13.386984685109844,52.547293896867586,Brunnen,Biberbrunnen,Rosengarten im Humboldhain
+Point,13.256473030118176,52.51883678327844,Brunnen,Becken mit Wasserfall,Brixplatz
+Point,13.26186193135757,52.54653651417247,Brunnen,Genoveva-Brunnen,
+Point,13.322311253753568,52.512582135719505,Brunnen,Brunnenanlage,
+Point,13.321654382454174,52.512687619104454,Brunnen,Brunnenanlage,
+Point,13.30634000853431,52.50775661487637,Brunnen,Kugelbrunnen,Wilmersdorfer Straße
+Point,13.289743653023054,52.50910196092592,Brunnen,Kleine Kaskaden,
+Point,13.307205509137289,52.51512026098543,Brunnen,Springbrunnen,
+Point,13.194850720831028,52.569701838047834,Brunnen,Brunnen,
+Point,13.676954888458166,52.406525592960875,Brunnen,3 Brunnen,
+Point,13.56239241720719,52.55932712926365,Brunnen,Keramiksitzbrunnen,
+Point,13.577054828700875,52.54918048819413,Brunnen,Plansche Marzahn-Ost,
+Point,13.569147478900707,52.55315620340999,Brunnen,Brunnen mit Findling,
+Point,13.562853861322,52.55462407593654,Brunnen,Lindenbrunnen,
+Point,13.560750599828868,52.56769716490557,Brunnen,Kunst-Wassersprühfeld,
+Point,13.509425934256592,52.560932358767545,Brunnen,Mühlenradbrunnen,EKZ Am Mühlengrund / Rotkamp 2
+Point,13.573181765965137,52.56488633086324,Brunnen,Wasserspielplatz Clara-Zetkin-Park II,Rabensteiner Straße / Borkheider Straße
+Point,13.508381880474845,52.565767104178065,Brunnen,Brunnen der Jugend,Wustrowerstraße 22 / Stadtplatz Wartenberger Straße 174
+Point,13.580699678123553,52.5529621047876,Brunnen,Granitbrunnen,Parsteiner Ring / Glambecker Ring
+Point,13.502546908463893,52.5661415386348,Brunnen,Schalenbrunnen,Zingster Straße 16 / Schwimmhalle Zingster Straße
+Point,13.451060598303277,52.54772398313112,Brunnen,Antonplatz Süd,Berliner Allee 28-32 / Bizetstraße 21-23
+Point,13.422742972967816,52.519502649231214,Brunnen,Brunnen,
+Point,13.423408060973292,52.499470570767244,Brunnen,Wasserkaskade,
+Point,13.418296197507686,52.53392483635686,Brunnen,Löwenbrunnen,
+Point,13.556047953042603,52.546361442195796,Brunnen,Großes Bassin,
+Point,13.539427500690987,52.52755022675411,Brunnen,"Treppenbrunnen ""Generationen""",
+Point,13.564072704261243,52.54069816309215,Brunnen,Plansche am Anger,Allee der Kosmonauten 192-198
+Point,13.527715601912893,52.511454263509464,Brunnen,Kogge,
+Point,13.54535419698363,52.5429453910375,Brunnen,Eastgate,Marzahner Promenade 12-14
+Point,13.543484502595819,52.52191590681231,Brunnen,Plansche Südspitze,Marchwitzastraße / Heinz-Graffunder-Park / Märkische Allee 50
+Point,13.554105782513586,52.537970172558616,Brunnen,Tanz der Jugend,Pekrunstraße / Scheibenbergstraße
+Point,13.544567364342422,52.521910429899656,Brunnen,Sitzbrunnen,Märkische Allee 40 / Marchwitzastraße
+Point,13.52766548959568,52.40447092861503,Brunnen,Kugelbrunnen,
+Point,13.5842098292136,52.52074073313388,Brunnen,Springbrunnen,Clara-Zetkin-Platz / Niemegker Straße
+Point,13.60515824044617,52.53739836882623,Brunnen,Sprudelnde Fontänen,Alice-Salomon-Platz
+Point,13.095631456952983,52.41349375631676,Brunnen,Löwenfontäne (SPSG),
+Point,13.126514315511509,52.432131011138424,Brunnen,Fontäne (SPSG),
+Point,13.57451724638973,52.4440793390171,Brunnen,Waschfrau,Müggelheimer Straße
+Point,13.60017275589605,52.439775560217356,Brunnen,Brunnen mit Holzskulpturen,Alfred-Randt-Straße
+Point,13.324411508809646,52.46136117597073,Brunnen,Schalenbrunnen,
+Point,13.320611917438127,52.497778376375955,Brunnen,Brunnenschale mit Fontäne,Ludwigkirchplatz
+Point,13.291136065600465,52.49668560367934,Brunnen,Medusenhaupt,
+Point,13.32036781058681,52.47244013386133,Brunnen,Erikabrunnen,
+Point,13.263323187368435,52.48411175271668,Brunnen,Brunnenschale Wasserglocke,Douglasstraße 7-9
+Point,13.326500920924127,52.49429418824341,Brunnen,Delphin-Brunnen,Hohenzollernplatz
+Point,13.32154380485013,52.456997582142336,Brunnen,Fontänenbrunnen,Hermann-Ehlers-Platz
+Point,13.295146247641615,52.47930124669904,Brunnen,Knabe mit Fisch,Kissinger Platz
+Point,13.31520695932693,52.47311103398584,Brunnen,Siegfriedbrunnen,
+Point,13.328635120415193,52.49314099398973,Brunnen,Gänseliesel-Brunnen,
+Point,13.31962792164585,52.48933300505856,Brunnen,Wasserpilz,Leon-Jessel-Platz
+Point,13.32706691404668,52.4985045305771,Brunnen,Brunnen-Stele,
+Point,13.263663598269392,52.483963772572096,Brunnen,Brunnenschale mit Fontäne,
+Point,13.45800975754731,52.4731407164463,Brunnen,Brunnen Estrel Hotel,
+Point,13.26143297629738,52.426326826096066,Brunnen,Vogelbrunnen,
+Point,13.257056949723088,52.43344810842258,Brunnen,Brunnenplastik,
+Point,13.252859671453212,52.43980417097837,Brunnen,Schöpfbrunnen,
+Point,13.257725757609393,52.43535338923452,Brunnen,Zeli-Brunnen,Martin-Buber-Straße / Potsdamer Straße
+Point,13.31203538989542,52.442767537539304,Brunnen,Wappenbrunnen,Ludwig-Beck-Platz
+Point,13.232262392042754,52.43804290875469,Brunnen,Brunnen Mexikoplatz,
+Point,13.232991783902499,52.437772705412186,Brunnen,Brunnen Mexikoplatz,Mexikoplatz
+Point,13.219719438355604,52.42411931470824,Brunnen,Findlingsbrunnen,Am Rohrgarten 89 / Barkenhof
+Point,13.444126331133955,52.484307669393054,Brunnen,Mühlensteinbrunnen,
+Point,13.470983651034176,52.467359164208816,Brunnen,Märchenbrunnen,
+Point,13.469043092198346,52.491281067391355,Brunnen,Wolf und Kranich,
+Point,13.43949651957794,52.498249818645256,Brunnen,Straßenbrunnen,
+Point,13.43789642825195,52.466287791041864,Brunnen,Treppenbrunnen,
+Point,13.416399359330288,52.483125170604055,Brunnen,Brunnen mit Rosenspalier,
+Point,13.440645583616153,52.496312822508415,Brunnen,Teichlauf,
+Point,13.435374315878555,52.48114926245458,Brunnen,Rathausbrunnen,Karl-Marx-Straße 83
+Point,13.439002170867571,52.47148400494495,Brunnen,Kaskade,
+Point,13.4411084802448,52.473648751209986,Brunnen,Imaginäres Theater,
+Point,13.485368431702843,52.464631349220916,Brunnen,Springbrunnen Baumschulenweg,Baumschulenstraße 79
+Point,13.468851160845764,52.49057262538869,Brunnen,Wasserfontänen Rosengarten,Treptower Park / Puschkinallee
+Point,13.438533369330214,52.471425875311645,Brunnen,Springbrunnen,Körnerpark / Schierker Straße 8
+Point,13.479379068176305,52.48391835894638,Brunnen,Fischerbrunnen,
+Point,13.44005102203124,52.496219677053716,Brunnen,Schmuckgartenbrunnen,
+Point,13.475090243528406,52.47943716582447,Brunnen,Schalenbrunnen,S-Bahnhof Plänterwald / Köpenicker Landstraße
+Point,13.429888160187776,52.489270908100245,Brunnen,Fritz-Reuter-Brunnen,
+Point,13.36078167483051,52.48810994251832,Brunnen,Straßenbrunnen,
+Point,13.335148996044744,52.475651635974465,Brunnen,Sintflutbrunnen,
+Point,13.381774310212213,52.488301120380854,Brunnen,Wasserfälle,
+Point,13.340007794055277,52.48904727359862,Brunnen,Springbrunnen mit Kleinstfontänen und Wasserlauf,Bayerischer Platz
+Point,13.349310853514499,52.49211859359519,Brunnen,Kinderbrunnen,
+Point,13.400479482753447,52.49671342344148,Brunnen,Brunnenstein,
+Point,13.38357007389689,52.465821709017796,Brunnen,Eva-Brunnen,Alt-Tempelhof 29 
+Point,13.357799317035825,52.497583333290834,Brunnen,Dreierbrunnen,
+Point,13.35650466428885,52.49785370993601,Brunnen,Kleiner Brunnen,
+Point,13.341828942936543,52.47474515677796,Brunnen,Fuchsbrunnen,Ceciliengärten
+Point,13.341861221611802,52.4957425710426,Brunnen,Springbrunnen mit Kleinstfontänen und Wasserlauf,Viktoria-Luise-Platz
+Point,13.343999917186778,52.483354841403866,Brunnen,Hirschbrunnen,Rudolph-Wilde-Park
+Point,13.395729387603174,52.48919133665539,Brunnen,Fünf-Wasser-Tiegel,
+Point,13.344302020839429,52.4776830497821,Brunnen,Drei Brunnensäulen,Innsbrucker Platz
+Point,13.33304743822797,52.49318402812532,Brunnen,Brunnenschale mit Fontäne,Prager Platz
+Point,13.34190100692362,52.473480457749,Brunnen,Fontäne Ceciliengärten,Ceciliengärten
+Point,13.377880705526339,52.46378036574922,Brunnen,Kleiner Brunnen im Bosepark,
+Point,13.382370891119189,52.46405270997857,Brunnen,Löwenbrunnen,
+Point,13.359406066065203,52.49725906234305,Brunnen,Runder Brunnen,Frobenstraße 12-17
+Point,13.37878431502944,52.47819750633393,Brunnen,Storchenbrunnen,Adolf-Scheidt-Platz
+Point,13.343634166568874,52.47910380235531,Brunnen,Säulenbrunnen,Innsbrucker Straße
+Point,13.391184137379717,52.48829781269507,Brunnen,Brunnen Chamissoplatz,Chamissoplatz
+Point,13.413106802370105,52.492090613442194,Brunnen,Wrangelbrunnen,
+Point,13.384725141370726,52.465909644268294,Brunnen,Schulze-Seehof-Brunnen,
+Point,13.434062143101894,52.42833627420933,Brunnen,Fette Henne,
+Point,13.463635967559512,52.42435991902518,Brunnen,Brunnen Lipschitzallee,Lipschitzallee 67
+Point,13.431440550960655,52.430441499747026,Brunnen,Zierbrunnen im Parkfriedhof,
+Point,13.43993276638417,52.446422924984695,Brunnen,Achteckige Vogeltränke,
+Point,13.447161202593566,52.43713718531219,Brunnen,Eulenbrunnen,
+Point,13.439280134337885,52.446746049682304,Brunnen,Milchmädchen,
+Point,13.438446721036247,52.44668722309928,Brunnen,Fontänenbrunnen,
+Point,13.461829516911825,52.42549656524647,Brunnen,Brunnen Lipschitzplatz,
+Point,13.345578015377374,52.44022978018689,Brunnen,Großer Springbrunnen,
+Point,13.343211044782763,52.43862194613537,Brunnen,Vier-Winde-Brunnen,
+Point,13.39142214457153,52.44238037454162,Brunnen,Drei Mühlsteine,
+Point,13.335597509042861,52.448526756358625,Brunnen,Brunnen Stadtpark Steglitz,Albrechtstraße 47
+Point,13.370570434491132,52.41113800332961,Brunnen,Fontänen-Brunnen,Alt-Marienfelde
+Point,13.50653507257397,52.49363397605247,Brunnen,Kugelbrunnen,
+Point,13.521153503773933,52.49797166779079,Brunnen,Fontanebrunnen,Erich-Kurz-Straße 7-9
+Point,13.519827614857254,52.497236492716205,Brunnen,Spree-Havel-Brunnen,Erich-Kurz-Straße 11-13
+Point,13.370258434527354,52.540455001284556,Brunnen,Brunnen Weddingplatz,
+Point,13.427385984837901,52.52095669034073,Brunnen,Plansche,
+Point,13.510586911232904,52.494044183646814,Brunnen,Sprühfontäne,
+Point,13.624363320793835,52.45111183727954,Brunnen,Seidenkokons,
+Point,13.67686457644453,52.40698553897451,Brunnen,3 Brunnen,Gosener Landstraße 1
+Point,13.67699198978784,52.40628006984016,Brunnen,3 Brunnen,
+Point,13.398550380102128,52.516718196294974,Brunnen,Brunnen Schinkelplatz,Schinkelplatz
+Point,13.346054532044844,52.53296363752244,Brunnen,Paech-Brunnen,
+Point,13.392834354647633,52.510325662838014,Brunnen,Brunnen,
+Point,13.39350498535424,52.51037043800244,Brunnen,Brunnen,
+Point,13.394533886524647,52.54055322108558,Brunnen,3 Säulen-Brunnen,
+Point,13.37604470034483,52.517294716984786,Brunnen,Brunnen,
+Point,13.34696537421546,52.52298251008115,Brunnen,Kugelbrunnen,
+Point,13.393103522583864,52.54368687033392,Brunnen,Brunnenpavillion,
+Point,13.345911907912638,52.515823435046165,Brunnen,Brunnen,
+Point,13.34339078462869,52.50478342149333,Brunnen,Brunnen,
+Point,13.339195948619325,52.5069528172381,Brunnen,Brunnen,
+Point,13.341613580581795,52.50619286467081,Brunnen,Brunnen,
+Point,13.377859097409203,52.48105572297137,Brunnen,Garten der Blumen und Wasserspiele,
+Point,13.354615538329053,52.49819312986781,Brunnen,Kleiner Brunnen & Sechseckiger Brunnen,
+Point,13.363156596568269,52.495758090753334,Brunnen,4 Straßenbrunnen,
+Point,13.357058251747803,52.48648960775295,Brunnen,Fontänen am Stadtplatz (Lichtbrunnen),
+Point,13.367549676318102,52.45654556873942,Brunnen,Gärtnerbrunnen,
+Point,13.57295972491529,52.54280860117952,Brunnen,Brunnen,
+Point,13.573592146349842,52.54266643676485,Brunnen,MHP13 Plansche,Altlandsberger Platz
+Point,13.54350565464431,52.52519487279659,Brunnen,"Tröpfelbrunnen ""Gedeckter Tisch""",
+Point,13.551851425501624,52.545390560885195,Brunnen,Treppenbrunnen mit Sandsteinfiguren,Marzahner Promenade 38-40
+Point,13.521863654683344,52.508035574013334,Brunnen,Brunnen mit Sandsteinplastik,
+Point,13.437448540766377,52.51516532584726,Brunnen,Brunnen,
+Point,13.438099558447291,52.51488208110257,Brunnen,Brunnen Ellen-Key-Schule,Rüdersdorfer Straße
+Point,13.464484910068416,52.510592245270715,Brunnen,Wismarplatz Gulliver,Wismarplatz
+Point,13.429402822597048,52.547856372969065,Brunnen,Brunnenanlage,
+Point,13.500173119279365,52.5265454369163,Brunnen,Findlingsbrunnen,
+Point,13.41127367764812,52.551667741106876,Brunnen,Bettinas Bank,
+Point,13.34671559505316,52.5600414159573,Brunnen,Plansche,Schillerpark / Dubliner Straße / Bristolstraße
+Point,13.352902617821604,52.59781227442435,Brunnen,Fontanebogen,
+Point,13.365128556625713,52.563298166717814,Brunnen,Springbrunnen,Franz-Neumann-Platz
+Point,13.30238554205598,52.49942499112784,Brunnen,Wassertisch am Lehniner Platz,Lehniner Platz
+Point,13.342373997714235,52.449192861507576,Brunnen,Brunnen Markusplatz,Karl-Stieler / Heinrich-Seidel / Liliencronstraße
+Point,13.354394900313231,52.59608125761941,Brunnen,Brunnen am Stadtplatz Märkisches Viertel,
+Point,13.38456740102285,52.46331327801118,Brunnen,Sprudel und Wasserlauf am Klarensee,
+Point,13.441205922263283,52.55846303799447,Brunnen,DGZ Brunnen,
+Point,13.397477821131856,52.52593683899131,Brunnen,Agathabrunnen,
+Point,13.401845125893434,52.546330693955284,Brunnen,Wasserlauf,
+Point,13.387565629019418,52.53109432756719,Brunnen,Plansche,
+Point,13.39885080261093,52.52041452674938,Brunnen,Brunnen,
+Point,13.379531123733308,52.46391584827144,Brunnen,Kobraquelle,
+Point,13.37606448638196,52.524562257085776,Brunnen,2 Brunnen,
+Point,13.346414149948336,52.539342990205036,Brunnen,Brunnen,
+Point,13.47263240924276,52.526202509208005,Brunnen,Plansche Rudolf-Seiffert-Park,Rudolff-Seiffert-Park 
+Point,13.423593083178488,52.51695590830806,Brunnen,Plansche Singerstraße,
+Point,13.364910644777048,52.53271613179649,Brunnen,Brunnen,
+Point,13.366827156278639,52.53331591261888,Brunnen,Wasserstein Otto-Weidt-Platz,Otto-Weidt-Platz
+Point,13.526923607876643,52.40344013523085,Brunnen,Wasserüberlaufbecken,
+Point,13.606710523438208,52.54060783691353,Brunnen,Dreiecksbrunnen,
+Point,13.591180520422672,52.5212953700372,Brunnen,Die Begegnung,
+Point,13.595547417039851,52.54180113337934,Brunnen,Postmeilensäule,
+Point,13.56247726537158,52.55204039799798,Brunnen,Plansche,
+Point,13.337673229842332,52.50746132641018,Brunnen,Brunnen,
+Point,13.444312292284517,52.4978912649903,Brunnen,Cuvrybrunnen,
+Point,13.476136033378099,52.48825952091129,Brunnen,Brunnengalerie Blumenschau,Treptower Park / Puschkinallee
+Point,13.547618631885598,52.46091163815612,Brunnen,FEZ-Brunnen,
+Point,13.556292636279348,52.552976061116276,Brunnen,Sprudelnde Kugeln,Sella-Hasse-Straße 25
+Point,13.611685986353661,52.54138054058301,Brunnen,Plansche,Zerbster Straße 64
+Point,13.56866197973482,52.527572051077485,Brunnen,MHP23 Plansche,Fred-Löwenberg-Platz / Wuhlestraße 24
+Point,13.29941932,52.50456879,Brunnen,Spielbrunnen,Stuttgarter Platz / Leonhardtstraße
+Point,13.4283463,52.52700362,Brunnen,Plansche Volkspark ,Volkspark Friedrichshain
+Point,13.46638352,52.5050015,Brunnen,Plansche Annemirl-Bauer-Platz,Annemirl-Bauer-Platz
+Point,13.39373601,52.50413189,Brunnen,Plansche Besselpark,Besselpark
+Point,13.44136623,52.49483078,Brunnen,Plansche Görlitzer Park,Görlitzer Park
+Point,13.4741021,52.53112151,Brunnen,Plansche beim Spielplatz im Fennpfuhlpark,Fennpfuhlpark
+Point,13.55598855,52.54635954,Brunnen,MHP10 Plansche Freizeitforum,Victor-Klemperer-Platz
+Point,13.555148,52.50583504,Brunnen,"MHP24 Plansche Stadtgarten Biesdorf  ""Zirkuszelt""",Elsterwerdaer Platz
+Point,13.560716,52.56772004,Brunnen,MHP17 Plansche Marzahn West,Geraer Ring 32
+Point,13.577058,52.54921804,Brunnen,MHP18 Plansche Marzahn Ost,Landsberger Allee / Hohensaatener Straße / Ringenwalder Straße
+Point,13.42361551,52.51694369,Brunnen,"Singerstr., Plansche",Singerstraße
+Point,13.42744571,52.52106343,Brunnen,Weydemeyerstr.,Weydemeyerstraße
+Point,13.40241058,52.5319862,Brunnen,Volkspark am Weinbergsweg,Volkspark am Weinbergsweg
+Point,13.38760264,52.53110538,Brunnen,Eichendorffstr. Wasserspielbereich (Invalidenstr.),Eichendorffstraße / Invalidenstraße
+Point,13.33364189,52.54549297,Brunnen,Goethepark Spielplatz südl. d. Kreuzung (Dohnagesell),Goethepark / Dohnagesell
+Point,13.432861,52.53688904,Brunnen,Plansche auf dem Spielberg im Thälmann-Park,Ernst-Thälmann-Park
+Point,13.460917,52.55538904,Brunnen,Plansche Weißensee Park,Park am Weißen See
+Point,13.489014,52.48135104,Brunnen,Plansche Plänterwald,Dammweg 1c
+Point,13.433587,52.52910204,Brunnen,Volkspark Friedrichshain,Volkspark Friedrichshain
+Point,13.474248,52.51298604,Brunnen,Frankfurter Allee 104-106,Frankfurter Allee 104-106
+Point,13.466259,52.50450804,Brunnen,Annemirl Bauer Platz,Annemirl Bauer Platz
+Point,13.472535,52.51535904,Brunnen,Schleidenplatz,Schleidenplatz
+Point,13.461034,52.52004304,Brunnen,Forckenbeckplatz,Forckenbeckplatz
+Point,13.445154,52.51016304,Brunnen,Wriezener Bhf / Rüdersdorfer Str,Wriezener Bhf / Rüdersdorfer Str
+Point,13.378288,52.50276404,Brunnen,Mendelsson Bartholdy Park,Mendelsson Bartholdy Park
+Point,13.405444,52.50539504,Brunnen,Waldeckpark,Waldeckpark
+Point,13.452467,52.51628204,Brunnen,Frankfurter Tor,Frankfurter Tor
+Point,13.464381,52.51058704,Brunnen,Wismarplatz,Wismarplatz
+Point,13.38135,52.48968904,Brunnen,Viktoriapark,Viktoriapark
+Point,13.426682,52.50485004,Brunnen,Mariannenplatz,Mariannenplatz
+Point,13.416187,52.50300704,Brunnen,Oranienplatz,Oranienplatz
+Point,13.435926,52.49786704,Brunnen,Görlitzer Park,Görlitzer Park
+Point,13.444275,52.49787504,Brunnen,Cuvrystraße,Cuvrystraße
+Point,13.44367846,52.51565627,Brunnen,Seefontäne Weberwiese,Teich Weberwiese
+Point,13.43433198,52.52490075,Brunnen,Seefontäne Kleiner Teich Volkspark,Volkspark Friedrichshain
+Point,13.43351325,52.52729366,Brunnen,Seefontäne Großer Teich Volkspark,Volkspark Friedrichshain
+Point,13.44411237,52.49502472,Brunnen,Seefontäne Görli,Görlitzer Park
+Point,13.38187708,52.48875777,Brunnen,Wasserfall Viktoriapark,Viktoriapark/ Kreuzbergstraße
+Point,13.3831292,52.48767902,Brunnen,Wasserfall Wolfsschlucht,Viktoriapark
+Point,13.43491066,52.52646217,Brunnen,Bachlauf Volkspark,Volkspark Friedrichshain
+Point,13.44079261,52.49624774,Brunnen,Bachlauf Görli,Görlitzer Park
+Point,13.47400013,52.52829908,Brunnen,Schwimm-Fontäine,Anton-Saefkow-Platz / Fennpfuhlplatz
+Point,13.41829194,52.50581435,Brunnen,Fontänen im Engelbecken,Michaelkirchplatz 25
+Point,13.39863515,52.51809739,Brunnen,Überlaufstein Lustgarten,Kupfergraben
+Point,13.46275,52.55469404,Brunnen,Fontäne im Weißen See,Weißer See
+Point,13.40188468,52.54628315,Brunnen,Wasserlauf Quellstein bis Becken Falkplatz,Falkplatz
+Point,13.434583,52.53877804,Brunnen,Wasserfall am Teich im Thälmann-Park,Ernst-Thälmann-Park
+Point,13.34806494,52.60189153,Brunnen,Schwimmfontäne,Seggeluchbecken 
+Point,13.28961202,52.50924498,Brunnen,Kleine Kaskaden (einschließlich Rundbecken mit Fontäne),Lietzenseepark Nord / Wundtstraße
+Point,13.28917354,52.50335253,Brunnen,Große Kaskade,Lietzenseepark Süd / Dernburgstraße
+Point,13.31330761,52.49952446,Brunnen,Olivaer Platz Schmuckstein,Olivaer Platz
+Point,13.33650166,52.50464257,Brunnen,"Weltkugelbrunnen ""Wasserklops""",Breitscheidplatz
+Point,13.32868526,52.49319794,Brunnen,Gänselieselbrunnen,Nikolsburger Platz
+Point,13.31524598,52.47311668,Brunnen,Siegfriedbrunnen (Rosslenkerbrunnen),Rüdesheimer Platz
+Point,13.29132949,52.49671438,Brunnen,"Gorgobrunnen ""Medusa""",Henriettenplatz
+Point,13.32702155,52.49850368,Brunnen,Brunnen-Stele,Fasanenplatz
+Point,13.31355343,52.50189881,Brunnen,Wasserfontäne,Walter-Benjamin-Platz / Leibnizstraße
+Point,13.32216099,52.51261732,Brunnen,Brunnenanlage mit 2 Becken und Fontänen,Ernst-Reuter-Platz
+Point,13.29487282,52.51323227,Brunnen,Brunnenstelen,Knobelsdorffstraße / Wundtstraße / Kläre-Bloch-Platz
+Point,13.33107338,52.50016518,Brunnen,Granitstelen mit Fontänen,Friedrich-Hollaender-Platz 
+Point,13.3080258,52.50327661,Brunnen,St. Georg-Brunnen,Hindemithplatz
+Point,13.42677581,52.52795209,Brunnen,Märchenbrunnen,"Volkspark Friedrichshain, "
+Point,13.4130661,52.49208926,Brunnen,Wrangelbrunnen,Grimmstraße / Urbanstraße
+Point,13.44008609,52.49626656,Brunnen,Schmuckgarten-Brunnen,Görlitzer Park
+Point,13.43248653,52.49889806,Brunnen,Hausbrunnen im Görli,Görlitzer Park
+Point,13.44425824,52.49781435,Brunnen,Cuvrybrunnen,Cuvrystraße
+Point,13.3956833,52.48919564,Brunnen,Fünf-Wasser-Tiegel Brunnen,Marheinekeplatz
+Point,13.40050118,52.49672665,Brunnen,Brunnenstein Altes Zollhaus,Carl-Herz-Ufer
+Point,13.43947227,52.49830076,Brunnen,Straßenbrunnen Oppelner Straße,Oppelner Straße
+Point,13.39140298,52.50381327,Brunnen,Wunschbrunnen Besselpark,Besselpark
+Point,13.45739949,52.51569654,Brunnen,Frankfurter Allee Nr.13/15,Frankfurter Allee 13-15
+Point,13.50653303,52.49381637,Brunnen,Kugelbrunnen,Dolgenseestraße 11-11a
+Point,13.521855,52.50805304,Brunnen,Brunnen m. Sandsteinpl.,Charlottenstraße / Schloßachse
+Point,13.486158,52.53526004,Brunnen,Findlingsbrunnen,Landsberger Allee 225-227
+Point,13.565073,52.51036004,Brunnen,MHP22 Fontaine Schlosspark Biesdorf,Schlosspark Biesdorf
+Point,13.595048,52.53898504,Brunnen,"MHP26 Zierbrunnen ""Wasserspiel Gut Hellersdorf""",Stadtplatz Gut Hellersdorf / Alt-Hellersdorf
+Point,13.53947325,52.5275332,Brunnen,MHP03 Treppenbrunnen Generationen,Helene-Weigel-Platz 8
+Point,13.569059,52.55307504,Brunnen,MHP05 Brunnen mit Findling,Karl-Holtz-Platz 1-4 
+Point,13.562884,52.55462604,Brunnen,MHP08 Lindenbrunnen,Mehrower Allee 28 / Ludwig-Renn-Straße 58-60
+Point,13.55523753,52.54642764,Brunnen,MHP09 Zierbrunnen ,Victor-Klemperer-Platz
+Point,13.41479144,52.51330003,Brunnen,Neorenaissancebrunnen,Am Köllnischen Park / Rungestraße
+Point,13.35266849,52.50500194,Brunnen,Kieselwaschbetonbrunnen,Lützowplatz 16
+Point,13.36944134,52.5446786,Brunnen,Tanz auf dem Vulkan,Reinickendorfer Str. 110
+Point,13.40823338,52.51679019,Brunnen,Trinkbrunnen beim Paddenwirt,Nikolaikirchplatz / Eiergasse
+Point,13.40687542,52.51668901,Brunnen,Wappenbrunnen,Nikolaikirchplatz 14
+Point,13.37893663,52.5160248,Brunnen,2 Historische Springbrunnen,Pariser Platz
+Point,13.33091247,52.54974301,Brunnen,Rathenaubrunnen,Volkspark Rehberge
+Point,13.4189541,52.51571747,Brunnen,Pfauenbrunnen,Holzmarktstraße 75
+Point,13.39866026,52.54109852,Brunnen,Nilpferdbrunnen,Vinetaplatz
+Point,13.4081744,52.52022859,Brunnen,Wasserkaskaden am Fernseturm,Panoramastraße 1a
+Point,13.37496819,52.51205304,Brunnen,Lessingdenkmal,Gorßer Tiergarten
+Point,13.38548549,52.51996862,Brunnen,Kleine Liebessäule,Dorothea-Schlegel-Platz
+Point,13.36053252,52.50362521,Brunnen,Pferdetränke,Magdeburger Platz
+Point,13.344229,52.52576843,Brunnen,Wasserspiele im Gartendemkmal,Kleiner Tiergarten 
+Point,13.3701456,52.54049681,Brunnen,Brunnenschale Weddingplatz,Weddingplatz
+Point,13.36608748,52.55761724,Brunnen,Wasserbecken Louise-Schröder-Platz,Louise-Schröder-Platz
+Point,13.34233662,52.51702993,Brunnen,Wasserbecken Hansaplatz,Hansaplatz
+Point,13.37633672,52.52938201,Brunnen,"Wasseranlage von Girot, Invalidenbrunnen, Mauerbrunnen",Invalidenpark
+Point,13.41631,52.48314004,Brunnen,Brunnen mit Rosenspalier,Hasenheide
+Point,13.43942,52.44724004,Brunnen,Fontänenbrunnen,Fulhamer Allee / Alt Britz 73
+Point,13.47099,52.46740004,Brunnen,Märchenbrunnen,Von-der-Schulenburg-Park / Sonnenallee 297
+Point,13.43935,52.44677004,Brunnen,Milchmädchen,Fulhamer Allee / Alt Britz 73
+Point,13.408917,52.53183304,Brunnen,Froschkönig,Teutoburger Platz
+Point,13.410417,52.55169404,Brunnen,Stillleben Bettinas Bank,Arnimplatz / Seelower Straße 8
+Point,13.451083,52.54775004,Brunnen,Schmiedebankplatz ,Berliner Allee 28-32 / Bizetstraße 21-23
+Point,13.485917,52.62127804,Brunnen,Chronisteneck,Achillesstraße / Beerbaumstraße
+Point,13.418306,52.53394404,Brunnen,Löwenbrunnen Wasserturm,Wasserturmplatz / Rykestraße / Knaackstraße
+Point,13.420917,52.60686104,Brunnen,Kissenbrunnen Hugenottenplatz,Hugenottenplatz
+Point,13.444417,52.54247204,Brunnen,Drei Brunnenbecken ,Thomas Mann-Straße 14-18
+Point,13.39825,52.57083304,Brunnen,Brunnen mit Säulen,Grabbeallee / Pankebrücke
+Point,13.429389,52.54777804,Brunnen,Erich-Weinert-Str. / Prenzlauer Allee,Erich-Weinert-Straße / Ecke Prenzlauer Allee
+Point,13.404556,52.54619404,Brunnen,Walrosse auf dem Falkplatz,Falkplatz
+Point,13.415333,52.53186104,Brunnen,Paar in der Badewanne ,Mittelpromenade Metzer Straße
+Point,13.420194,52.54275004,Brunnen,Bärenbrunnen,Helmholtzplatz / Raumerstraße
+Point,13.28253949,52.58969727,Brunnen,Schinkelbrunnen,Alt-Tegel 2
+Point,13.37058381,52.56366556,Brunnen,Blüttenbrunnen,Letteplatz
+Point,13.28044347,52.62645089,Brunnen,Barbarossabrunnen,Paul-Poser-Platz
+Point,13.32799428,52.5637812,Brunnen,Vier Wassertempel,Kurt-Schumacher-Platz
+Point,13.35291837,52.59779509,Brunnen,Fontanebogen,Wihelmsruher Damm 142
+Point,13.30889069,52.59819812,Brunnen,Wasserfall am Steinbergsee,Lange Ende 1
+Point,13.21469947,52.56371038,Brunnen,Fontänenfeld,Goltzstrasse/ Mertensstrasse / Pepitapromenade
+Point,13.26991276,52.53798817,Brunnen,Jugendplatzbrunnen,Jugendplatz
+Point,13.3456128,52.44024349,Brunnen,Großer Springbrunnen,Bernkastler Platz
+Point,13.25295181,52.43981319,Brunnen,Schöpfbrunnen,Friedhof Onkel-Tom-Straße 30
+Point,13.25711588,52.43345273,Brunnen,Brunnenplastik,Martin-Buber-Straße / Kirchstraße
+Point,13.34328154,52.43862671,Brunnen,Vier-Winde-Brunnen,Leonorenstraße 70
+Point,13.32433442,52.46136426,Brunnen,Schalenbrunnen,Schildhornstraße / Schloßstraße
+Point,13.29052134,52.42062049,Brunnen,Lindenbrunnen,Parkfriedhof Lichterfelde
+Point,13.469539,52.49055704,Brunnen,Seerosenbecken  ,Treptower Park / Puschkinallee
+Point,13.547337,52.43787004,Brunnen,Fontäne Marktplatz Adlershof,Dörpfeldstraße 46
+Point,13.62439961,52.4511049,Brunnen,Nebelbrunnen Marktplatz Friedrichshagen,Bölschestraße 110-113
+Point,13.468577,52.49142604,Brunnen,Wolf und Kranich,Treptower Park / Puschkinallee
+Point,13.479348,52.48394504,Brunnen,Fischbrunnen Rathaus Treptow ,Bulgarische Staße. / Neue Krug Allee
+Point,13.35773845,52.49758165,Brunnen,Dreierbrunnen,Schwerinstraße 14 
+Point,13.32031511,52.47244468,Brunnen,Erikabrunnen,Adam-Kuckhoff-Platz
+Point,13.35707791,52.48652544,Brunnen,Fontänen auf dem Stadtplatz (Lichtbrunnen),Kaiser-Wilhelm-Platz
+Point,13.38619129,52.46587083,Brunnen,Schultze-Seehof-Brunnen,Alt-Tempelhof
+Point,13.34927056,52.49213714,Brunnen,Kinderbrunnen,Barbarossaplatz
+Point,13.37882404,52.4809687,Brunnen,Garten der Blumen und Wasserspiele,Park am Wolffring
+Point,13.33514966,52.47567015,Brunnen,Sintflutbrunnen,Perelplatz / Lauterstraße
+Point,13.36307307,52.49554669,Brunnen,Vier Straßenbrunnen,Steinmetzstraße / Alvenslebenstraße
+Point,13.35492557,52.49815567,Brunnen,Kleiner Brunnen Nollendorfstraße,Nollendorfstraße
+Point,13.36072649,52.48812029,Brunnen,Straßenbrunnen,Crellestraße / Helmstraße
