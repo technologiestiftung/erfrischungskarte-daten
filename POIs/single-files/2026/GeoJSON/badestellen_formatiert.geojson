@@ -1,0 +1,395 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Alter Hof",
+        "info": null,
+        "category": "Badestelle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.142278,
+          52.432705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bammelecke",
+        "info": null,
+        "category": "Badestelle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.622537,
+          52.407498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Breitehorn",
+        "info": null,
+        "category": "Badestelle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.179797,
+          52.465753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bürgerablage",
+        "info": null,
+        "category": "Badestelle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.211244,
+          52.584988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dämeritzsee",
+        "info": null,
+        "category": "Badestelle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.735113,
+          52.42692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Flughafensee",
+        "info": null,
+        "category": "Badestelle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.284889,
+          52.569786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gartenstraße, Flussbad",
+        "info": null,
+        "category": "Badestelle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.575727,
+          52.44094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Groß Glienicker See, nördlich",
+        "info": null,
+        "category": "Badestelle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.118568,
+          52.471755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Groß Glienicker See, südlich",
+        "info": null,
+        "category": "Badestelle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.114633,
+          52.460362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Große Krampe",
+        "info": null,
+        "category": "Badestelle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.65238,
+          52.389494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Große Steinlanke",
+        "info": null,
+        "category": "Badestelle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.190224,
+          52.450773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Grunewaldturm",
+        "info": null,
+        "category": "Badestelle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.194703,
+          52.482197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kleine Badewiese",
+        "info": null,
+        "category": "Badestelle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.18595,
+          52.484177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kleiner Müggelsee",
+        "info": null,
+        "category": "Badestelle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.677621,
+          52.428217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Krumme Lanke",
+        "info": null,
+        "category": "Badestelle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.232416,
+          52.45219
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lieper Bucht",
+        "info": null,
+        "category": "Badestelle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.196721,
+          52.469332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Radfahrerwiese",
+        "info": null,
+        "category": "Badestelle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.189634,
+          52.458612
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sandhauser Straße",
+        "info": null,
+        "category": "Badestelle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.220866,
+          52.594572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Schlachtensee",
+        "info": null,
+        "category": "Badestelle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.217128,
+          52.443358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Schmöckwitz",
+        "info": null,
+        "category": "Badestelle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.653285,
+          52.373237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Seddinsee",
+        "info": null,
+        "category": "Badestelle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.685492,
+          52.387203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tegeler See, gegenüber Reiswerder",
+        "info": null,
+        "category": "Badestelle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.256018,
+          52.568188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tegeler See, gegenüber Scharfenberg",
+        "info": null,
+        "category": "Badestelle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.244252,
+          52.575719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tegeler See, Reiherwerder",
+        "info": null,
+        "category": "Badestelle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.255193,
+          52.585638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tegeler See, Saatwinkel",
+        "info": null,
+        "category": "Badestelle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.246842,
+          52.56216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Teufelssee",
+        "info": null,
+        "category": "Badestelle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.234497,
+          52.490609
+        ]
+      }
+    }
+  ]
+}

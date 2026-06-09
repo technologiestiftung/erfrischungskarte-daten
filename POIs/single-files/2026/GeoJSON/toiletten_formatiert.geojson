@@ -1,0 +1,7640 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "nicht barrierefrei/unbekannt, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.412954,
+          52.52146304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "nicht barrierefrei/unbekannt, Preis: 0,20 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.20502778,
+          52.53686115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.28188985,
+          52.47667886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.20042906,
+          52.53547012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.32143252,
+          52.45726955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.49774032,
+          52.41580888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.34272706,
+          52.50246767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.28278846,
+          52.58985281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.39989808,
+          52.51946736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.31733472,
+          52.50148073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.37553913,
+          52.51637205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.43455729,
+          52.5114774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.40042936,
+          52.52199963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.35159522,
+          52.55038289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.306683,
+          52.50788054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.42529799,
+          52.48763154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.25962426,
+          52.43104299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4993597,
+          52.51063191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.43298563,
+          52.5235086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.40023511,
+          52.5806732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.45063157,
+          52.50761978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.32799011,
+          52.47259635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.385392,
+          52.47027304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.29939866,
+          52.4953413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.33060649,
+          52.52741493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.53803013,
+          52.52796843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.39849866,
+          52.38651789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.46301665,
+          52.42456742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.417025,
+          52.53558339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.38557447,
+          52.48458916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.20111111,
+          52.53833337
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.28900793,
+          52.63198584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.52601743,
+          52.48132519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.14891875,
+          52.45252504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.326157,
+          52.42769604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.45123671,
+          52.54816604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.40734653,
+          52.57025399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.43031102,
+          52.49996027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.19692124,
+          52.52515682
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.38791218,
+          52.44015877
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.28854597,
+          52.58819493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.29402034,
+          52.53625423
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.32505638,
+          52.49401386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.41194057,
+          52.54305271
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.34311524,
+          52.43895768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.20563531,
+          52.54143403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2903565,
+          52.51879631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.62535,
+          52.45772604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.33693,
+          52.48049704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.36306169,
+          52.49987909
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.549245,
+          52.54436704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.41983203,
+          52.49567029
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.14397069,
+          52.45383792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.56090832,
+          52.50593952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.34347128,
+          52.47867561
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.574246,
+          52.41367804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5884471,
+          52.52086728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.24017109,
+          52.44234291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.32671558,
+          52.56391962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.30866482,
+          52.46723683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.35362219,
+          52.49487804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.50932998,
+          52.45370571
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.33233623,
+          52.59754512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.398054,
+          52.49053404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.43915689,
+          52.4950581
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.41359552,
+          52.55991886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.41343229,
+          52.55067679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.50882,
+          52.51505004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.46391551,
+          52.50790007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.38566639,
+          52.44438323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.391234,
+          52.50126904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.263703,
+          52.48750404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.48398,
+          52.50302004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.32828671,
+          52.479007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.39051341,
+          52.54474841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.50467113,
+          52.57333014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.32239001,
+          52.49714135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.42739337,
+          52.52711568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.48680536,
+          52.46589121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.39527778,
+          52.53977781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.43822268,
+          52.54148326
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.44538488,
+          52.47407194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.30926853,
+          52.47332461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.35281188,
+          52.48432519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.32748453,
+          52.48647699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.35593646,
+          52.55543704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.46108994,
+          52.51995539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.34150163,
+          52.46954345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.49460645,
+          52.63565562
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.38350244,
+          52.55606887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.46437459,
+          52.4874668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3670489,
+          52.49384768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.34809497,
+          52.52609313
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.41357257,
+          52.51270775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.41329416,
+          52.55375529
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.47697618,
+          52.51314665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.44733616,
+          52.51144621
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.40542608,
+          52.54676507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.56583554,
+          52.57009941
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.49426207,
+          52.54559586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.42732495,
+          52.54586702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3355016,
+          52.52499599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.47661219,
+          52.42266025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.41865976,
+          52.54289978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.355711,
+          52.45925104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.36315439,
+          52.41349848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.57488685,
+          52.51290078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.33620516,
+          52.45100854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.46902428,
+          52.51123157
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.42089017,
+          52.54864132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.46625556,
+          52.55261489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.43890576,
+          52.47371418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.42056481,
+          52.60714456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.42199925,
+          52.47758455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.41016173,
+          52.38777881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.60117246,
+          52.48255183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.46429066,
+          52.47029641
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.60470183,
+          52.53938551
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.37109775,
+          52.42251988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4284121,
+          52.47991339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.54735,
+          52.50095304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.34281826,
+          52.45068363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.377623,
+          52.46396504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.37816284,
+          52.52895761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.48851,
+          52.61763504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.37599736,
+          52.45591143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.51389091,
+          52.46463712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.43685584,
+          52.4661677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.45114979,
+          52.48906468
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.59157784,
+          52.52941866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3483289,
+          52.55611133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.53926,
+          52.43443004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.55491781,
+          52.51342024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.24082699,
+          52.51219569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.64932986,
+          52.37581704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.34910572,
+          52.4585531
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.47958581,
+          52.51899963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.30931569,
+          52.43090193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.52667175,
+          52.4585929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.37428942,
+          52.50557045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.72100464,
+          52.43908177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.52751847,
+          52.41098733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "nicht barrierefrei/unbekannt, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.24402778,
+          52.51422226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.240857,
+          52.52550504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.60107193,
+          52.535819
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.46589437,
+          52.55719699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.30490027,
+          52.41763396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "nicht barrierefrei/unbekannt, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.40641667,
+          52.51847226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "nicht barrierefrei/unbekannt, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.46065563,
+          52.51069719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "nicht barrierefrei/unbekannt, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.44354426,
+          52.52926375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "nicht barrierefrei/unbekannt, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.33611111,
+          52.50494448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "nicht barrierefrei/unbekannt, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.34841667,
+          52.51423615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "nicht barrierefrei/unbekannt, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.33086111,
+          52.50333337
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "nicht barrierefrei/unbekannt, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.326417,
+          52.48288004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "nicht barrierefrei/unbekannt, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.23694025,
+          52.51064622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.24435372,
+          52.51559749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "nicht barrierefrei/unbekannt, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.23063889,
+          52.51361115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2600713,
+          52.51606074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "nicht barrierefrei/unbekannt, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.310916,
+          52.49310404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "nicht barrierefrei/unbekannt, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.314755,
+          52.47336304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "nicht barrierefrei/unbekannt, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.272577,
+          52.50967904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "nicht barrierefrei/unbekannt, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.39090278,
+          52.48852781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "nicht barrierefrei/unbekannt, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.37786111,
+          52.48750004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.47069502,
+          52.53100825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "nicht barrierefrei/unbekannt, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.34522222,
+          52.51555559
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3915,
+          52.5141667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3699105,
+          52.54161118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3586066,
+          52.54700434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "nicht barrierefrei/unbekannt, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.35325,
+          52.53990281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "nicht barrierefrei/unbekannt, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.34701389,
+          52.53352781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "nicht barrierefrei/unbekannt, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.33677778,
+          52.53322226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "nicht barrierefrei/unbekannt, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.44738889,
+          52.43736115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "nicht barrierefrei/unbekannt, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.438239,
+          52.48287404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "nicht barrierefrei/unbekannt, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.44138889,
+          52.47155559
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.438141,
+          52.47880204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.43710799,
+          52.53359533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "nicht barrierefrei/unbekannt, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.41288889,
+          52.53244448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "nicht barrierefrei/unbekannt, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.30761111,
+          52.61613893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "nicht barrierefrei/unbekannt, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.26988889,
+          52.53784726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "nicht barrierefrei/unbekannt, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.31208333,
+          52.4426667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "nicht barrierefrei/unbekannt, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.386907,
+          52.43869504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "nicht barrierefrei/unbekannt, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.363288,
+          52.48114604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.58021912,
+          52.45884691
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "nicht barrierefrei/unbekannt, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.62458333,
+          52.4506667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.40855785,
+          52.49286303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.27259722,
+          52.5890976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "nicht barrierefrei/unbekannt, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.283026,
+          52.59069704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "nicht barrierefrei/unbekannt, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.23827778,
+          52.54447226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "nicht barrierefrei/unbekannt, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.16316667,
+          52.52125004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.24342558,
+          52.5129514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "nicht barrierefrei/unbekannt, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.240781,
+          52.51218014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "nicht barrierefrei/unbekannt, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.24459,
+          52.51562004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "nicht barrierefrei/unbekannt, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2435201,
+          52.51299104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.60335231,
+          52.53191209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.322725,
+          52.50525204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "nicht barrierefrei/unbekannt, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.46334589,
+          52.49342189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "nicht barrierefrei/unbekannt, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.30438889,
+          52.52552781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.33795722,
+          52.48848515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.36653677,
+          52.44987364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.26961478,
+          52.45090722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.34776313,
+          52.43215976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.54179877,
+          52.45777624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.40735842,
+          52.48949362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.26915398,
+          52.59267528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.50409799,
+          52.56442884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5244707,
+          52.56469272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.46552944,
+          52.52439503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.50529292,
+          52.5486517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.52272917,
+          52.49745842
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.54770927,
+          52.43811152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.44995016,
+          52.52206873
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.46558416,
+          52.50458115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.44277931,
+          52.51609353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.37759975,
+          52.48935686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.37787755,
+          52.50259598
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3912828,
+          52.50411433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.40262528,
+          52.50666611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.41511058,
+          52.50259645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.40675338,
+          52.49671859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.44349367,
+          52.50084209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4206793,
+          52.49176614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.36693678,
+          52.49715436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.44696249,
+          52.50337663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.44302543,
+          52.49899281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.39303038,
+          52.49738987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.43145832,
+          52.46786214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.41713616,
+          52.48445445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.41822526,
+          52.46251875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.36647416,
+          52.45960768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.39209928,
+          52.43975235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.612439,
+          52.51191616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.52979487,
+          52.48326899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.52083415,
+          52.51350194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.20776401,
+          52.53735115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.39612461,
+          52.39691455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.32615964,
+          52.46568534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3453017,
+          52.4879543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.34515858,
+          52.49690686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.34058231,
+          52.51810343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.40105178,
+          52.53302971
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.41390433,
+          52.50826585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.30119545,
+          52.53020162
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4007839,
+          52.51166693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3722522,
+          52.55703986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.35229855,
+          52.54627093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.34675975,
+          52.56054176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.56284008,
+          52.44649501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.57381067,
+          52.44532621
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.37090504,
+          52.5632982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.35379007,
+          52.59966521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.30597673,
+          52.60179772
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.36471606,
+          52.60744812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.18423147,
+          52.48414676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3913257,
+          52.49795132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.45874385,
+          52.55557443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4568589,
+          52.50268311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.44022382,
+          52.44771059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.49694955,
+          52.56987395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "nicht barrierefrei/unbekannt, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.17622222,
+          52.42147226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "nicht barrierefrei/unbekannt, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.47848841,
+          52.49203795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "nicht barrierefrei/unbekannt, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.48005605,
+          52.48551876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.47119826,
+          52.61567065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.23682913,
+          52.51062289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "nicht barrierefrei/unbekannt, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.24938,
+          52.51746004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.48090149,
+          52.49002099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.43216788,
+          52.49909933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.43770549,
+          52.49719522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.40308869,
+          52.53194774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.43904128,
+          52.48886027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.38885603,
+          52.56952422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.30872967,
+          52.57024044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.36483612,
+          52.56363046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.19480384,
+          52.51320014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.25176639,
+          52.44893344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.21444588,
+          52.44015851
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.34670603,
+          52.48240823
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.51341865,
+          52.56779319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.424531,
+          52.50307004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.29041806,
+          52.47575173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.43181837,
+          52.49284603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.27464965,
+          52.43523371
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.44937242,
+          52.47398922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.47238387,
+          52.53787424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.58899359,
+          52.53960367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.59102368,
+          52.5313387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.57016699,
+          52.54851991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.56670493,
+          52.48688156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.47396955,
+          52.4787141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.51660111,
+          52.42009359
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.355023,
+          52.49617104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.44949818,
+          52.49666981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.30150375,
+          52.5051427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.33653721,
+          52.55264092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.29092873,
+          52.51025416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.52014861,
+          52.43399024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4329283,
+          52.4221483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3657435,
+          52.53715681
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.41442175,
+          52.49495943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.14647959,
+          52.52375236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2107809,
+          52.56738182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.50423507,
+          52.5024719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.48059285,
+          52.52733511
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.38363977,
+          52.55932322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.47264935,
+          52.51567357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.55987441,
+          52.47946085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.31222352,
+          52.60615839
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3685794,
+          52.54487819
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.35862282,
+          52.56345305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.52008467,
+          52.56624522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.39902465,
+          52.54142399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.48561327,
+          52.54808634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3690377,
+          52.49275799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.31335932,
+          52.61697094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.32997355,
+          52.49674726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.39360981,
+          52.55637257
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.50757274,
+          52.4923786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.35871347,
+          52.62098487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.48131665,
+          52.53887278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.47860842,
+          52.4975045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.21029458,
+          52.55015023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.33269815,
+          52.57656681
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 1,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.332561,
+          52.50743404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 1,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.191804,
+          52.43394504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "nicht barrierefrei/unbekannt, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.24907803,
+          52.51488254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "nicht barrierefrei/unbekannt, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.23108,
+          52.52528404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "nicht barrierefrei/unbekannt, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.253641,
+          52.51229804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "nicht barrierefrei/unbekannt, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.292135,
+          52.47338604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.310068,
+          52.48721204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 1,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.468614,
+          52.50289104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 1,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.434911,
+          52.51038204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.371309,
+          52.49865304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.376266,
+          52.49499204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "nicht barrierefrei/unbekannt, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.406882,
+          52.51986004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 1,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.497073,
+          52.50942304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.58944035,
+          52.53061796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 1,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.390076,
+          52.54917504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 1,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.389491,
+          52.54979904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 1,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.37664,
+          52.50940304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 1,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.369861,
+          52.52463604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "nicht barrierefrei/unbekannt, Preis: 1,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.386988,
+          52.52017404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 1,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.411079,
+          52.52145704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.41657562,
+          52.48257042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "nicht barrierefrei/unbekannt, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4083137,
+          52.48666927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.40845809,
+          52.48036279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "nicht barrierefrei/unbekannt, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.42644698,
+          52.42813448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "nicht barrierefrei/unbekannt, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.43057499,
+          52.42147761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.43189422,
+          52.44507034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.43254835,
+          52.43115227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4462947,
+          52.46039701
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.45117178,
+          52.45389883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "nicht barrierefrei/unbekannt, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.50395749,
+          52.42098282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.50626576,
+          52.40526454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.40114104,
+          52.54401066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "nicht barrierefrei/unbekannt, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.395447,
+          52.60530004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.394228,
+          52.56978704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "nicht barrierefrei/unbekannt, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.402306,
+          52.56899904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "nicht barrierefrei/unbekannt, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.466789,
+          52.55956604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "nicht barrierefrei/unbekannt, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.334532,
+          52.57053704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.321791,
+          52.58980804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "nicht barrierefrei/unbekannt, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.289014,
+          52.59632004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "nicht barrierefrei/unbekannt, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.28787,
+          52.59251104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "nicht barrierefrei/unbekannt, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.215635,
+          52.59846104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.282445,
+          52.62857404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.265136,
+          52.63868904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.331707,
+          52.61010004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.303381,
+          52.61140104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "nicht barrierefrei/unbekannt, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3607668,
+          52.42923033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "nicht barrierefrei/unbekannt, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1547685,
+          52.49708888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "nicht barrierefrei/unbekannt, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.17453976,
+          52.55919112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "nicht barrierefrei/unbekannt, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.13270991,
+          52.52527704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 1,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.197412,
+          52.53468104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "nicht barrierefrei/unbekannt, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.163271,
+          52.54594304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "nicht barrierefrei/unbekannt, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.14164789,
+          52.41363297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "nicht barrierefrei/unbekannt, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.28612418,
+          52.45889734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "nicht barrierefrei/unbekannt, Preis: unbekannt",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.29633709,
+          52.42344255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "nicht barrierefrei/unbekannt, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.34214946,
+          52.45862327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.216294,
+          52.42409504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 1,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.179808,
+          52.42140704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "nicht barrierefrei/unbekannt, Preis: unbekannt",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3351537,
+          52.47597558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3440247,
+          52.48479893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.37917091,
+          52.44589178
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.38306343,
+          52.44932383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "nicht barrierefrei/unbekannt, Preis: unbekannt",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.38526099,
+          52.4660015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.38600654,
+          52.46244699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.40555411,
+          52.39433849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "nicht barrierefrei/unbekannt, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.41624417,
+          52.47017302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.41831812,
+          52.47695749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 1,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.366263,
+          52.47551404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 1,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.364418,
+          52.47582804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.341926,
+          52.49854004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "nicht barrierefrei/unbekannt, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.406019,
+          52.48103604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.409296,
+          52.47918304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.385881,
+          52.47155404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.417064,
+          52.47442904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.48026935,
+          52.48351131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "nicht barrierefrei/unbekannt, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.49343,
+          52.46053004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5285371,
+          52.40319342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "nicht barrierefrei/unbekannt, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.53482,
+          52.46336004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "nicht barrierefrei/unbekannt, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.54731,
+          52.44318004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "nicht barrierefrei/unbekannt, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.54811147,
+          52.43794762
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "nicht barrierefrei/unbekannt, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.59041,
+          52.40732004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "nicht barrierefrei/unbekannt, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.67507235,
+          52.40662898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "nicht barrierefrei/unbekannt, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.69588,
+          52.43754004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "nicht barrierefrei/unbekannt, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.418311,
+          52.49898504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "nicht barrierefrei/unbekannt, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.212786,
+          52.42286304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "nicht barrierefrei/unbekannt, Preis: 1,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.191113,
+          52.43392704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.51071357,
+          52.45611007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "nicht barrierefrei/unbekannt, Preis: unbekannt",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.34353459,
+          52.526019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.38785,
+          52.47557004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.41367,
+          52.47897004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "nicht barrierefrei/unbekannt, Preis: 1,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.35794,
+          52.45975004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "nicht barrierefrei/unbekannt, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.493867,
+          52.48483504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5256682,
+          52.50835871
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.47978731,
+          52.51593732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.47055423,
+          52.53061348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.49987286,
+          52.54512618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4351741,
+          52.48150057
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "nicht barrierefrei/unbekannt, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.42666207,
+          52.4798782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "nicht barrierefrei/unbekannt, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.32424614,
+          52.58902824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "nicht barrierefrei/unbekannt, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.48087209,
+          52.50302699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "nicht barrierefrei/unbekannt, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.57820026,
+          52.44094949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "nicht barrierefrei/unbekannt, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5789838,
+          52.44410142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "nicht barrierefrei/unbekannt, Preis: 0,50 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.38126945,
+          52.51660923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "nicht barrierefrei/unbekannt, Preis: 1,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.278231,
+          52.50188304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.422913,
+          52.51726804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.427038,
+          52.52078304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.30876,
+          52.51704004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.39244569,
+          52.49653335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4571624,
+          52.51458397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.39328135,
+          52.49674218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.41862669,
+          52.49997088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "nicht barrierefrei/unbekannt, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.38499167,
+          52.4937003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "nicht barrierefrei/unbekannt, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.46202218,
+          52.51527137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5067798,
+          52.56501289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.52144205,
+          52.4980037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.48268603,
+          52.51358392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.55657339,
+          52.54747368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.40426332,
+          52.51549269
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.40065161,
+          52.5317406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.38044344,
+          52.55375697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.35790534,
+          52.54665722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.42032757,
+          52.53313601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.44299322,
+          52.54211011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.41298889,
+          52.56869305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.45422608,
+          52.54779697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.28120284,
+          52.59201571
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.20228749,
+          52.5362934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3210543,
+          52.4573647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.38875224,
+          52.46370243
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3520462,
+          52.48430438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.57968764,
+          52.44610406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "nicht barrierefrei/unbekannt, Preis: 1,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.27935,
+          52.50782004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "nicht barrierefrei/unbekannt, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.198055,
+          52.47862204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "nicht barrierefrei/unbekannt, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.210308,
+          52.47674004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "nicht barrierefrei/unbekannt, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.330799,
+          52.48299004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5416342,
+          52.48777322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "nicht barrierefrei/unbekannt, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.472638,
+          52.49729204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "nicht barrierefrei/unbekannt, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.445576,
+          52.50985004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "nicht barrierefrei/unbekannt, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.507798,
+          52.52151804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "nicht barrierefrei/unbekannt, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.474968,
+          52.52965104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.543306,
+          52.54249104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "barrierefrei, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.548667,
+          52.55004104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "nicht barrierefrei/unbekannt, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.39725,
+          52.52220304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "nicht barrierefrei/unbekannt, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.376543,
+          52.53001004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "nicht barrierefrei/unbekannt, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.445962,
+          52.48374704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "nicht barrierefrei/unbekannt, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.436761,
+          52.47563404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "nicht barrierefrei/unbekannt, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.46119,
+          52.55354904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "nicht barrierefrei/unbekannt, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.458589,
+          52.52971704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "nicht barrierefrei/unbekannt, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.347995,
+          52.60111004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "nicht barrierefrei/unbekannt, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.365114,
+          52.57332404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "nicht barrierefrei/unbekannt, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.190714,
+          52.51698804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "nicht barrierefrei/unbekannt, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.198796,
+          52.53741004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "nicht barrierefrei/unbekannt, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.331362,
+          52.44876204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "nicht barrierefrei/unbekannt, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.338505,
+          52.46049104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "nicht barrierefrei/unbekannt, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.35824,
+          52.48042904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "nicht barrierefrei/unbekannt, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.348177,
+          52.48527604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "nicht barrierefrei/unbekannt, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.549879,
+          52.46792404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "nicht barrierefrei/unbekannt, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.526288,
+          52.46973204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "nicht barrierefrei/unbekannt, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.33672222,
+          52.51261115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "nicht barrierefrei/unbekannt, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.25655556,
+          52.56813893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "nicht barrierefrei/unbekannt, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.18988889,
+          52.45458337
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "nicht barrierefrei/unbekannt, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.26611111,
+          52.47180559
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "nicht barrierefrei/unbekannt, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.28333333,
+          52.49561115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "nicht barrierefrei/unbekannt, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.22763889,
+          52.50650004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "nicht barrierefrei/unbekannt, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.23469444,
+          52.48952781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "nicht barrierefrei/unbekannt, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.30673611,
+          52.5101667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "nicht barrierefrei/unbekannt, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.35663889,
+          52.51633337
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "nicht barrierefrei/unbekannt, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.24652778,
+          52.5616667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "nicht barrierefrei/unbekannt, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.22155556,
+          52.59436115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "nicht barrierefrei/unbekannt, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.25380556,
+          52.58538893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "nicht barrierefrei/unbekannt, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.24322222,
+          52.57600004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "nicht barrierefrei/unbekannt, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.21008333,
+          52.58522226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "nicht barrierefrei/unbekannt, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.21916667,
+          52.57538893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "nicht barrierefrei/unbekannt, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.18521,
+          52.50165004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "nicht barrierefrei/unbekannt, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.12080526,
+          52.47119448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "nicht barrierefrei/unbekannt, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.11545833,
+          52.46125004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "nicht barrierefrei/unbekannt, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.18155556,
+          52.46983337
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "nicht barrierefrei/unbekannt, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.22883333,
+          52.44775004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "nicht barrierefrei/unbekannt, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.16505556,
+          52.43480559
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "nicht barrierefrei/unbekannt, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.23525,
+          52.46897226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "nicht barrierefrei/unbekannt, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.21547222,
+          52.44077781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "nicht barrierefrei/unbekannt, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.19816667,
+          52.46950004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "nicht barrierefrei/unbekannt, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.24057481,
+          52.45358121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "nicht barrierefrei/unbekannt, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.12941667,
+          52.42938893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "nicht barrierefrei/unbekannt, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.14322222,
+          52.4324167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "nicht barrierefrei/unbekannt, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.16485933,
+          52.54883992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "nicht barrierefrei/unbekannt, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.28552778,
+          52.57077781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "nicht barrierefrei/unbekannt, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.19922876,
+          52.43650693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öffentliche Toilette",
+        "info": "nicht barrierefrei/unbekannt, Preis: 0,00 €",
+        "category": "Toilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.32997222,
+          52.54672226
+        ]
+      }
+    }
+  ]
+}

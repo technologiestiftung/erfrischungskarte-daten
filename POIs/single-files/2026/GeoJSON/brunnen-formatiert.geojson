@@ -1,0 +1,7025 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Partnerschaftsbrunnen",
+        "info": "Havelstraße",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.206149821905766,
+          52.538677431797865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mühlenbrunnen",
+        "info": "Münsingerpark",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.199560372331051,
+          52.536364411394814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Spielende Kinder",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.201414965668063,
+          52.53645225203617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Havelwelle",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.203862870693449,
+          52.537459842069566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zierbrunnen",
+        "info": "An der Buche 20",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.28517827872009,
+          52.630389965913615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Barbarossabrunnen",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.280416985147902,
+          52.626434626785944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kugelläuferin",
+        "info": "Zeltinger Platz",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.290661095288486,
+          52.63360015581358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Große Fontäne",
+        "info": "Ludofingerplatz 7",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.288740692116733,
+          52.63277245909478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rechteckbrunnen",
+        "info": "Ludofingerplatz 7",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.288160723207143,
+          52.632513831307925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kaskadenbrunnen",
+        "info": "Zeltinger Platz",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.290813985173838,
+          52.633668041514134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brunnen Karow-Nord",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.485892780920775,
+          52.62125821828341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zierbrunnen",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.420899409008175,
+          52.606841014216265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Schinkelbrunnen",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.282608307398226,
+          52.589688000775595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wassertempel",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.327966548225426,
+          52.56377206386149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Felsenbrunnen",
+        "info": "Gorkistraße 2",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.284169511766079,
+          52.5897155261534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wassertempel",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.328355055450643,
+          52.564120497958235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wassertempel",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.327398396849674,
+          52.56400541237869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rathenaubrunnen",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.330900245837451,
+          52.54972391120829
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wassertempel",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.327716941682157,
+          52.56432577885542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Blauer Obelisk",
+        "info": "Theodor-Heuss-Platz",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.27215336165421,
+          52.509359841438766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Große Kaskaden",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.28920050295668,
+          52.50319294669212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jugendplatzbrunnen",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.269940203274853,
+          52.537967504412784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. Georg-Brunnen",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.308024919168535,
+          52.503253142498295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Springbrunnen",
+        "info": "Waldstraße / Waldenserstraße",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.33111864237951,
+          52.52917276470115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jungschwanenbrunnen",
+        "info": "Leibnizstraße / Kurfürstendamm",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.312685487331636,
+          52.500829897705735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rundbecken mit Fontäne",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.289590865075434,
+          52.50926679999275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Drei Brunnenschalen",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.313169516777121,
+          52.49952141482881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Spielbrunnen",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.299410480245257,
+          52.5045445218857
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wasserfontäne",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.313725019448633,
+          52.50183601669785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Schlossbrunnen (SPSG)",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.295448230243778,
+          52.52249691263473
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Säule in der Brandung",
+        "info": "Adenauerplatz",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.30721528476826,
+          52.50069546790299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rundbecken mit Fontäne",
+        "info": "Mierendorffplatz",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.304797832010097,
+          52.52614838483498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Entenbrunnen",
+        "info": "Hardenbergstraße",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.323331091180169,
+          52.51069449202969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brunnenstelen",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.294749884809951,
+          52.513272727456496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Plansche am Weißen See",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.46092562242753,
+          52.55535285284351
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fontäne im Weißen See",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.464117514272818,
+          52.554209555512536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Springbrunnen",
+        "info": "Salvador-Allende-Straße / Pablo-Neruda-Straße",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.592075185493625,
+          52.44017077994362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Großer Springbrunnen",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.40654029691584,
+          52.5785216885117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tröpfelbrunnen",
+        "info": "Breite Straße / Berliner Straße",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.409944004254466,
+          52.57064395829236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Großer Springbrunnen",
+        "info": "Bürgerpark Pankow",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.396064580226298,
+          52.569355637976265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brunnenschale mit Fontäne",
+        "info": "Brunnenplatz",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.376535650272524,
+          52.55027721663437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Springbrunnen im Rosengarten",
+        "info": "Bürgerpark Pankow",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.393535752680602,
+          52.57005438609737
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brunnen Marktplatz Adlershof",
+        "info": "Marktplatz Adlershof / Dörpfeldstraße",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.547445754660245,
+          52.437954251219246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kleine Elefanten",
+        "info": "Arndtplatz",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.553491429757987,
+          52.4352242169436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Der Wasservorhang",
+        "info": "Schönefelder Chaussee 239",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.525158536161022,
+          52.40250781270166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zwei Bären",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.420204064691058,
+          52.54273266763253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Seerosenbrunnen",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.440112120943425,
+          52.5185773382481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nilpferdbrunnen",
+        "info": "Wühlischplatz / Holteistraße",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.465102889594982,
+          52.50763354408448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hausbrunnen",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.432502910010877,
+          52.49887058917058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brunnenbecken",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.45729188879451,
+          52.51569795871514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brunnenbecken",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.444433911048831,
+          52.54245133957681
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Keramikbrunnen",
+        "info": "Frankfurter-Allee 144",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.482326561625717,
+          52.51186506054341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fontäne",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.443800101531489,
+          52.515401473564786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Schwebender Ring",
+        "info": "Strausberger Platz",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.428293968417,
+          52.518527705044015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Feuerwehrbrunnen",
+        "info": "Mariannenplatz",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.424339464613562,
+          52.50205495536116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Erdquell",
+        "info": "Traveplatz",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.469961813407524,
+          52.510944658052914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Plansche auf dem Spielberg",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.432880569073914,
+          52.53687082634172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Findlingsbrunnen",
+        "info": "Landsberger Allee 277",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.495648641741075,
+          52.534591532462144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brunnenbecken",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.44475491858546,
+          52.542401738096984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jüngling mit Fisch",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.478077556221283,
+          52.51377424337094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kinder unterm Regenschirm",
+        "info": "Mittelpromenade Metzer Straße",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.424899682021346,
+          52.539380725195414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wasserglocke",
+        "info": "Volkspark Friedrichshain",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.434562310113451,
+          52.52765251534228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Knabe mit Fisch",
+        "info": "Greifswalder Straße / Anton-Saefkow-Straße",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4368087865689,
+          52.5388347218226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Drachenbrunnen",
+        "info": "Oranienplatz",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.416154547248688,
+          52.50284838743245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pfauenbrunnen",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4189823202791,
+          52.51573775588654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wasserstein",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.486188914355242,
+          52.53518412745845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Plansche",
+        "info": "Boxhagener Platz",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.459216005154564,
+          52.511068768369284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Indischer Brunnen",
+        "info": "Leuschnerdamm 15",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.417555553908151,
+          52.50475581717176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Plansche",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.428356997652546,
+          52.526984222532576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kugelbrunnen",
+        "info": "Anton-Saefkow-Platz 13",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.471516673164405,
+          52.530164714320264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Findlingsbrunnen",
+        "info": "Platz der Vereinten Nationen",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.430424584027906,
+          52.52371111157571
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brunnenbecken",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.457492658971198,
+          52.515677019664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stierbrunnen",
+        "info": "Arnswalder Platz",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.437144758445637,
+          52.533023758815055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Märchenbrunnen",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.426744160777407,
+          52.527948010588894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Plansche",
+        "info": "Proskauer Straße 20",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.460869509798949,
+          52.51966735064679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sprudel vor der Ladenzone",
+        "info": "Ernst-Thälmann-Park",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.432374144444502,
+          52.53928531683957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brunnenbecken Karl-Marx-Allee",
+        "info": "Karl-Marx-Allee 70",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.43463296693523,
+          52.51748369968581
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Delphinbrunnen",
+        "info": "Volkspark Friedrichshain",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.42770117028941,
+          52.52785341267081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Plansche Einsteinpark",
+        "info": "Einsteinpark",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.445069872684552,
+          52.54023681825426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vogelbrunnen",
+        "info": "Judith-Auer-Straße 4-9",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.469343178638617,
+          52.53317203871101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brunnenbecken",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.457163985582625,
+          52.51570913025481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wasserspiele",
+        "info": "Anton-Saefkow-Platz 8",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.471793491709242,
+          52.529369521999165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brunnenbecken",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.45761947348157,
+          52.5156636847271
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brunnenbecken",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.444085042720467,
+          52.54252188257736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kugelbrunnen",
+        "info": "Petersburger Platz",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.450532811773108,
+          52.52124419536221
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brunnen",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.198652407133237,
+          52.533967236476855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lindenbrunnen",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.290494494911567,
+          52.420600106395305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brunnentempel",
+        "info": "Parkfriedhof Lichterfelde / Thuner Platz 2-4",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.29406208928254,
+          52.422089249493474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brunnen",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.335763269784593,
+          52.609327602117766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tritonbrunnen",
+        "info": "Großfürstenplatz",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.359227120959426,
+          52.5170617653485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Schalenbrunnen",
+        "info": "Monbijoupark",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.395509297713184,
+          52.5239526654846
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Spindlerbrunnen",
+        "info": "Kleine Kurstraße 33",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.401011458684183,
+          52.51198884349604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Froschbrunnen",
+        "info": "Englischer Garten / Altonaer Straße 2",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.347936103192552,
+          52.51683523699522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brunnen an der Bernburger Str.",
+        "info": "Bernburger Straße 15",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.377724469817753,
+          52.50568547874461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bärenbrunnen",
+        "info": "Werderscher Markt / Schinkelplatz",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.39813609622725,
+          52.51561385201948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Schillerbrunnen",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.392662093683912,
+          52.51361456486327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kleine Liebessäule",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.385481332614937,
+          52.519991977071186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Froschbrunnen",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.348095658189674,
+          52.5167131352251
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Froschbrunnen",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.348182641218912,
+          52.51686959045929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Geldzählerbrunnen",
+        "info": "Pappelplatz",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.39513452530381,
+          52.53256812476562
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Plansche",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.402444452816825,
+          52.532004613484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Historische Brunnen",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.378931228704296,
+          52.51599305962842
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wappenbrunnen",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.406828998652408,
+          52.51667934156027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brunnen am Berliner-Museum",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.397111494072007,
+          52.501847387694404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wasseranlage \"Sinkende Mauern\"",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.376350243447083,
+          52.529245508348005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brunnenschale",
+        "info": "Gorßer Tiergarten",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.357288887628847,
+          52.51359020185304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nichtgeburtstagskaffeekanne",
+        "info": "Theodor-Wolff-Park",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.389932399614365,
+          52.501499880717816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Friedenssäule",
+        "info": "Mehringplatz",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.391772642336498,
+          52.498964809642594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ammonitenbrunnen",
+        "info": "Olof-Palme-Platz",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.340715029507201,
+          52.505594033765234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Scholle auf dem Trockenen",
+        "info": "Am Lustgarten 1",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.39785991647114,
+          52.51934813435404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Walrosse",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.404436923230358,
+          52.546193087610426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Froschbrunnen",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.347892850204142,
+          52.51675537623734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lessing",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.374945193100118,
+          52.51202789013646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Froschbrunnen",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.34798073783181,
+          52.51691323787879
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brunnenschalen",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.40599410846936,
+          52.50351288495696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wasserklops",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.336507149418805,
+          52.50468973919306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wasserkaskaden",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.408037649715745,
+          52.52037708023181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kieselwaschbeton",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.352590898321138,
+          52.50504972857733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Überlaufstein",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.398676062335959,
+          52.518121093237355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nordbrunnen",
+        "info": "Wittenbergplatz",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.343239421947152,
+          52.50227067399884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wasserkaskaden",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.408357133684973,
+          52.52012820772912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Historische Brunnen",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.37880671655443,
+          52.51670138077815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Historischer Brunnen",
+        "info": "Hausvogteilplatz",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.396535753228488,
+          52.51306447739618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Modemer Brunnen",
+        "info": "Am Lustgarten 1",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.399677494220382,
+          52.51858404207181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kieselwaschbeton",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.352804500758786,
+          52.504945779969574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pferdetränke",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.360573657605121,
+          52.503664102153095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Historische Pumpe",
+        "info": "Arkonaplatz",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.401980201806417,
+          52.53728546736315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tanz auf dem Vulkan",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.369413479957673,
+          52.54466958067466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kieselwaschbeton",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.352702616398135,
+          52.50500240826457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brunnenschalen",
+        "info": "Ritterstraße",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.40567388767118,
+          52.50359336514006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Forum am Kanzleramt",
+        "info": "Wasserbecken",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.371553872834689,
+          52.52015213931222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Neptunbrunnen",
+        "info": "Rathausstraße 1",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.406834807139683,
+          52.519599321781165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Forellenbach",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.34384331953729,
+          52.53190554993702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Froschbrunnen",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.348139949195291,
+          52.51679362179575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Südbrunnen (Lebensalter)",
+        "info": "Wittenbergplatz",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.342714276257743,
+          52.50135992290833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Froschkönig",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.408889388642521,
+          52.531825826657396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brunnen der Völkerfreundschaft",
+        "info": "Alexanderplatz 9",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.412776275259464,
+          52.52201803684569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nilpferdbrunnen",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.398434476430268,
+          52.541076848516646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Markthallenbrunnen",
+        "info": "Rosa-Luxenburg-Straße / Karl-Liebknecht-Straße",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.408224043142246,
+          52.52252616682997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen zum Paddenwirt",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.40825949069388,
+          52.51683969010934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brunnenschale",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.359294128266816,
+          52.54715698183151
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Schwellenbrunnen",
+        "info": "Vinetaplatz",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.398776903942101,
+          52.54131307299111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Biberbrunnen",
+        "info": "Rosengarten im Humboldhain",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.386984685109844,
+          52.547293896867586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Becken mit Wasserfall",
+        "info": "Brixplatz",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.256473030118176,
+          52.51883678327844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Genoveva-Brunnen",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.26186193135757,
+          52.54653651417247
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brunnenanlage",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.322311253753568,
+          52.512582135719505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brunnenanlage",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.321654382454174,
+          52.512687619104454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kugelbrunnen",
+        "info": "Wilmersdorfer Straße",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.30634000853431,
+          52.50775661487637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kleine Kaskaden",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.289743653023054,
+          52.50910196092592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Springbrunnen",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.307205509137289,
+          52.51512026098543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brunnen",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.194850720831028,
+          52.569701838047834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "3 Brunnen",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.676954888458166,
+          52.406525592960875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Keramiksitzbrunnen",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.56239241720719,
+          52.55932712926365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Plansche Marzahn-Ost",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.577054828700875,
+          52.54918048819413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brunnen mit Findling",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.569147478900707,
+          52.55315620340999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lindenbrunnen",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.562853861322,
+          52.55462407593654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kunst-Wassersprühfeld",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.560750599828868,
+          52.56769716490557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mühlenradbrunnen",
+        "info": "EKZ Am Mühlengrund / Rotkamp 2",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.509425934256592,
+          52.560932358767545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wasserspielplatz Clara-Zetkin-Park II",
+        "info": "Rabensteiner Straße / Borkheider Straße",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.573181765965137,
+          52.56488633086324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brunnen der Jugend",
+        "info": "Wustrowerstraße 22 / Stadtplatz Wartenberger Straße 174",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.508381880474845,
+          52.565767104178065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Granitbrunnen",
+        "info": "Parsteiner Ring / Glambecker Ring",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.580699678123553,
+          52.5529621047876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Schalenbrunnen",
+        "info": "Zingster Straße 16 / Schwimmhalle Zingster Straße",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.502546908463893,
+          52.5661415386348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Antonplatz Süd",
+        "info": "Berliner Allee 28-32 / Bizetstraße 21-23",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.451060598303277,
+          52.54772398313112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brunnen",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.422742972967816,
+          52.519502649231214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wasserkaskade",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.423408060973292,
+          52.499470570767244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Löwenbrunnen",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.418296197507686,
+          52.53392483635686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Großes Bassin",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.556047953042603,
+          52.546361442195796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Treppenbrunnen \"Generationen\"",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.539427500690987,
+          52.52755022675411
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Plansche am Anger",
+        "info": "Allee der Kosmonauten 192-198",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.564072704261243,
+          52.54069816309215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kogge",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.527715601912893,
+          52.511454263509464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Eastgate",
+        "info": "Marzahner Promenade 12-14",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.54535419698363,
+          52.5429453910375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Plansche Südspitze",
+        "info": "Marchwitzastraße / Heinz-Graffunder-Park / Märkische Allee 50",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.543484502595819,
+          52.52191590681231
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tanz der Jugend",
+        "info": "Pekrunstraße / Scheibenbergstraße",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.554105782513586,
+          52.537970172558616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sitzbrunnen",
+        "info": "Märkische Allee 40 / Marchwitzastraße",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.544567364342422,
+          52.521910429899656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kugelbrunnen",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.52766548959568,
+          52.40447092861503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Springbrunnen",
+        "info": "Clara-Zetkin-Platz / Niemegker Straße",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5842098292136,
+          52.52074073313388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sprudelnde Fontänen",
+        "info": "Alice-Salomon-Platz",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.60515824044617,
+          52.53739836882623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Löwenfontäne (SPSG)",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.095631456952983,
+          52.41349375631676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fontäne (SPSG)",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.126514315511509,
+          52.432131011138424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Waschfrau",
+        "info": "Müggelheimer Straße",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.57451724638973,
+          52.4440793390171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brunnen mit Holzskulpturen",
+        "info": "Alfred-Randt-Straße",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.60017275589605,
+          52.439775560217356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Schalenbrunnen",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.324411508809646,
+          52.46136117597073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brunnenschale mit Fontäne",
+        "info": "Ludwigkirchplatz",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.320611917438127,
+          52.497778376375955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Medusenhaupt",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.291136065600465,
+          52.49668560367934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Erikabrunnen",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.32036781058681,
+          52.47244013386133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brunnenschale Wasserglocke",
+        "info": "Douglasstraße 7-9",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.263323187368435,
+          52.48411175271668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Delphin-Brunnen",
+        "info": "Hohenzollernplatz",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.326500920924127,
+          52.49429418824341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fontänenbrunnen",
+        "info": "Hermann-Ehlers-Platz",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.32154380485013,
+          52.456997582142336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Knabe mit Fisch",
+        "info": "Kissinger Platz",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.295146247641615,
+          52.47930124669904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Siegfriedbrunnen",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.31520695932693,
+          52.47311103398584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gänseliesel-Brunnen",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.328635120415193,
+          52.49314099398973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wasserpilz",
+        "info": "Leon-Jessel-Platz",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.31962792164585,
+          52.48933300505856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brunnen-Stele",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.32706691404668,
+          52.4985045305771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brunnenschale mit Fontäne",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.263663598269392,
+          52.483963772572096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brunnen Estrel Hotel",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.45800975754731,
+          52.4731407164463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vogelbrunnen",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.26143297629738,
+          52.426326826096066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brunnenplastik",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.257056949723088,
+          52.43344810842258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Schöpfbrunnen",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.252859671453212,
+          52.43980417097837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zeli-Brunnen",
+        "info": "Martin-Buber-Straße / Potsdamer Straße",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.257725757609393,
+          52.43535338923452
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wappenbrunnen",
+        "info": "Ludwig-Beck-Platz",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.31203538989542,
+          52.442767537539304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brunnen Mexikoplatz",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.232262392042754,
+          52.43804290875469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brunnen Mexikoplatz",
+        "info": "Mexikoplatz",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.232991783902499,
+          52.437772705412186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Findlingsbrunnen",
+        "info": "Am Rohrgarten 89 / Barkenhof",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.219719438355604,
+          52.42411931470824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mühlensteinbrunnen",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.444126331133955,
+          52.484307669393054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Märchenbrunnen",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.470983651034176,
+          52.467359164208816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wolf und Kranich",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.469043092198346,
+          52.491281067391355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Straßenbrunnen",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.43949651957794,
+          52.498249818645256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Treppenbrunnen",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.43789642825195,
+          52.466287791041864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brunnen mit Rosenspalier",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.416399359330288,
+          52.483125170604055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Teichlauf",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.440645583616153,
+          52.496312822508415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rathausbrunnen",
+        "info": "Karl-Marx-Straße 83",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.435374315878555,
+          52.48114926245458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kaskade",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.439002170867571,
+          52.47148400494495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Imaginäres Theater",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4411084802448,
+          52.473648751209986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Springbrunnen Baumschulenweg",
+        "info": "Baumschulenstraße 79",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.485368431702843,
+          52.464631349220916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wasserfontänen Rosengarten",
+        "info": "Treptower Park / Puschkinallee",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.468851160845764,
+          52.49057262538869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Springbrunnen",
+        "info": "Körnerpark / Schierker Straße 8",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.438533369330214,
+          52.471425875311645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fischerbrunnen",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.479379068176305,
+          52.48391835894638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Schmuckgartenbrunnen",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.44005102203124,
+          52.496219677053716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Schalenbrunnen",
+        "info": "S-Bahnhof Plänterwald / Köpenicker Landstraße",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.475090243528406,
+          52.47943716582447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fritz-Reuter-Brunnen",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.429888160187776,
+          52.489270908100245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Straßenbrunnen",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.36078167483051,
+          52.48810994251832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sintflutbrunnen",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.335148996044744,
+          52.475651635974465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wasserfälle",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.381774310212213,
+          52.488301120380854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Springbrunnen mit Kleinstfontänen und Wasserlauf",
+        "info": "Bayerischer Platz",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.340007794055277,
+          52.48904727359862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kinderbrunnen",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.349310853514499,
+          52.49211859359519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brunnenstein",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.400479482753447,
+          52.49671342344148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Eva-Brunnen",
+        "info": "Alt-Tempelhof 29 ",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.38357007389689,
+          52.465821709017796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dreierbrunnen",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.357799317035825,
+          52.497583333290834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kleiner Brunnen",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.35650466428885,
+          52.49785370993601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fuchsbrunnen",
+        "info": "Ceciliengärten",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.341828942936543,
+          52.47474515677796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Springbrunnen mit Kleinstfontänen und Wasserlauf",
+        "info": "Viktoria-Luise-Platz",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.341861221611802,
+          52.4957425710426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hirschbrunnen",
+        "info": "Rudolph-Wilde-Park",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.343999917186778,
+          52.483354841403866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fünf-Wasser-Tiegel",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.395729387603174,
+          52.48919133665539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Drei Brunnensäulen",
+        "info": "Innsbrucker Platz",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.344302020839429,
+          52.4776830497821
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brunnenschale mit Fontäne",
+        "info": "Prager Platz",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.33304743822797,
+          52.49318402812532
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fontäne Ceciliengärten",
+        "info": "Ceciliengärten",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.34190100692362,
+          52.473480457749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kleiner Brunnen im Bosepark",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.377880705526339,
+          52.46378036574922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Löwenbrunnen",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.382370891119189,
+          52.46405270997857
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Runder Brunnen",
+        "info": "Frobenstraße 12-17",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.359406066065203,
+          52.49725906234305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Storchenbrunnen",
+        "info": "Adolf-Scheidt-Platz",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.37878431502944,
+          52.47819750633393
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Säulenbrunnen",
+        "info": "Innsbrucker Straße",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.343634166568874,
+          52.47910380235531
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brunnen Chamissoplatz",
+        "info": "Chamissoplatz",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.391184137379717,
+          52.48829781269507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wrangelbrunnen",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.413106802370105,
+          52.492090613442194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Schulze-Seehof-Brunnen",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.384725141370726,
+          52.465909644268294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fette Henne",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.434062143101894,
+          52.42833627420933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brunnen Lipschitzallee",
+        "info": "Lipschitzallee 67",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.463635967559512,
+          52.42435991902518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zierbrunnen im Parkfriedhof",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.431440550960655,
+          52.430441499747026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Achteckige Vogeltränke",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.43993276638417,
+          52.446422924984695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Eulenbrunnen",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.447161202593566,
+          52.43713718531219
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Milchmädchen",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.439280134337885,
+          52.446746049682304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fontänenbrunnen",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.438446721036247,
+          52.44668722309928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brunnen Lipschitzplatz",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.461829516911825,
+          52.42549656524647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Großer Springbrunnen",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.345578015377374,
+          52.44022978018689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vier-Winde-Brunnen",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.343211044782763,
+          52.43862194613537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Drei Mühlsteine",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.39142214457153,
+          52.44238037454162
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brunnen Stadtpark Steglitz",
+        "info": "Albrechtstraße 47",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.335597509042861,
+          52.448526756358625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fontänen-Brunnen",
+        "info": "Alt-Marienfelde",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.370570434491132,
+          52.41113800332961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kugelbrunnen",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.50653507257397,
+          52.49363397605247
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fontanebrunnen",
+        "info": "Erich-Kurz-Straße 7-9",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.521153503773933,
+          52.49797166779079
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Spree-Havel-Brunnen",
+        "info": "Erich-Kurz-Straße 11-13",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.519827614857254,
+          52.497236492716205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brunnen Weddingplatz",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.370258434527354,
+          52.540455001284556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Plansche",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.427385984837901,
+          52.52095669034073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sprühfontäne",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.510586911232904,
+          52.494044183646814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Seidenkokons",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.624363320793835,
+          52.45111183727954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "3 Brunnen",
+        "info": "Gosener Landstraße 1",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.67686457644453,
+          52.40698553897451
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "3 Brunnen",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.67699198978784,
+          52.40628006984016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brunnen Schinkelplatz",
+        "info": "Schinkelplatz",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.398550380102128,
+          52.516718196294974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Paech-Brunnen",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.346054532044844,
+          52.53296363752244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brunnen",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.392834354647633,
+          52.510325662838014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brunnen",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.39350498535424,
+          52.51037043800244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "3 Säulen-Brunnen",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.394533886524647,
+          52.54055322108558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brunnen",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.37604470034483,
+          52.517294716984786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kugelbrunnen",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.34696537421546,
+          52.52298251008115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brunnenpavillion",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.393103522583864,
+          52.54368687033392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brunnen",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.345911907912638,
+          52.515823435046165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brunnen",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.34339078462869,
+          52.50478342149333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brunnen",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.339195948619325,
+          52.5069528172381
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brunnen",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.341613580581795,
+          52.50619286467081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Garten der Blumen und Wasserspiele",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.377859097409203,
+          52.48105572297137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kleiner Brunnen & Sechseckiger Brunnen",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.354615538329053,
+          52.49819312986781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "4 Straßenbrunnen",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.363156596568269,
+          52.495758090753334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fontänen am Stadtplatz (Lichtbrunnen)",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.357058251747803,
+          52.48648960775295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gärtnerbrunnen",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.367549676318102,
+          52.45654556873942
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brunnen",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.57295972491529,
+          52.54280860117952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MHP13 Plansche",
+        "info": "Altlandsberger Platz",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.573592146349842,
+          52.54266643676485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tröpfelbrunnen \"Gedeckter Tisch\"",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.54350565464431,
+          52.52519487279659
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Treppenbrunnen mit Sandsteinfiguren",
+        "info": "Marzahner Promenade 38-40",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.551851425501624,
+          52.545390560885195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brunnen mit Sandsteinplastik",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.521863654683344,
+          52.508035574013334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brunnen",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.437448540766377,
+          52.51516532584726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brunnen Ellen-Key-Schule",
+        "info": "Rüdersdorfer Straße",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.438099558447291,
+          52.51488208110257
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wismarplatz Gulliver",
+        "info": "Wismarplatz",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.464484910068416,
+          52.510592245270715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brunnenanlage",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.429402822597048,
+          52.547856372969065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Findlingsbrunnen",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.500173119279365,
+          52.5265454369163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bettinas Bank",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.41127367764812,
+          52.551667741106876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Plansche",
+        "info": "Schillerpark / Dubliner Straße / Bristolstraße",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.34671559505316,
+          52.5600414159573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fontanebogen",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.352902617821604,
+          52.59781227442435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Springbrunnen",
+        "info": "Franz-Neumann-Platz",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.365128556625713,
+          52.563298166717814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wassertisch am Lehniner Platz",
+        "info": "Lehniner Platz",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.30238554205598,
+          52.49942499112784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brunnen Markusplatz",
+        "info": "Karl-Stieler / Heinrich-Seidel / Liliencronstraße",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.342373997714235,
+          52.449192861507576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brunnen am Stadtplatz Märkisches Viertel",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.354394900313231,
+          52.59608125761941
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sprudel und Wasserlauf am Klarensee",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.38456740102285,
+          52.46331327801118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "DGZ Brunnen",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.441205922263283,
+          52.55846303799447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Agathabrunnen",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.397477821131856,
+          52.52593683899131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wasserlauf",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.401845125893434,
+          52.546330693955284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Plansche",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.387565629019418,
+          52.53109432756719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brunnen",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.39885080261093,
+          52.52041452674938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kobraquelle",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.379531123733308,
+          52.46391584827144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "2 Brunnen",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.37606448638196,
+          52.524562257085776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brunnen",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.346414149948336,
+          52.539342990205036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Plansche Rudolf-Seiffert-Park",
+        "info": "Rudolff-Seiffert-Park ",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.47263240924276,
+          52.526202509208005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Plansche Singerstraße",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.423593083178488,
+          52.51695590830806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brunnen",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.364910644777048,
+          52.53271613179649
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wasserstein Otto-Weidt-Platz",
+        "info": "Otto-Weidt-Platz",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.366827156278639,
+          52.53331591261888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wasserüberlaufbecken",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.526923607876643,
+          52.40344013523085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dreiecksbrunnen",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.606710523438208,
+          52.54060783691353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Die Begegnung",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.591180520422672,
+          52.5212953700372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Postmeilensäule",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.595547417039851,
+          52.54180113337934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Plansche",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.56247726537158,
+          52.55204039799798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brunnen",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.337673229842332,
+          52.50746132641018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cuvrybrunnen",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.444312292284517,
+          52.4978912649903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brunnengalerie Blumenschau",
+        "info": "Treptower Park / Puschkinallee",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.476136033378099,
+          52.48825952091129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "FEZ-Brunnen",
+        "info": null,
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.547618631885598,
+          52.46091163815612
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sprudelnde Kugeln",
+        "info": "Sella-Hasse-Straße 25",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.556292636279348,
+          52.552976061116276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Plansche",
+        "info": "Zerbster Straße 64",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.611685986353661,
+          52.54138054058301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MHP23 Plansche",
+        "info": "Fred-Löwenberg-Platz / Wuhlestraße 24",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.56866197973482,
+          52.527572051077485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Spielbrunnen",
+        "info": "Stuttgarter Platz / Leonhardtstraße",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.29941932,
+          52.50456879
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Plansche Volkspark ",
+        "info": "Volkspark Friedrichshain",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4283463,
+          52.52700362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Plansche Annemirl-Bauer-Platz",
+        "info": "Annemirl-Bauer-Platz",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.46638352,
+          52.5050015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Plansche Besselpark",
+        "info": "Besselpark",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.39373601,
+          52.50413189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Plansche Görlitzer Park",
+        "info": "Görlitzer Park",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.44136623,
+          52.49483078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Plansche beim Spielplatz im Fennpfuhlpark",
+        "info": "Fennpfuhlpark",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4741021,
+          52.53112151
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MHP10 Plansche Freizeitforum",
+        "info": "Victor-Klemperer-Platz",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.55598855,
+          52.54635954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MHP24 Plansche Stadtgarten Biesdorf  \"Zirkuszelt\"",
+        "info": "Elsterwerdaer Platz",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.555148,
+          52.50583504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MHP17 Plansche Marzahn West",
+        "info": "Geraer Ring 32",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.560716,
+          52.56772004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MHP18 Plansche Marzahn Ost",
+        "info": "Landsberger Allee / Hohensaatener Straße / Ringenwalder Straße",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.577058,
+          52.54921804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Singerstr., Plansche",
+        "info": "Singerstraße",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.42361551,
+          52.51694369
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Weydemeyerstr.",
+        "info": "Weydemeyerstraße",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.42744571,
+          52.52106343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Volkspark am Weinbergsweg",
+        "info": "Volkspark am Weinbergsweg",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.40241058,
+          52.5319862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Eichendorffstr. Wasserspielbereich (Invalidenstr.)",
+        "info": "Eichendorffstraße / Invalidenstraße",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.38760264,
+          52.53110538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Goethepark Spielplatz südl. d. Kreuzung (Dohnagesell)",
+        "info": "Goethepark / Dohnagesell",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.33364189,
+          52.54549297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Plansche auf dem Spielberg im Thälmann-Park",
+        "info": "Ernst-Thälmann-Park",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.432861,
+          52.53688904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Plansche Weißensee Park",
+        "info": "Park am Weißen See",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.460917,
+          52.55538904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Plansche Plänterwald",
+        "info": "Dammweg 1c",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.489014,
+          52.48135104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Volkspark Friedrichshain",
+        "info": "Volkspark Friedrichshain",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.433587,
+          52.52910204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Frankfurter Allee 104-106",
+        "info": "Frankfurter Allee 104-106",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.474248,
+          52.51298604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Annemirl Bauer Platz",
+        "info": "Annemirl Bauer Platz",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.466259,
+          52.50450804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Schleidenplatz",
+        "info": "Schleidenplatz",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.472535,
+          52.51535904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Forckenbeckplatz",
+        "info": "Forckenbeckplatz",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.461034,
+          52.52004304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wriezener Bhf / Rüdersdorfer Str",
+        "info": "Wriezener Bhf / Rüdersdorfer Str",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.445154,
+          52.51016304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mendelsson Bartholdy Park",
+        "info": "Mendelsson Bartholdy Park",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.378288,
+          52.50276404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Waldeckpark",
+        "info": "Waldeckpark",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.405444,
+          52.50539504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Frankfurter Tor",
+        "info": "Frankfurter Tor",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.452467,
+          52.51628204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wismarplatz",
+        "info": "Wismarplatz",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.464381,
+          52.51058704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Viktoriapark",
+        "info": "Viktoriapark",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.38135,
+          52.48968904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mariannenplatz",
+        "info": "Mariannenplatz",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.426682,
+          52.50485004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oranienplatz",
+        "info": "Oranienplatz",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.416187,
+          52.50300704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Görlitzer Park",
+        "info": "Görlitzer Park",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.435926,
+          52.49786704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cuvrystraße",
+        "info": "Cuvrystraße",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.444275,
+          52.49787504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Seefontäne Weberwiese",
+        "info": "Teich Weberwiese",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.44367846,
+          52.51565627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Seefontäne Kleiner Teich Volkspark",
+        "info": "Volkspark Friedrichshain",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.43433198,
+          52.52490075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Seefontäne Großer Teich Volkspark",
+        "info": "Volkspark Friedrichshain",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.43351325,
+          52.52729366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Seefontäne Görli",
+        "info": "Görlitzer Park",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.44411237,
+          52.49502472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wasserfall Viktoriapark",
+        "info": "Viktoriapark/ Kreuzbergstraße",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.38187708,
+          52.48875777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wasserfall Wolfsschlucht",
+        "info": "Viktoriapark",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3831292,
+          52.48767902
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bachlauf Volkspark",
+        "info": "Volkspark Friedrichshain",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.43491066,
+          52.52646217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bachlauf Görli",
+        "info": "Görlitzer Park",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.44079261,
+          52.49624774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Schwimm-Fontäine",
+        "info": "Anton-Saefkow-Platz / Fennpfuhlplatz",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.47400013,
+          52.52829908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fontänen im Engelbecken",
+        "info": "Michaelkirchplatz 25",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.41829194,
+          52.50581435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Überlaufstein Lustgarten",
+        "info": "Kupfergraben",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.39863515,
+          52.51809739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fontäne im Weißen See",
+        "info": "Weißer See",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.46275,
+          52.55469404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wasserlauf Quellstein bis Becken Falkplatz",
+        "info": "Falkplatz",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.40188468,
+          52.54628315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wasserfall am Teich im Thälmann-Park",
+        "info": "Ernst-Thälmann-Park",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.434583,
+          52.53877804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Schwimmfontäne",
+        "info": "Seggeluchbecken ",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.34806494,
+          52.60189153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kleine Kaskaden (einschließlich Rundbecken mit Fontäne)",
+        "info": "Lietzenseepark Nord / Wundtstraße",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.28961202,
+          52.50924498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Große Kaskade",
+        "info": "Lietzenseepark Süd / Dernburgstraße",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.28917354,
+          52.50335253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Olivaer Platz Schmuckstein",
+        "info": "Olivaer Platz",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.31330761,
+          52.49952446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Weltkugelbrunnen \"Wasserklops\"",
+        "info": "Breitscheidplatz",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.33650166,
+          52.50464257
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gänselieselbrunnen",
+        "info": "Nikolsburger Platz",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.32868526,
+          52.49319794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Siegfriedbrunnen (Rosslenkerbrunnen)",
+        "info": "Rüdesheimer Platz",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.31524598,
+          52.47311668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gorgobrunnen \"Medusa\"",
+        "info": "Henriettenplatz",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.29132949,
+          52.49671438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brunnen-Stele",
+        "info": "Fasanenplatz",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.32702155,
+          52.49850368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wasserfontäne",
+        "info": "Walter-Benjamin-Platz / Leibnizstraße",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.31355343,
+          52.50189881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brunnenanlage mit 2 Becken und Fontänen",
+        "info": "Ernst-Reuter-Platz",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.32216099,
+          52.51261732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brunnenstelen",
+        "info": "Knobelsdorffstraße / Wundtstraße / Kläre-Bloch-Platz",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.29487282,
+          52.51323227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Granitstelen mit Fontänen",
+        "info": "Friedrich-Hollaender-Platz ",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.33107338,
+          52.50016518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. Georg-Brunnen",
+        "info": "Hindemithplatz",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3080258,
+          52.50327661
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Märchenbrunnen",
+        "info": "Volkspark Friedrichshain, ",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.42677581,
+          52.52795209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wrangelbrunnen",
+        "info": "Grimmstraße / Urbanstraße",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4130661,
+          52.49208926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Schmuckgarten-Brunnen",
+        "info": "Görlitzer Park",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.44008609,
+          52.49626656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hausbrunnen im Görli",
+        "info": "Görlitzer Park",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.43248653,
+          52.49889806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cuvrybrunnen",
+        "info": "Cuvrystraße",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.44425824,
+          52.49781435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fünf-Wasser-Tiegel Brunnen",
+        "info": "Marheinekeplatz",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3956833,
+          52.48919564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brunnenstein Altes Zollhaus",
+        "info": "Carl-Herz-Ufer",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.40050118,
+          52.49672665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Straßenbrunnen Oppelner Straße",
+        "info": "Oppelner Straße",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.43947227,
+          52.49830076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wunschbrunnen Besselpark",
+        "info": "Besselpark",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.39140298,
+          52.50381327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Frankfurter Allee Nr.13/15",
+        "info": "Frankfurter Allee 13-15",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.45739949,
+          52.51569654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kugelbrunnen",
+        "info": "Dolgenseestraße 11-11a",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.50653303,
+          52.49381637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brunnen m. Sandsteinpl.",
+        "info": "Charlottenstraße / Schloßachse",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.521855,
+          52.50805304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Findlingsbrunnen",
+        "info": "Landsberger Allee 225-227",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.486158,
+          52.53526004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MHP22 Fontaine Schlosspark Biesdorf",
+        "info": "Schlosspark Biesdorf",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.565073,
+          52.51036004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MHP26 Zierbrunnen \"Wasserspiel Gut Hellersdorf\"",
+        "info": "Stadtplatz Gut Hellersdorf / Alt-Hellersdorf",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.595048,
+          52.53898504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MHP03 Treppenbrunnen Generationen",
+        "info": "Helene-Weigel-Platz 8",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.53947325,
+          52.5275332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MHP05 Brunnen mit Findling",
+        "info": "Karl-Holtz-Platz 1-4 ",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.569059,
+          52.55307504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MHP08 Lindenbrunnen",
+        "info": "Mehrower Allee 28 / Ludwig-Renn-Straße 58-60",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.562884,
+          52.55462604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MHP09 Zierbrunnen ",
+        "info": "Victor-Klemperer-Platz",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.55523753,
+          52.54642764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Neorenaissancebrunnen",
+        "info": "Am Köllnischen Park / Rungestraße",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.41479144,
+          52.51330003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kieselwaschbetonbrunnen",
+        "info": "Lützowplatz 16",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.35266849,
+          52.50500194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tanz auf dem Vulkan",
+        "info": "Reinickendorfer Str. 110",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.36944134,
+          52.5446786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen beim Paddenwirt",
+        "info": "Nikolaikirchplatz / Eiergasse",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.40823338,
+          52.51679019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wappenbrunnen",
+        "info": "Nikolaikirchplatz 14",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.40687542,
+          52.51668901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "2 Historische Springbrunnen",
+        "info": "Pariser Platz",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.37893663,
+          52.5160248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rathenaubrunnen",
+        "info": "Volkspark Rehberge",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.33091247,
+          52.54974301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pfauenbrunnen",
+        "info": "Holzmarktstraße 75",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4189541,
+          52.51571747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nilpferdbrunnen",
+        "info": "Vinetaplatz",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.39866026,
+          52.54109852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wasserkaskaden am Fernseturm",
+        "info": "Panoramastraße 1a",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4081744,
+          52.52022859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lessingdenkmal",
+        "info": "Gorßer Tiergarten",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.37496819,
+          52.51205304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kleine Liebessäule",
+        "info": "Dorothea-Schlegel-Platz",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.38548549,
+          52.51996862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pferdetränke",
+        "info": "Magdeburger Platz",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.36053252,
+          52.50362521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wasserspiele im Gartendemkmal",
+        "info": "Kleiner Tiergarten ",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.344229,
+          52.52576843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brunnenschale Weddingplatz",
+        "info": "Weddingplatz",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3701456,
+          52.54049681
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wasserbecken Louise-Schröder-Platz",
+        "info": "Louise-Schröder-Platz",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.36608748,
+          52.55761724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wasserbecken Hansaplatz",
+        "info": "Hansaplatz",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.34233662,
+          52.51702993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wasseranlage von Girot, Invalidenbrunnen, Mauerbrunnen",
+        "info": "Invalidenpark",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.37633672,
+          52.52938201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brunnen mit Rosenspalier",
+        "info": "Hasenheide",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.41631,
+          52.48314004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fontänenbrunnen",
+        "info": "Fulhamer Allee / Alt Britz 73",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.43942,
+          52.44724004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Märchenbrunnen",
+        "info": "Von-der-Schulenburg-Park / Sonnenallee 297",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.47099,
+          52.46740004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Milchmädchen",
+        "info": "Fulhamer Allee / Alt Britz 73",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.43935,
+          52.44677004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Froschkönig",
+        "info": "Teutoburger Platz",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.408917,
+          52.53183304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stillleben Bettinas Bank",
+        "info": "Arnimplatz / Seelower Straße 8",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.410417,
+          52.55169404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Schmiedebankplatz ",
+        "info": "Berliner Allee 28-32 / Bizetstraße 21-23",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.451083,
+          52.54775004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chronisteneck",
+        "info": "Achillesstraße / Beerbaumstraße",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.485917,
+          52.62127804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Löwenbrunnen Wasserturm",
+        "info": "Wasserturmplatz / Rykestraße / Knaackstraße",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.418306,
+          52.53394404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kissenbrunnen Hugenottenplatz",
+        "info": "Hugenottenplatz",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.420917,
+          52.60686104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Drei Brunnenbecken ",
+        "info": "Thomas Mann-Straße 14-18",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.444417,
+          52.54247204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brunnen mit Säulen",
+        "info": "Grabbeallee / Pankebrücke",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.39825,
+          52.57083304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Erich-Weinert-Str. / Prenzlauer Allee",
+        "info": "Erich-Weinert-Straße / Ecke Prenzlauer Allee",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.429389,
+          52.54777804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Walrosse auf dem Falkplatz",
+        "info": "Falkplatz",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.404556,
+          52.54619404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Paar in der Badewanne ",
+        "info": "Mittelpromenade Metzer Straße",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.415333,
+          52.53186104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bärenbrunnen",
+        "info": "Helmholtzplatz / Raumerstraße",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.420194,
+          52.54275004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Schinkelbrunnen",
+        "info": "Alt-Tegel 2",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.28253949,
+          52.58969727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Blüttenbrunnen",
+        "info": "Letteplatz",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.37058381,
+          52.56366556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Barbarossabrunnen",
+        "info": "Paul-Poser-Platz",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.28044347,
+          52.62645089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vier Wassertempel",
+        "info": "Kurt-Schumacher-Platz",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.32799428,
+          52.5637812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fontanebogen",
+        "info": "Wihelmsruher Damm 142",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.35291837,
+          52.59779509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wasserfall am Steinbergsee",
+        "info": "Lange Ende 1",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.30889069,
+          52.59819812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fontänenfeld",
+        "info": "Goltzstrasse/ Mertensstrasse / Pepitapromenade",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.21469947,
+          52.56371038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jugendplatzbrunnen",
+        "info": "Jugendplatz",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.26991276,
+          52.53798817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Großer Springbrunnen",
+        "info": "Bernkastler Platz",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3456128,
+          52.44024349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Schöpfbrunnen",
+        "info": "Friedhof Onkel-Tom-Straße 30",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.25295181,
+          52.43981319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brunnenplastik",
+        "info": "Martin-Buber-Straße / Kirchstraße",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.25711588,
+          52.43345273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vier-Winde-Brunnen",
+        "info": "Leonorenstraße 70",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.34328154,
+          52.43862671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Schalenbrunnen",
+        "info": "Schildhornstraße / Schloßstraße",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.32433442,
+          52.46136426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lindenbrunnen",
+        "info": "Parkfriedhof Lichterfelde",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.29052134,
+          52.42062049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Seerosenbecken  ",
+        "info": "Treptower Park / Puschkinallee",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.469539,
+          52.49055704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fontäne Marktplatz Adlershof",
+        "info": "Dörpfeldstraße 46",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.547337,
+          52.43787004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nebelbrunnen Marktplatz Friedrichshagen",
+        "info": "Bölschestraße 110-113",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.62439961,
+          52.4511049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wolf und Kranich",
+        "info": "Treptower Park / Puschkinallee",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.468577,
+          52.49142604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fischbrunnen Rathaus Treptow ",
+        "info": "Bulgarische Staße. / Neue Krug Allee",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.479348,
+          52.48394504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dreierbrunnen",
+        "info": "Schwerinstraße 14 ",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.35773845,
+          52.49758165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Erikabrunnen",
+        "info": "Adam-Kuckhoff-Platz",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.32031511,
+          52.47244468
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fontänen auf dem Stadtplatz (Lichtbrunnen)",
+        "info": "Kaiser-Wilhelm-Platz",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.35707791,
+          52.48652544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Schultze-Seehof-Brunnen",
+        "info": "Alt-Tempelhof",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.38619129,
+          52.46587083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kinderbrunnen",
+        "info": "Barbarossaplatz",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.34927056,
+          52.49213714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Garten der Blumen und Wasserspiele",
+        "info": "Park am Wolffring",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.37882404,
+          52.4809687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sintflutbrunnen",
+        "info": "Perelplatz / Lauterstraße",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.33514966,
+          52.47567015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vier Straßenbrunnen",
+        "info": "Steinmetzstraße / Alvenslebenstraße",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.36307307,
+          52.49554669
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kleiner Brunnen Nollendorfstraße",
+        "info": "Nollendorfstraße",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.35492557,
+          52.49815567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Straßenbrunnen",
+        "info": "Crellestraße / Helmstraße",
+        "category": "Brunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.36072649,
+          52.48812029
+        ]
+      }
+    }
+  ]
+}

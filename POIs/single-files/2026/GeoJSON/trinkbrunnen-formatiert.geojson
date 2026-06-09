@@ -1,0 +1,4040 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2059831,
+          52.5461978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3508222,
+          52.545075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fachschaftsrat VI",
+        "info": "Fachschaftsraum der Fachschaft VI Informatik und Medien",
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3505558,
+          52.5432643
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wiener Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3250412,
+          52.5027369
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3276757,
+          52.503248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4461433,
+          52.472202
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3304781,
+          52.5034004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3813936,
+          52.5525831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3034619,
+          52.4821114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": "Trinkbrunnen, nur außerhalb der Frostperiode",
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3022781,
+          52.4554121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4189631,
+          52.4986636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4093084,
+          52.4315183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": "Trinkbrunnen, nur außerhalb der Frostperiode",
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3059014,
+          52.4557499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1970197,
+          52.5249428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": "Trinkbrunnen Ringkolonnaden",
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5630502,
+          52.5545592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4182015,
+          52.5367424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4921282,
+          52.4202153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4270349,
+          52.4883515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2070095,
+          52.5346659
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3724099,
+          52.499449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.41944,
+          52.433937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2538261,
+          52.5052032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.342612,
+          52.5257542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3201723,
+          52.4251203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2104745,
+          52.4765982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5263703,
+          52.4586807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.526608,
+          52.4820804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5024523,
+          52.5660393
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4329038,
+          52.5285384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5793379,
+          52.458332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": "Trinkbrunnen, nur außerhalb der Frostperiode",
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3057149,
+          52.4559221
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4989954,
+          52.510494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4113889,
+          52.5673196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.40452,
+          52.5698534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": "Trinkbrunnen, Schüttung circa 30 ml pro Sekunde, Flaschen füllen möglich",
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3872405,
+          52.549671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.398695,
+          52.5412732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": "Trinkbrunnen; Mai-Okt",
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4017636,
+          52.5110324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3901552,
+          52.5079674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3736379,
+          52.4957248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4716309,
+          52.5297187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4870032,
+          52.5013051
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3794023,
+          52.5095536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": "Berliner Trinkbrunnen; Mai-Okt",
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2961093,
+          52.5192385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5385285,
+          52.5278915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5607923,
+          52.505948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5483757,
+          52.4611631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3473185,
+          52.5283748
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": "inside the mensa building on the northern side there is a water fountain with potable water.",
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2885685,
+          52.4530439
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5435759,
+          52.543056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5736764,
+          52.5132642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4487272,
+          52.511362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3069271,
+          52.5058411
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3170977,
+          52.434161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5756551,
+          52.5342736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": "Trinkbrunnen, nur außerhalb der Frostperiode (Mai-Okt)",
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3041576,
+          52.4585282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": "Trinkbrunnen, nur außerhalb der Frostperiode (Mai-Okt)",
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2898919,
+          52.4579536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": "Trinkbrunnen, nur außerhalb der Frostperiode (Mai-Okt)",
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2590567,
+          52.4333984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2740415,
+          52.5086629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.198922,
+          52.5360414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2407817,
+          52.525921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3063828,
+          52.5076709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.364205,
+          52.5438933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3354457,
+          52.5303473
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4608049,
+          52.5199043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4354349,
+          52.4810287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": "Trinkbrunnen; nur außerhalb der Frostperiode (Mai-Okt)",
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3351796,
+          52.4720755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3072451,
+          52.5008189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": "Trinkbrunnen, nur außerhalb der Frostperiode (Mai-Okt)",
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3245057,
+          52.4612866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4064442,
+          52.516625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4376695,
+          52.4720554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4375397,
+          52.4701155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3060167,
+          52.508792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2744435,
+          52.5881706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2868702,
+          52.5859424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4102117,
+          52.5487932
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.424537,
+          52.5036585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4782464,
+          52.5191322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4510768,
+          52.5486673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": "Trinkbrunnen, nur außerhalb der Frostperiode (Mai-Okt)",
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3223376,
+          52.4567798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": "Trinkbrunnen; Mai-Oktober",
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3197367,
+          52.4893489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4670199,
+          52.5171483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": "März–Oktober",
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.318791,
+          52.4833969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3599699,
+          52.5506776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.435589,
+          52.4698754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3675653,
+          52.5520027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": "Trinkbrunnen; nur außerhalb der Frostperiode (Mai-Okt)",
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3354403,
+          52.4486595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5215822,
+          52.5670452
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3922503,
+          52.5554365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4312112,
+          52.493083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4223036,
+          52.4765877
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3614081,
+          52.5632879
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3797732,
+          52.5263627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4300801,
+          52.5423427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wasserspender",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4448018,
+          52.5172231
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4961684,
+          52.5036104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3393362,
+          52.5327092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4390703,
+          52.5279214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4825707,
+          52.5035482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5113126,
+          52.4942438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4078304,
+          52.4895176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4429075,
+          52.5160179
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.437356,
+          52.5178491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5764176,
+          52.5399059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4071,
+          52.4822
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5209785,
+          52.5038306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5087798,
+          52.5253726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3866466,
+          52.4714716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4484522,
+          52.4818435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.446422,
+          52.4835802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": "Trinkbrunnen; Mai-Okt",
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3147973,
+          52.4993977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": "Trinkbrunnen; Mai-Okt",
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3227511,
+          52.4977287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5704202,
+          52.5488292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5566231,
+          52.5466075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4859343,
+          52.5113827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3531192,
+          52.6003244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4204021,
+          52.552017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen an der Marie",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4244979,
+          52.535006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.395756,
+          52.4891231
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2080271,
+          52.5554727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": "Trinkbrunnen, nur außerhalb der Frostperiode (Mai-Okt)",
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2402752,
+          52.4424363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7209279,
+          52.4389881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": "Trinkbrunnen; März-Oktober",
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2903353,
+          52.6343557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": "Trinkbrunnen (modetner Brunnen), nur außerhalb der Frostperiode (Mai-Okt)",
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2302699,
+          52.4470696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": "Trinkbrunnen, nur außerhalb der Frostperiode (Mai-Okt)",
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2577857,
+          52.4354299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": "Trinkbrunnen, nur außerhalb der Frostperiode (Mai-Okt)",
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3121552,
+          52.4429144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": "Trinkbrunnen, nur außerhalb der Frostperiode (Mai-Okt)",
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3431689,
+          52.4389802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4221867,
+          52.5443624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": "Berliner Trinkbrunnen; Mai-Okt",
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4391818,
+          52.4890967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4293857,
+          52.5186853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3779714,
+          52.4965686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5891247,
+          52.4406723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4185181,
+          52.4764672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4199503,
+          52.4708377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5535884,
+          52.4352163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.313469,
+          52.4904278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4819777,
+          52.48929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3016888,
+          52.5051043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3860318,
+          52.516778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4670424,
+          52.5200476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1981059,
+          52.5551093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5546651,
+          52.5571581
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3696294,
+          52.5444376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4146715,
+          52.4949204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4474111,
+          52.5101075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": "Berliner Trinkbrunnen; Mai-Okt",
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3040597,
+          52.5257772
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1721861,
+          52.5212686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5082781,
+          52.4065732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": "Trinkbrunnen, Privatgelände",
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2653442,
+          52.5760769
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": "Trinkbrunnen, nur außerhalb der Frostperiode (Mai-Okt)",
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1970327,
+          52.5135624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": "Trinkbrunnen, nur in Sommerperiode in Betriebe",
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2112804,
+          52.5460494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": "Trinkbrunnen, nur in Sommerperiode in Betrieb",
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1782108,
+          52.5502374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": "Trinkbrunnen, nur in Sommerperiode in Betrieb",
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2061468,
+          52.5386916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6241142,
+          52.4505938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6443927,
+          52.4477402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3060309,
+          52.6018139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2000212,
+          52.5284661
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": "Trinkbrunnen (im Winter inaktiv)",
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.397813,
+          52.5710355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4954378,
+          52.5420071
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4179519,
+          52.4769978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3627384,
+          52.548927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4005533,
+          52.3865757
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4319304,
+          52.5501327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5391963,
+          52.5362176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3604334,
+          52.4849802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4123644,
+          52.5622756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3593835,
+          52.5428574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3482099,
+          52.4853002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.47881,
+          52.5151097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3601666,
+          52.5722641
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3530154,
+          52.5398611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkwasserbrunnen am Friedhof",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4933268,
+          52.4605478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen Ahrensfelder Platz",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5659571,
+          52.5700647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.455128,
+          52.5034302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4218574,
+          52.5378164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": "Trinkwasserbrunnen barrierrefreies Modell",
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4314871,
+          52.5004545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": "Trinkwasserbrunnen barrierefreies Modell",
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4305776,
+          52.5007769
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4227986,
+          52.4910729
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3918106,
+          52.4997322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": "Trinkbrunnen Bürgerpark Pankow, barrierefreies Modell",
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3959752,
+          52.5689948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6041632,
+          52.5372186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.402748,
+          52.5417769
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2064671,
+          52.5426181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4467452,
+          52.5418314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3520526,
+          52.546131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4924571,
+          52.5481459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4984522,
+          52.5354993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4060219,
+          52.4980203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wasserwerk An Den Müggelbergen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6332799,
+          52.4124098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4100362,
+          52.4791497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4058023,
+          52.4967269
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4985322,
+          52.5385004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2797444,
+          52.5369224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4755312,
+          52.5261754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5128766,
+          52.5678703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4722746,
+          52.5154629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4743692,
+          52.5273543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.585842,
+          52.5273753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5190559,
+          52.5671291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.364981,
+          52.4877636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.509589,
+          52.5714364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5347833,
+          52.4642412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3373404,
+          52.5035925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4918912,
+          52.5464402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4004115,
+          52.5438972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2625634,
+          52.5416245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4233071,
+          52.4993209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3423678,
+          52.4491934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4936827,
+          52.4821725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": "Berliner Trinkbrunnen; Mai-Okt",
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2992166,
+          52.5152775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2911097,
+          52.5102544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3478906,
+          52.4675718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4215887,
+          52.5138258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2175533,
+          52.5594186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.336163,
+          52.5233184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": "Trinkbrunnen, nur außerhalb der Frostperiode (Mai-Okt)",
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2143678,
+          52.4402072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5063502,
+          52.4938754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5211452,
+          52.4976252
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4065399,
+          52.5144053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3612992,
+          52.5479612
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2854102,
+          52.5899555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4858156,
+          52.5353021
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": "Betrieb: April bis Oktober\nTyp: Kaiser",
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2856289,
+          52.5063391
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3912102,
+          52.5041205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4891373,
+          52.5152608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.410746,
+          52.5155245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Euro-Trinkbrunnen",
+        "info": "Anlässlich der Kampagne “EIN SPIEL – EIN TRINKBRUNNEN” für die Fußball-EM 2024 der Männer aufgestellt. Vom Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV) gefördert und durchgeführt von a tip: tap e.V.",
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2406957,
+          52.5121372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3830819,
+          52.55947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4538094,
+          52.5463756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4846511,
+          52.4122716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4376937,
+          52.4629751
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3246015,
+          52.588793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1934127,
+          52.5206164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3261183,
+          52.5098441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3690506,
+          52.4925429
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3491216,
+          52.4564447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1872968,
+          52.518963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Euro-Trinkbrunnen",
+        "info": "Anlässlich der Kampagne “EIN SPIEL – EIN TRINKBRUNNEN” für die Fußball-EM 2024 der Männer aufgestellt. Vom Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV) gefördert und durchgeführt von a tip: tap e.V.",
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3221632,
+          52.4842214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5034849,
+          52.5768681
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4627089,
+          52.5526615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": "Trinkbrunnen; Mai-Okt",
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3333108,
+          52.4935826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4175535,
+          52.4739274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4055821,
+          52.5030814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": "Im Stadtteilzentrum Kaulsdorf kann man sich seine Trinkflasche mit Leitungswasser auffüllen.",
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5842225,
+          52.5102359
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "EURO-Trinkbrunnen",
+        "info": "Anlässlich der Kampagne “EIN SPIEL – EIN TRINKBRUNNEN” für die Fußball-EM 2024 der Männer aufgestellt. Vom Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV) gefördert und durchgeführt von a tip: tap e.V.",
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2412734,
+          52.5181526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5949959,
+          52.5388775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3344582,
+          52.5175823
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3760057,
+          52.5162879
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3785805,
+          52.5609014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4374094,
+          52.5449004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.526264,
+          52.4034716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3926775,
+          52.5142534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4020834,
+          52.5403191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2437679,
+          52.5143067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3851468,
+          52.5724412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3867624,
+          52.5711064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3886537,
+          52.5703793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3881889,
+          52.5700871
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3885423,
+          52.5698873
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3888769,
+          52.5701258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1876903,
+          52.5299729
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3741229,
+          52.5082867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3786714,
+          52.5583707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3578225,
+          52.5071069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3829154,
+          52.4634062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": "Neben dem Fahrstuhl",
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4020335,
+          52.5685338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4846289,
+          52.622503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3238535,
+          52.4607371
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": null,
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3977596,
+          52.3878323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinkbrunnen",
+        "info": "Trinkbrunnen, altes Modell (Großer Brunnen mit Steinverkleidung, breites Becken). Möglicherweise nicht mehr in Betrieb.",
+        "category": "Trinkbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2301929,
+          52.4471008
+        ]
+      }
+    }
+  ]
+}

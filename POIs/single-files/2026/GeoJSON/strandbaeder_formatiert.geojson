@@ -1,0 +1,200 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Strandbad Friedrichshagen",
+        "info": null,
+        "category": "Strandbad"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.630692,
+          52.445836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Strandbad Grünau",
+        "info": null,
+        "category": "Strandbad"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.607215,
+          52.408983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Strandbad Halensee",
+        "info": null,
+        "category": "Strandbad"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.281842,
+          52.494533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Strandbad Heiligensee",
+        "info": null,
+        "category": "Strandbad"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.212969,
+          52.60045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Strandbad Jungfernheide",
+        "info": null,
+        "category": "Strandbad"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.274666,
+          52.543708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lübars, Strandbad (Ziegeleisee)",
+        "info": null,
+        "category": "Strandbad"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.336049,
+          52.61795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Strandbad Müggelsee",
+        "info": null,
+        "category": "Strandbad"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.675901,
+          52.444719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Strandbad Orankesee",
+        "info": null,
+        "category": "Strandbad"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.484255,
+          52.549596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Strandbad Plötzensee",
+        "info": null,
+        "category": "Strandbad"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.32923,
+          52.543601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Strandbad Tegeler See",
+        "info": null,
+        "category": "Strandbad"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.245277,
+          52.577838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Strandbad Wannsee",
+        "info": null,
+        "category": "Strandbad"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.176804,
+          52.438898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Strandbad Weißensee",
+        "info": null,
+        "category": "Strandbad"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.465588,
+          52.553957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Strandbad Wendenschloss",
+        "info": null,
+        "category": "Strandbad"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.600317,
+          52.415144
+        ]
+      }
+    }
+  ]
+}
