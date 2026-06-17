@@ -13,7 +13,7 @@
       "properties": {
         "category": "Öffentlicher \"Kühler Raum\"",
         "name": "Lindenkirche",
-        "info": "Homburger Str. 48, 14197 Berlin | Mo - So: 10 - 16 Uhr | nicht rollstuhlgerecht | Es erfolgt keine medizinische Betreuung."
+        "info": "Homburger Str. 48, 14197 Berlin | Mo - So: 10:00 - 16:00 Uhr | nicht rollstuhlgerecht | Es erfolgt keine medizinische Betreuung."
       }
     },
     {
@@ -29,6 +29,21 @@
         "category": "Öffentlicher \"Kühler Raum\"",
         "name": "Museum - Gropius Bau",
         "info": "Niederkirchnerstraße 7, 10963 Berlin | Mo: 12:00 - 19:00 Uhr; Mi - Fr: 12:00 - 19:00 Uhr; Sa, So, Feiertage: 10:00 - 19:00 Uhr | rollstuhlgerecht | Es sind barrierefreie/ rollstuhlgerechte Toiletten im Untergeschoss und im ersten Obergeschoss zu finden. Es erfolgt keine medizinische Betreuung."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.397175,
+          52.48949304
+        ]
+      },
+      "properties": {
+        "category": "Öffentlicher \"Kühler Raum\"",
+        "name": "Passionskirche am Marheinekeplatz",
+        "info": "Marheinekeplatz 1, 10961 Berlin | Mo - Mi: 14:00 - 18:00 Uhr Freitagnachmittag mobil mit Rad für gefährdete Personen im Quartier (aufsuchende Hilfe ca. 2 Std.) | rollstuhlgerecht | Es gibt Trinkwasser, Sitzgelegenheiten, Toiletten, Unterhaltung/Spiele und W-LAN, Sonnencreme und Sonnenhüte. Es erfolgt keine medizinische Betreuung."
       }
     },
     {
@@ -156,6 +171,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          13.346222,
+          52.55409404
+        ]
+      },
+      "properties": {
+        "category": "Öffentlicher \"Kühler Raum\"",
+        "name": "Zukunftshaus Wedding",
+        "info": "Müllerstr. 56-58, 13349 Berlin | Mi: 12:30 - 20:00 Uhr | rollstuhlgerecht | Es gibt Trinkwasser, Sitzgelegenheiten, Toiletten, Unterhaltung/Spiele und W-LAN. Es erfolgt keine medizinische Betreuung."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           13.468894,
           52.42977704
         ]
@@ -178,7 +208,7 @@
       "properties": {
         "category": "Öffentlicher \"Kühler Raum\"",
         "name": "Bürgerzentrum Neukölln",
-        "info": "Werbellinstraße 42, 12053 Berlin | Di, Mi: 9:00 - 15.00 Uhr; Do: 9:00 - 17:00 Uhr; Fr: 9:00 - 14:00 Uhr | rollstuhlgerecht | Es ist ein rollstuhlgerechtes WC vorhanden. Es erfolgt keine medizinische Betreuung."
+        "info": "Werbellinstraße 42, 12053 Berlin | Di, Mi: 09:00 - 15.00 Uhr; Do: 09:00 - 17:00 Uhr; Fr: 09:00 - 14:00 Uhr | rollstuhlgerecht | Es ist ein rollstuhlgerechtes WC vorhanden. Es erfolgt keine medizinische Betreuung."
       }
     },
     {
@@ -223,7 +253,7 @@
       "properties": {
         "category": "Öffentlicher \"Kühler Raum\"",
         "name": "Seniorenfreizeitstätte Alt-Rudow 60a",
-        "info": "Alt-Rudow 60a, 12355 Berlin | Mo-Do: 9:00 - 16:00 Uhr; Fr: 9:00 - 12:00 Uhr | rollstuhlgerecht | Es ist ein rollstuhlgerechtes WC vorhanden. Es erfolgt keine medizinische Betreuung."
+        "info": "Alt-Rudow 60a, 12355 Berlin | Mo - Do: 09:00 - 16:00 Uhr; Fr: 09:00 - 12:00 Uhr | rollstuhlgerecht | Es ist ein rollstuhlgerechtes WC vorhanden. Es erfolgt keine medizinische Betreuung."
       }
     },
     {
@@ -238,7 +268,7 @@
       "properties": {
         "category": "Öffentlicher \"Kühler Raum\"",
         "name": "Seniorenfreizeitstätte Gemeinschaftshaus Gropiusstadt",
-        "info": "Bat-Yam-Platz 1, 12353 Berlin | Mo: 10:00 -14:00 Uhr; Di-Fr: 10:00 - 16:00 Uhr | rollstuhlgerecht | Es ist ein rollstuhlgerechtes WC vorhanden. Es erfolgt keine medizinische Betreuung."
+        "info": "Bat-Yam-Platz 1, 12353 Berlin | Mo: 10:00 - 14:00 Uhr; Di-Fr: 10:00 - 16:00 Uhr | rollstuhlgerecht | Es ist ein rollstuhlgerechtes WC vorhanden. Es erfolgt keine medizinische Betreuung."
       }
     },
     {
@@ -253,7 +283,7 @@
       "properties": {
         "category": "Öffentlicher \"Kühler Raum\"",
         "name": "Stadtteilzentrum Köllnische Heide \"Mittendrin\"",
-        "info": "Sonnenallee 319, 12057 Berlin | Mo: 13:00 - 16:00 Uhr; Di: 09:30 - 16:30 Uhr; Mi: 9:30 – 18.00 Uhr; Do: 09:00 - 16:30 Uhr | eingeschränkt rollstuhlgerecht | Es ist kein rollstuhlgerechtes WC vorhanden. Es erfolgt keine medizinische Betreuung."
+        "info": "Sonnenallee 319, 12057 Berlin | Mo: 13:00 - 16:00 Uhr; Di: 09:30 - 16:30 Uhr; Mi: 09:30 - 18.00 Uhr; Do: 09:00 - 16:30 Uhr | eingeschränkt rollstuhlgerecht | Es ist kein rollstuhlgerechtes WC vorhanden. Es erfolgt keine medizinische Betreuung."
       }
     },
     {
@@ -268,7 +298,7 @@
       "properties": {
         "category": "Öffentlicher \"Kühler Raum\"",
         "name": "Tee- und Wärmestube Neukölln",
-        "info": "Weisestraße 34, 12049 Berlin | Mo, Mi, So: 15:00 - 19:00 Uhr; Di (Öffnungstag für Frauen): 10:00 - 15:00 Uhr; Do: 9:00 – 14:00 Uhr | nicht rollstuhlgerecht | Es erfolgt keine medizinische Betreuung."
+        "info": "Weisestraße 34, 12049 Berlin | Mo, Mi, So: 15:00 - 19:00 Uhr; Di (Öffnungstag für Frauen): 10:00 - 15:00 Uhr; Do: 09:00 – 14:00 Uhr | nicht rollstuhlgerecht | Es erfolgt keine medizinische Betreuung."
       }
     },
     {
@@ -306,6 +336,96 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          13.436126,
+          52.41808304
+        ]
+      },
+      "properties": {
+        "category": "Öffentlicher \"Kühler Raum\"",
+        "name": "Stadtteilzentrum Buckow",
+        "info": "Christoph-Ruden-Str. 9, 12349 Berlin | Mo - Fr: 10:00 - 16:00 Uhr | eingeschränkt rollstuhlgerecht | Ein rollstuhlgerechter Zugang ist vorhanden. Es ist kein rollstuhlgerechtes WC vorhanden. Es gibt WLAN und Beschäftigungsmöglichkeiten. Das Mitbringen von Haustieren ist erlaubt. Es erfolgt keine medizinische Betreuung."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.424949,
+          52.49163904
+        ]
+      },
+      "properties": {
+        "category": "Öffentlicher \"Kühler Raum\"",
+        "name": "elele Nachbarschaftszentrum",
+        "info": "Hobrechtstraße 55, 12047 Berlin | Mo - Fr: 15:00 - 18:00 Uhr | nicht rollstuhlgerecht | Es gibt WLAN und Beschäftigungsmöglichkeiten (Spiele und Spielgeräte). Es erfolgt keine medizinische Betreuung."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.462569,
+          52.42838804
+        ]
+      },
+      "properties": {
+        "category": "Öffentlicher \"Kühler Raum\"",
+        "name": "Frauen-Café Gropiusstadt",
+        "info": "Löwensteinring 22 A 12353 Berlin | Mo - Di: 10:00 -15:00 Uhr (je nach Raumbelegung) Mi - Do: 10:00 -17:00 Uhr (je nach Raumbelegung) | eingeschränkt rollstuhlgerecht | FLINTA Cafe (+Kinder): Es gibt WLAN, Spiele und Spielgeräte. Das Mitbringen von Hunden ist erlaubt. Ein rollstuhlgerechter Zugang ist vorhanden. Es ist kein rollstuhlgerechtes WC vorhanden. Das aktuelle Tagesprogramm ist einsehbar auf der Website https://www.frauencafe-gropiusstadt.de/cafe-kalender Es erfolgt keine medizinische Betreuung."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.437826,
+          52.44592904
+        ]
+      },
+      "properties": {
+        "category": "Öffentlicher \"Kühler Raum\"",
+        "name": "Museum Neukölln",
+        "info": "Alt-Britz 81, 12359 Berlin | Mo - So: 10:00 - 18:00 Uhr | rollstuhlgerecht | Es erfolgt keine medizinische Betreuung."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.475718,
+          52.42323804
+        ]
+      },
+      "properties": {
+        "category": "Öffentlicher \"Kühler Raum\"",
+        "name": "Kreisler",
+        "info": "Joachim-Gottschalk-Weg 21, 12353 Berlin | Mi - Fr: 14:00 - 19:00 Uhr Sa: 11:00 - 16:00 Uhr | eingeschränkt rollstuhlgerecht | Ein rollstuhlgerechter Zugang ist vorhanden. Es ist kein rollstuhlgerechtes WC vorhanden. Die Mitnahme von Haustieren ist erlaubt. Es erfolgt keine medizinische Betreuung."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.431306,
+          52.48985204
+        ]
+      },
+      "properties": {
+        "category": "Öffentlicher \"Kühler Raum\"",
+        "name": "Evangelische Kirchengemeinde *Nikodemus - Kulturkirche* im Reuterkiez",
+        "info": "Nansenstraße 12, 12047 Berlin | Di-Fr: 12:00 - 17:00 Uhr | nicht rollstuhlgerecht | Es gibt Spiele und Spielgeräte, WLAN sowie ein Café mit Snacks und Getränken. Die Mitnahme von Hunden ist erlaubt. Es erfolgt keine medizinische Betreuung."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           13.402238,
           52.56900504
         ]
@@ -313,7 +433,7 @@
       "properties": {
         "category": "Öffentlicher \"Kühler Raum\"",
         "name": "Rathaus Pankow",
-        "info": "Breite Str. 24a-26, 13187 Berlin | Mo - Fr: 6:00 – 19:00 Uhr | rollstuhlgerecht | Es ist ein rollstuhlgerechter Zugang mittels Fahrstuhl über den Seiten- und Nebeneingang möglich. Es ist mindestens ein rollstuhlgerechtes WC und Trinkwasserzugang vorhanden. Es erfolgt keine medizinische Betreuung."
+        "info": "Breite Str. 24a-26, 13187 Berlin | Mo - Fr: 06:00 - 19:00 Uhr | rollstuhlgerecht | Es ist ein rollstuhlgerechter Zugang mittels Fahrstuhl über den Seiten- und Nebeneingang möglich. Es ist mindestens ein rollstuhlgerechtes WC und Trinkwasserzugang vorhanden. Es erfolgt keine medizinische Betreuung."
       }
     },
     {
@@ -328,7 +448,7 @@
       "properties": {
         "category": "Öffentlicher \"Kühler Raum\"",
         "name": "Rathaus Weißensee",
-        "info": "Berliner Allee 252-260, 13088 Berlin | Mo - Fr: 6:00 – 19:00 Uhr | rollstuhlgerecht | Es gibt einen rollstuhlgerechten ebenerdigen Zugang zum Gebäude über einen Nebeneingang. Es ist ein Fahrstuhl innerhalb des Gebäudes vorhanden. Es ist mindestens ein rollstuhlgerechtes WC und Trinkwasserzugang vorhanden. Es erfolgt keine medizinische Betreuung."
+        "info": "Berliner Allee 252-260, 13088 Berlin | Mo - Fr: 06:00 - 19:00 Uhr | rollstuhlgerecht | Es gibt einen rollstuhlgerechten ebenerdigen Zugang zum Gebäude über einen Nebeneingang. Es ist ein Fahrstuhl innerhalb des Gebäudes vorhanden. Es ist mindestens ein rollstuhlgerechtes WC und Trinkwasserzugang vorhanden. Es erfolgt keine medizinische Betreuung."
       }
     },
     {
@@ -343,7 +463,7 @@
       "properties": {
         "category": "Öffentlicher \"Kühler Raum\"",
         "name": "Campus Fröbelstraße",
-        "info": "Fröbelstr. 17 Haus 6, 10405 Berlin | Mo - Fr: 6:00 - 19:00 Uhr | rollstuhlgerecht | Es ist ein rollstuhgerechter Zugang mittels Fahrstuhl über den Nebeneingang zum Haus 6 möglich. Es ist ein rollstuhlgerechtes WC und Trinkwasserzugang vorhanden. Es erfolgt keine medizinische Betreuung."
+        "info": "Fröbelstr. 17 Haus 6, 10405 Berlin | Mo - Fr: 06:00 - 19:00 Uhr | rollstuhlgerecht | Es ist ein rollstuhgerechter Zugang mittels Fahrstuhl über den Nebeneingang zum Haus 6 möglich. Es ist ein rollstuhlgerechtes WC und Trinkwasserzugang vorhanden. Es erfolgt keine medizinische Betreuung."
       }
     },
     {
@@ -374,6 +494,21 @@
         "category": "Öffentlicher \"Kühler Raum\"",
         "name": "Familienzentrum Weißensee",
         "info": "Mahlerstr. 4, 13088 Berlin | Mo, Di, Mi, Do: 10:00 - 17:30 Uhr, Fr: 10:00 - 16:30 Uhr | rollstuhlgerecht | Das Familienzentrum ist rollstuhlgerecht zugänglich. Es ist ein Fahrstuhl vorhanden, um alle Bereiche zu erreichen. Ein Trinkwasserzugang ist vorhanden. Es erfolgt keine medizinische Betreuung."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.407645,
+          52.53120204
+        ]
+      },
+      "properties": {
+        "category": "Öffentlicher \"Kühler Raum\"",
+        "name": "Stadtteilzentrum Prenzlauer Berg",
+        "info": "Fehrbelliner Str. 92, 10119 Berlin | Mo - Do: 09:00 - 18:00 Uhr; Fr: 09:00 - 15:00 Uhr | eingeschränkt rollstuhlgerecht | Der Zugang ist barrierefrei in Hochparterre (1. Stock) durch einen Aufzug im Hof möglich. Die Türen dorthin können alle mit einem Türöffner geöffnet werden. Es ist ein barrierefreies WC sowie ein Wickeltisch vorhanden. Es gibt Trinkwasser, Sitzgelegenheiten, Toiletten, Unterhaltung/Spiele und W-LAN. Die Mitarbeiter*innen können auch vor Ort zur Unterstützung angefragt werden (Tel.: 030-44383 - 713). Es erfolgt keine medizinische Betreuung."
       }
     },
     {
@@ -448,7 +583,7 @@
       "properties": {
         "category": "Öffentlicher \"Kühler Raum\"",
         "name": "Begegnungszentrum der Träger gGmbH",
-        "info": "Provinzstraße 84, 13409 Berlin | Mo - So: 10:00 Uhr bis 17:00 Uhr | eingeschränkt rollstuhlgerecht | Es ist kein rollstuhlgerechtes WC vorhanden. Es erfolgt keine medizinische Betreuung."
+        "info": "Provinzstraße 84, 13409 Berlin | Mo - So: 10:00 - 17:00 Uhr | eingeschränkt rollstuhlgerecht | Es ist kein rollstuhlgerechtes WC vorhanden. Es erfolgt keine medizinische Betreuung."
       }
     },
     {
@@ -471,6 +606,126 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          13.293367,
+          52.58927904
+        ]
+      },
+      "properties": {
+        "category": "Öffentlicher \"Kühler Raum\"",
+        "name": "Immanuel Stadtteilzentrum Borsigwalde",
+        "info": "Ziekowstraße 112/114, 13509 Berlin | Mo - Do: 09:00 - 17:00 Uhr; Fr: 09:00 - 12:00 Uhr | rollstuhlgerecht | Es gibt Trinkwasser, Sitzgelegenheiten, Toiletten, Unterhaltung/Spiele. Da die Öffnungszeiten variieren können bitten wir Sie, uns vorab kurz telefonisch zu kontaktieren. Es erfolgt keine medizinische Betreuung."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.344036,
+          52.61387904
+        ]
+      },
+      "properties": {
+        "category": "Öffentlicher \"Kühler Raum\"",
+        "name": "Seniorenfreizeitstätte Lübars",
+        "info": "Am Vierrutenberg 2, 13469 Berlin | Mo - Fr: 08.00 - 16.00 Uhr | rollstuhlgerecht | Es gibt Sitzgelegeneheiten, Trinkwasser, Toiletten, Unterhaltung, Spiele und WLAN. Es erfolgt keine medizinische Betreuung."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.275687,
+          52.59328704
+        ]
+      },
+      "properties": {
+        "category": "Öffentlicher \"Kühler Raum\"",
+        "name": "Seniorenfreizietstätte \"Adele\"",
+        "info": "Adelheidallee 5-7 13507 Berlin | Mo - Fr: 10:00 - 17:00 Uhr | rollstuhlgerecht | Es gibt Sitzgelegenheiten, Trinkwasser und Toiletten. Eine Liegemöglichkeit ist vorhanden. Es erfolgt keine medizinische Betreuung."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.213423,
+          52.60843504
+        ]
+      },
+      "properties": {
+        "category": "Öffentlicher \"Kühler Raum\"",
+        "name": "Seniorenfreizeitstätte Heiligensee",
+        "info": "Alt-Heiligensee 39, 13503 Berlin | Mo - Di: 13:00 - 16:30 Uhr; Do - Fr: 12:30 - 16:30 Uhr | rollstuhlgerecht | Es gibt Toiletten, Sitzgelegenheiten, W-LAN und Spiele. Es erfolgt keine medizinische Betreuung."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.276705,
+          52.58749904
+        ]
+      },
+      "properties": {
+        "category": "Öffentlicher \"Kühler Raum\"",
+        "name": "Seniorenfreizeitstätte - Freizeitclub Tegel",
+        "info": "Alt-Tegel 43, 13507 Berlin | Mo: 12:00 - 16:30 Uhr; Do: 11:00 - 16:30 Uhr; Fr: 11:00 - 16:30 Uhr | rollstuhlgerecht | Es gibt Sitzgelegenheit und Toiletten. Es erfolgt keine medizinische Betreuung."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.313062,
+          52.62024204
+        ]
+      },
+      "properties": {
+        "category": "Öffentlicher \"Kühler Raum\"",
+        "name": "Hermsdorfer Seniorenfüchse",
+        "info": "Berliner Str. 105-107, 13467 Berlin | Mo – Fr: 10:00 – 16:30 Uhr; Do: 10:00 - 17:30 Uhr | rollstuhlgerecht | Es gibt Sitzgelegenheit und Toiletten. Es erfolgt keine medizinische Betreuung."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.363386,
+          52.60306604
+        ]
+      },
+      "properties": {
+        "category": "Öffentlicher \"Kühler Raum\"",
+        "name": "Märkischer Seniorentreff",
+        "info": "Senftenberger Ring 34a, 13435 Berlin | Mo - Fr: 08:30 - 17:00 Uhr | rollstuhlgerecht | Es gibt Sitzgelegenheit und Toiletten. Es erfolgt keine medizinische Betreuung."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.360813,
+          52.56629204
+        ]
+      },
+      "properties": {
+        "category": "Öffentlicher \"Kühler Raum\"",
+        "name": "Seniorenfreizeitstätte Am Schäfersee",
+        "info": "Stargardtstr. 3, 13407 Berlin | Mo - Fr: 10:00 - 17:00 Uhr | rollstuhlgerecht | Es gibt Sitzgelegenheit und Toiletten. Es erfolgt keine medizinische Betreuung."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           13.272686,
           52.54183304
         ]
@@ -478,7 +733,7 @@
       "properties": {
         "category": "Öffentlicher \"Kühler Raum\"",
         "name": "Christophoruskirche",
-        "info": "Schuckertdamm 336 - 340, 13629 Berlin | Offene Sommerkirche 1. Sonntag im Monat, 16:00 - 18:00 Uhr, 17:00 Uhr - 30 Minuten Konzert (Termine: 03.05., 07.06., 05.07., 02.08.) offene Kirche jeden Donnerstag von 16:00 -18:00 Uhr vom 07.05. bis 10.09. (ohne Programm mit Kirchwächter:innen) | rollstuhlgerecht | Es erfolgt keine medizinische Betreuung."
+        "info": "Schuckertdamm 336 - 340, 13629 Berlin | Offene Sommerkirche 1. Sonntag im Monat, 16:00 - 18:00 Uhr, 17:00 Uhr - 30 Minuten Konzert (Termine: 05.07., 02.08.) offene Kirche jeden Donnerstag von 16:00 -18:00 Uhr vom 07.05. bis 10.09. (ohne Programm mit Kirchwächter:innen) | rollstuhlgerecht | Es erfolgt keine medizinische Betreuung."
       }
     },
     {
@@ -493,7 +748,7 @@
       "properties": {
         "category": "Öffentlicher \"Kühler Raum\"",
         "name": "Dorfkirche Alt-Staaken",
-        "info": "Nennhauser Damm 72, 13591 Berlin | Von April bis September an ausgewählten Samstagen und Sonntagen geöffnet: 19.04. von 10:00 - 14:00 Uhr 09.05. von 10:00 - 15:00 Uhr 23.05. von 10:00 - 15:00 Uhr 06.06. von 10:00 - 16:00 Uhr 20.06. von 10:00 - 16:00 Uhr 04.07. von 10:00 - 16:00 Uhr 18.07. von 10:00 - 16:00 Uhr 01.08. von 10:00 - 15:00 Uhr 29.08. von 10:00 - 15:00 Uhr 12.09. von 10:00 - 15:00 Uhr 26.09. von 10:00 - 15:00 Uhr | rollstuhlgerecht | Es ist ein rollstuhlgerechter Zugang vorhanden. Es ist keine Toilette vorhanden. Es erfolgt keine medizinische Betreuung."
+        "info": "Nennhauser Damm 72, 13591 Berlin | Von April bis September an ausgewählten Samstagen und Sonntagen geöffnet: 20.06.: 10:00 - 16:00 Uhr 04.07.: 10:00 - 16:00 Uhr 18.07.: 10:00 - 16:00 Uhr 01.08.: 10:00 - 15:00 Uhr 29.08.: 10:00 - 15:00 Uhr 12.09.: 10:00 - 15:00 Uhr 26.09.: 10:00 - 15:00 Uhr | rollstuhlgerecht | Es ist ein rollstuhlgerechter Zugang vorhanden. Es ist keine Toilette vorhanden. Es erfolgt keine medizinische Betreuung."
       }
     },
     {
@@ -568,7 +823,7 @@
       "properties": {
         "category": "Öffentlicher \"Kühler Raum\"",
         "name": "Schilfdachkapelle",
-        "info": "Gottfried-Arnold-Weg 10, 14089 Berlin | Mo - Fr: 08:00 bis Sonnenuntergang (min. 18:00 Uhr) | nicht rollstuhlgerecht | Es erfolgt keine medizinische Betreuung."
+        "info": "Gottfried-Arnold-Weg 10, 14089 Berlin | Mo - Fr: 08:00 Uhr bis Sonnenuntergang (mind. 18:00 Uhr) | nicht rollstuhlgerecht | Es erfolgt keine medizinische Betreuung."
       }
     },
     {
@@ -658,7 +913,7 @@
       "properties": {
         "category": "Öffentlicher \"Kühler Raum\"",
         "name": "Johanneskirche Schlachtensee",
-        "info": "Matterhornstr. 37/39, 14129 | Mai, Juni, September: Mo, Mi: 9:00 - 13:00; Do: 17:00 - 19:00 Uhr; Fr: 10:00 - 12:00 Uhr; Juli, August: Mo-Fr: 10:00 - 18:00 Uhr (Bei Hitze) | rollstuhlgerecht | Eine Toilette und der Zugang zu Trinkwasser sind vorhanden. Es erfolgt keine medizinische Betreuung."
+        "info": "Matterhornstr. 37/39, 14129 | Juni, September: Mo, Mi: 9:00 - 13:00; Do: 17:00 - 19:00 Uhr; Fr: 10:00 - 12:00 Uhr; Juli, August: Mo-Fr: 10:00 - 18:00 Uhr (bei Hitze) | rollstuhlgerecht | Eine Toilette und der Zugang zu Trinkwasser sind vorhanden. Es erfolgt keine medizinische Betreuung."
       }
     },
     {
@@ -748,7 +1003,7 @@
       "properties": {
         "category": "Öffentlicher \"Kühler Raum\"",
         "name": "Pauluskirche",
-        "info": "Kirchstraße 6, 14163 Berlin | Mo, Mi, Fr: 11:00 - 14:00 Uhr; Di: 16:00 - 18:00 Uhr; Do: 14:00 - 16:00 Uhr; Sa: 11:00 - 13:00 Uhr; So: 9:30 - 11:30 Uhr; sowie an Hitzewarntagen: 14:00 - 18:00 Uhr | rollstuhlgerecht | Eine Toilette und der Zugang zu Trinkwasser sind vorhanden. Es erfolgt keine medizinische Betreuung."
+        "info": "Kirchstraße 6, 14163 Berlin | Mo, Mi, Fr: 11:00 - 14:00 Uhr; Di: 16:00 - 18:00 Uhr; Do: 14:00 - 16:00 Uhr; Sa: 11:00 - 13:00 Uhr; So: 09:30 - 11:30 Uhr; sowie an Hitzewarntagen: 14:00 - 18:00 Uhr | rollstuhlgerecht | Eine Toilette und der Zugang zu Trinkwasser sind vorhanden. Es erfolgt keine medizinische Betreuung."
       }
     },
     {
@@ -764,21 +1019,6 @@
         "category": "Öffentlicher \"Kühler Raum\"",
         "name": "Markuskirche",
         "info": "Karl-Stieler-Str. 8a, 12167 Berlin | So: 12:00 - 16:00 Uhr | rollstuhlgerecht | Eine Toilette und der Zugang zu Trinkwasser sind vorhanden. Es erfolgt keine medizinische Betreuung."
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.336366,
-          52.45924104
-        ]
-      },
-      "properties": {
-        "category": "Öffentlicher \"Kühler Raum\"",
-        "name": "Lukaskirche",
-        "info": "Friedrichsruher Str. 6a, 12169 Berlin | Mo, Do: 10:00 - 12:00 Uhr; Di: 17:00 - 19:00 Uhr | rollstuhlgerecht | Eine Toilette und der Zugang zu Trinkwasser sind vorhanden. Es erfolgt keine medizinische Betreuung."
       }
     },
     {
@@ -816,21 +1056,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.361432,
-          52.42683304
-        ]
-      },
-      "properties": {
-        "category": "Öffentlicher \"Kühler Raum\"",
-        "name": "Jugendfreizeiteinrichtung Wichura",
-        "info": "Wichurastr. 59, 12249 Berlin | Mo - Do: 12:00 - 20:00 Uhr; Fr: 12:00 - 19:30 Uhr | rollstuhlgerecht | Eine Toilette und der Zugang zu Trinkwasser sind vorhanden. Es erfolgt keine medizinische Betreuung."
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           13.141849,
           52.41202904
         ]
@@ -846,6 +1071,66 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          13.322377,
+          52.45472804
+        ]
+      },
+      "properties": {
+        "category": "Öffentlicher \"Kühler Raum\"",
+        "name": "Nachbarschaftsladen Mittelhof",
+        "info": "Berlinickestr. 9, 12165 Berlin | ab 01.05: Di: 14:00 - 16:00 Uhr | eingeschränkt rollstuhlgerecht | Der Eingang ist über eine Rampe erreichbar, das WC nicht. Es gibt Trinkwasser, Sitzgelegenheiten, Toiletten, Unterhaltung/Spiele und W-LAN. Es erfolgt keine medizinische Betreuung."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.328102,
+          52.41310004
+        ]
+      },
+      "properties": {
+        "category": "Öffentlicher \"Kühler Raum\"",
+        "name": "Nachbarschaftshaus Lilienthal",
+        "info": "Schütte-Lanz-Straße 41, NBH Lilienthal, 12209 Berlin | Mo - Fr: 10:00 - 17:30 Uhr | rollstuhlgerecht | Es gibt Trinkwasser, Sitzgelegenheiten, Toiletten und Unterhaltung/Spiele. Es erfolgt keine medizinische Betreuung."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.357173,
+          52.42804904
+        ]
+      },
+      "properties": {
+        "category": "Öffentlicher \"Kühler Raum\"",
+        "name": "Kiezbüro Lankwitz",
+        "info": "Emmichstraße 8, 12249 Berlin | Mo - Do: 10.00 - 16.00 Uhr | rollstuhlgerecht | Es gibt Trinkwasser, Sitzgelegenheiten, Toiletten, Unterhaltung/Spiele und W-LAN. Es erfolgt keine medizinische Betreuung."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.266188,
+          52.41325604
+        ]
+      },
+      "properties": {
+        "category": "Öffentlicher \"Kühler Raum\"",
+        "name": "Phoenix - Jugendfreizeiteinrichtung und Mehrgenerationenhaus (Mittelhof e.V.)",
+        "info": "Teltower Damm 228, 14167 Berlin | Mo - Fr: 10:00 - 14:00 Uhr. Von 13:30 - 18:30 Uhr sind wir eine Jugendfreizeiteinrichtung für alle zwischen 10 - 27 Jahren. | rollstuhlgerecht | Es gibt Trinkwasser, Sitzgelegenheiten, Toiletten, Unterhaltung/Spiele und W-LAN. Es erfolgt keine medizinische Betreuung."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           13.352746,
           52.48917604
         ]
@@ -853,7 +1138,7 @@
       "properties": {
         "category": "Öffentlicher \"Kühler Raum\"",
         "name": "Apostel-Paulus Kirche",
-        "info": "Grunewaldstraße 77 A, 10823 Berlin | täglich von 12:00 - 18:00 Uhr | rollstuhlgerecht | Es erfolgt keine medizinische Betreuung."
+        "info": "Grunewaldstraße 77 A, 10823 Berlin | Mo - So: 12:00 - 18:00 Uhr | rollstuhlgerecht | Es erfolgt keine medizinische Betreuung."
       }
     },
     {
@@ -868,7 +1153,37 @@
       "properties": {
         "category": "Öffentlicher \"Kühler Raum\"",
         "name": "Mobile Stadtteilarbeit des Nachbarschaftsheim Schöneberg",
-        "info": "Cranachstraße 7, 12157 Berlin | Mo: 10:00 - 13:00 Uhr und 15:00 - 18:00 Uhr (an manchen Tagen auch durchgängig bis 18:00 Uhr); Di: 10:00 - 12:00 Uhr; Mi: 10:00 - 15:00 Uhr, Do: 10:00 - 18:00 Uhr; Fr: 10:00 - 14:00 Uhr Aufgrund von kurzfristigen Ausfällen und Krankheiten kann zu Änderungen der Öffnungszeiten kommen. Erkundigen Sie sich gerne vorab telefonisch unter 030 / 32 50 12 97. | rollstuhlgerecht | Es erfolgt keine medizinische Betreuung."
+        "info": "Cranachstraße 7, 12157 Berlin | Mo: 10:00 - 13:00 Uhr und 15:00 - 18:00 Uhr (an manchen Tagen auch durchgängig bis 18:00 Uhr); Di: 10:00 - 17:00 Uhr; Mi: 10:00 - 15:00 Uhr, Do: 10:00 - 18:00 Uhr; Fr: 10:00 - 14:00 Uhr Aufgrund von kurzfristigen Ausfällen und Krankheiten kann zu Änderungen der Öffnungszeiten kommen. Erkundigen Sie sich gerne vorab telefonisch unter 030 / 32 50 12 97. | rollstuhlgerecht | Es erfolgt keine medizinische Betreuung."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.359313,
+          52.49862204
+        ]
+      },
+      "properties": {
+        "category": "Öffentlicher \"Kühler Raum\"",
+        "name": "Freizeitstätte 60+ HUZUR",
+        "info": "Bülowstr. 94, 10783 Berlin | Mo - Mi: 09:00 - 16:00 Uhr (ausgenommen August 2026) | rollstuhlgerecht | Es gibt Trinkwasser, Sitzgelegenheiten, Toiletten, Unterhaltung/Spiele und W-LAN. Bitte am Eingang klingeln. Im August steht dieser kühle Raum nicht zur Verfügung. Es erfolgt keine medizinische Betreuung."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.350664,
+          52.48294104
+        ]
+      },
+      "properties": {
+        "category": "Öffentlicher \"Kühler Raum\"",
+        "name": "Stadtteilzentrum Schöneberg",
+        "info": "Hauptstraße 121 A, 10827 Berlin | Mo, Mi, Do: 10:00 - 15:00 Uhr; Di: 13:00 - 15:00 Uhr | rollstuhlgerecht | Es gibt Trinkwasser, Sitzgelegenheiten, Toiletten, Unterhaltung/Spiele und W-LAN. Es erfolgt keine medizinische Betreuung."
       }
     },
     {
@@ -883,7 +1198,7 @@
       "properties": {
         "category": "Öffentlicher \"Kühler Raum\"",
         "name": "KIEZKLUB Allende",
-        "info": "Salvador-Allende-Straße 89, 12559 Berlin-Allende-Viertel | 01.06. - 31.08.: Mo - Do: 9:00 - 17:00 Uhr; Fr: 9:00 - 15:00 Uhr | rollstuhlgerecht | Es ist ein rollstuhlgerechtes WC vorhanden. Es erfolgt keine medizinische Betreuung."
+        "info": "Salvador-Allende-Straße 89, 12559 Berlin-Allende-Viertel | 01.06. - 31.08.: Mo - Do: 09:00 - 17:00 Uhr; Fr: 09:00 - 15:00 Uhr | rollstuhlgerecht | Es ist ein rollstuhlgerechtes WC vorhanden. Es erfolgt keine medizinische Betreuung."
       }
     },
     {
@@ -898,7 +1213,7 @@
       "properties": {
         "category": "Öffentlicher \"Kühler Raum\"",
         "name": "KIEZKLUB Alte Schule",
-        "info": "Dörpfeldstraße 54/56, 12489 Berlin-Adlershof | 01.06. - 31.08.: Mo - Fr: 9:00 - 17:00 Uhr | rollstuhlgerecht | Es erfolgt keine medizinische Betreuung."
+        "info": "Dörpfeldstraße 54/56, 12489 Berlin-Adlershof | 01.06. - 31.08.: Mo - Fr: 09:00 - 17:00 Uhr | rollstuhlgerecht | Es erfolgt keine medizinische Betreuung."
       }
     },
     {
@@ -913,7 +1228,7 @@
       "properties": {
         "category": "Öffentlicher \"Kühler Raum\"",
         "name": "KIEZKLUB Bohnsdorf",
-        "info": "Dahmestraße 33, 12526 Berlin-Bohnsdorf | 01.06. - 31.08.: Mo - Fr: 9:00 - 17:00 Uhr | rollstuhlgerecht | Es erfolgt keine medizinische Betreuung."
+        "info": "Dahmestraße 33, 12526 Berlin-Bohnsdorf | 01.06. - 31.08.: Mo - Fr: 09:00 - 17:00 Uhr | rollstuhlgerecht | Es erfolgt keine medizinische Betreuung."
       }
     },
     {
@@ -928,7 +1243,7 @@
       "properties": {
         "category": "Öffentlicher \"Kühler Raum\"",
         "name": "KIEZKLUB im Bürgerhaus Altglienicke",
-        "info": "Ortolfstraße 182-184, 12524 Berlin-Altglienicke | 01.06. - 31.08.: Di: 12:00 - 16:00 Uhr; Mi, Do: 9:00 - 17:00 Uhr (wenn keine Veranstaltungen tagen); Fr: 12:00 - 15:00 Uhr | rollstuhlgerecht | Es erfolgt keine medizinische Betreuung."
+        "info": "Ortolfstraße 182-184, 12524 Berlin-Altglienicke | 01.06. - 31.08.: Di: 12:00 - 16:00 Uhr; Mi, Do: 09:00 - 17:00 Uhr (wenn keine Veranstaltungen tagen); Fr: 12:00 - 15:00 Uhr | rollstuhlgerecht | Es erfolgt keine medizinische Betreuung."
       }
     },
     {
@@ -943,7 +1258,7 @@
       "properties": {
         "category": "Öffentlicher \"Kühler Raum\"",
         "name": "KIEZKLUB Rahnsdorf",
-        "info": "Fürstenwalder Allee 362, 12589 Berlin-Rahnsdorf | 01.06. - 31.08.: Mo - Fr: 9:00 - 17:00 Uhr | rollstuhlgerecht | Ein rollstuhlgerechtes WC ist vorhanden. Einige Räume verfügen über eine kleine Schwelle, welche aber mit einem Rollstuhl überwindbar sind. Es erfolgt keine medizinische Betreuung."
+        "info": "Fürstenwalder Allee 362, 12589 Berlin-Rahnsdorf | 01.06. - 31.08.: Mo - Fr: 09:00 - 17:00 Uhr | rollstuhlgerecht | Ein rollstuhlgerechtes WC ist vorhanden. Einige Räume verfügen über eine kleine Schwelle, welche aber mit einem Rollstuhl überwindbar sind. Es erfolgt keine medizinische Betreuung."
       }
     },
     {
@@ -958,7 +1273,7 @@
       "properties": {
         "category": "Öffentlicher \"Kühler Raum\"",
         "name": "KIEZKLUB Rathaus Johannisthal",
-        "info": "Sterndamm 102, 12487 Berlin-Johannisthal | 01.06. - 31.08.: Mo - Fr: 9:00 - 17:00 Uhr | rollstuhlgerecht | Es erfolgt keine medizinische Betreuung."
+        "info": "Sterndamm 102, 12487 Berlin-Johannisthal | 01.06. - 31.08.: Mo - Fr: 09:00 - 17:00 Uhr | rollstuhlgerecht | Es erfolgt keine medizinische Betreuung."
       }
     },
     {
@@ -973,7 +1288,7 @@
       "properties": {
         "category": "Öffentlicher \"Kühler Raum\"",
         "name": "KIEZKLUB Treptow Kolleg",
-        "info": "Schöntaler Weg 21, 12437 Berlin-Baumschulenweg | 01.06. - 31.08.: Mo - Do: 9:00 - 17:00 Uhr; Fr: 9:00 - 16:00 Uhr | rollstuhlgerecht | Es erfolgt keine medizinische Betreuung."
+        "info": "Schöntaler Weg 21, 12437 Berlin-Baumschulenweg | 01.06. - 31.08.: Mo - Do: 09:00 - 17:00 Uhr; Fr: 09:00 - 16:00 Uhr | rollstuhlgerecht | Es erfolgt keine medizinische Betreuung."
       }
     },
     {
@@ -988,7 +1303,7 @@
       "properties": {
         "category": "Öffentlicher \"Kühler Raum\"",
         "name": "KIEZKLUB Vital",
-        "info": "Myliusgarten 20, 12587 Berlin-Friedrichshagen | 01.06. - 31.08.: Mo - Fr: 9:00 - 17:00 Uhr (je nach Raumbelegung) | rollstuhlgerecht | Ein rollstuhlgerechtes WC ist vorhanden. Es erfolgt keine medizinische Betreuung."
+        "info": "Myliusgarten 20, 12587 Berlin-Friedrichshagen | 01.06. - 31.08.: Mo - Fr: 09:00 - 17:00 Uhr (je nach Raumbelegung) | rollstuhlgerecht | Ein rollstuhlgerechtes WC ist vorhanden. Es erfolgt keine medizinische Betreuung."
       }
     },
     {
@@ -1003,7 +1318,7 @@
       "properties": {
         "category": "Öffentlicher \"Kühler Raum\"",
         "name": "Regionales Begegnungszentrum Süd der Volkssolidarität e.V.",
-        "info": "Baumschulenstraße 31, 12437 Berlin-Baumschulenweg | an Hitzetagen ab 30°C, Mo - Fr: 9:00 - 16:00 Uhr | rollstuhlgerecht | Die Räumlichkeiten sind im 2. Stock mit dem Aufzug für Rollstuhlfahrende ohne Barrieren erreichbar. Ein rollstuhlgerechtes WC ist vorhanden. Es erfolgt keine medizinische Betreuung."
+        "info": "Baumschulenstraße 31, 12437 Berlin-Baumschulenweg | an Hitzetagen ab 30°C, Mo - Fr: 09:00 - 16:00 Uhr | rollstuhlgerecht | Die Räumlichkeiten sind im 2. Stock mit dem Aufzug für Rollstuhlfahrende ohne Barrieren erreichbar. Ein rollstuhlgerechtes WC ist vorhanden. Es erfolgt keine medizinische Betreuung."
       }
     },
     {
@@ -1033,7 +1348,22 @@
       "properties": {
         "category": "Öffentlicher \"Kühler Raum\"",
         "name": "Villa offensiv (offensiv’91 e. V.)",
-        "info": "Hasselwerderstr.38-40, 12439 Berlin | Täglich von 08:30 - 15:00 Uhr | rollstuhlgerecht | Es gibt einen Plattformlift (bis 275 kg Traglast), zu erreichen über den Weg im Gartenbereich. Es ist ein rollstuhlgerechtes WC vorhanden. Es erfolgt keine medizinische Betreuung."
+        "info": "Hasselwerderstr.38-40, 12439 Berlin | Mo - So: 08:30 - 15:00 Uhr | rollstuhlgerecht | Es gibt einen Plattformlift (bis 275 kg Traglast), zu erreichen über den Weg im Gartenbereich. Es ist ein rollstuhlgerechtes WC vorhanden. Es erfolgt keine medizinische Betreuung."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5731,
+          52.44989204
+        ]
+      },
+      "properties": {
+        "category": "Öffentlicher \"Kühler Raum\"",
+        "name": "Katholische Kirche St. Antonius",
+        "info": "Lindenstraße 43, 12555 | Mo - So: 14:00 - 16:00 Uhr | eingeschränkt rollstuhlgerecht | Es gibt Trinkwasser, Sitzgelegenheiten und Toiletten. Die Kirche ist täglich über das Angebot \"Offene Kirche\" zugänglich und wird von verschiedenen \"Kirchenhüter:innen\" begleitet, feste Zeiten sind 14:00-16:00 Uhr. Jeden Donnerstag gibt es das Angebot eines Kirchencafés, welches von der Sozialarbeiterin und Praktikantin in der Pfarrei begleitet wird. Weitere Zeiten sind jederzeit spontan möglich und werden dann durch einen Aufsteller vor der Kirchentür sichtbar gemacht. Bei fehlenden Kirchenhüter:innen bleibt die Kirche leider geschlossen. Es erfolgt keine medizinische Betreuung."
       }
     }
   ]
