@@ -15,51 +15,37 @@ OUTPUT_GEOJSON = "/Users/norahunger/Documents/GitHub/erfrischungskarte-daten/POI
 OUTPUT_CSV = "/Users/norahunger/Documents/GitHub/erfrischungskarte-daten/POIs/single-files/2026/CSV/brunnen-formatiert.csv"
 OUTPUT_DUPLICATES_CSV = "/Users/norahunger/Documents/ODIS/Erfrischungskarte/2026/Brunnen/brunnen-dubletten-report.csv"
 
-CATEGORY = "Brunnen"
+CATEGORY = "Straßenbrunnen"  # Kategorie angepasst
 
 # Punkte innerhalb dieses Radius gelten als Dublette
 COORD_DUPLICATE_DISTANCE_M = 2.0
 
-# (Rest des Codes bleibt unverändert, da die Logik bereits für mehrere Input-Dateien ausgelegt ist)
 def _parse_float_locale(num):
-    """
-    Robust gegen '.' und ',' als Dezimal-/Tausender-Trennzeichen.
-    Gibt float oder None zurück.
-    """
     if num is None:
         return None
-
     if isinstance(num, (int, float)):
         return float(num)
-
     s = str(num).strip()
-
     if not s:
         return None
-
     if not re.match(r"^-?[0-9\.,]+$", s):
         return None
-
     if ',' in s and '.' in s:
         if s.rfind(',') > s.rfind('.'):
             s = s.replace('.', '').replace(',', '.')
         else:
             s = s.replace(',', '')
-
         try:
             return float(s)
         except ValueError:
             return None
-
     if ',' in s:
         s = s.replace('.', '')
         s = s.replace(',', '.')
-
         try:
             return float(s)
         except ValueError:
             return None
-
     try:
         return float(s)
     except ValueError:
@@ -167,7 +153,11 @@ def _as_features_from_overpass(data):
             if geom is None:
                 geom_list = el.get("geometry")
                 if isinstance(geom_list, list) and geom_list:
-                    pts = [[_parse_float_locale(p.get("lon")), _parse_float_locale(p.get("lat"))] for p in geom_list if "lon" in p and "lat" in p]
+                    pts = [
+                        [_parse_float_locale(p.get("lon")), _parse_float_locale(p.get("lat"))]
+                        for p in geom_list
+                        if "lon" in p and "lat" in p
+                    ]
                     pts = [[lo, la] for lo, la in pts if lo is not None and la is not None]
                     c = _centroid_of_coords(pts)
                     if c:
@@ -181,7 +171,10 @@ def _haversine_m(lon1, lat1, lon2, lat2):
     phi2 = math.radians(lat2)
     delta_phi = math.radians(lat2 - lat1)
     delta_lambda = math.radians(lon2 - lon1)
-    a = (math.sin(delta_phi / 2) ** 2 + math.cos(phi1) * math.cos(phi2) * math.sin(delta_lambda / 2) ** 2)
+    a = (
+        math.sin(delta_phi / 2) ** 2
+        + math.cos(phi1) * math.cos(phi2) * math.sin(delta_lambda / 2) ** 2
+    )
     return 2 * earth_radius_m * math.atan2(math.sqrt(a), math.sqrt(1 - a))
 
 def _is_duplicate(candidate, existing_features):
@@ -198,7 +191,7 @@ def _merge_duplicate(existing, candidate):
     candidate_props = candidate["properties"]
     existing_name = existing_props.get("name")
     candidate_name = candidate_props.get("name")
-    if existing_name == "Brunnen" and candidate_name not in (None, "", "Brunnen"):
+    if existing_name == "Straßenbrunnen" and candidate_name not in (None, "", "Straßenbrunnen"):
         existing_props["name"] = candidate_name
     existing_info = existing_props.get("info")
     candidate_info = candidate_props.get("info")
@@ -216,7 +209,10 @@ def _load_features_from_file(path_str):
     elif isinstance(data, dict) and "elements" in data:
         features = _as_features_from_overpass(data)
     else:
-        raise SystemExit(f"Unbekanntes Format in {path.name}: Erwartet FeatureCollection oder Overpass-JSON (elements).")
+        raise SystemExit(
+            f"Unbekanntes Format in {path.name}: "
+            "Erwartet FeatureCollection oder Overpass-JSON (elements)."
+        )
     for feat in features:
         props = feat.setdefault("properties", {})
         props["_source_file"] = path.name
@@ -228,25 +224,38 @@ def main():
     for input_path in INPUT_GEOJSONS:
         features = _load_features_from_file(input_path)
         all_input_features.extend(features)
+
     out_features = []
     total_input = len(all_input_features)
     skipped_without_coords = 0
     duplicates_removed = 0
+
     for feat in all_input_features:
         props = feat.get("properties") or {}
         geom = feat.get("geometry")
         source_file = props.get("_source_file", "")
+
         name, info = _extract_name_info(props)
+
+        # Name niemals leer
         if name is None or str(name).strip() == "":
-            name = "Brunnen"
-        if info is not None and str(info).strip().lower() == "brunnen":
+            name = "Straßenbrunnen"
+        # Falls Name nur aus einer Zahl besteht, auf "Straßenbrunnen" setzen
+        elif str(name).strip().isdigit():
+            name = "Straßenbrunnen"
+
+        # Falls info nur "Straßenbrunnen" oder "Brunnen" enthält -> info = None
+        if info is not None and str(info).strip().lower() in ("straßenbrunnen", "brunnen"):
             info = None
+
+        # Koordinaten bestimmen
         if source_file == "zierbrunnen-roh.geojson":
             coords = _coords_from_point_bbox(feat)
             if coords is None:
                 coords = _centroid_geometry(geom)
         else:
             coords = _centroid_geometry(geom)
+
         if coords is None:
             lon_prop = _get_nested(props, "lon") or props.get("longitude")
             lat_prop = _get_nested(props, "lat") or props.get("latitude")
@@ -254,10 +263,13 @@ def main():
             lat = _parse_float_locale(lat_prop)
             if lon is not None and lat is not None:
                 coords = [lon, lat]
+
         if coords is None or any(v is None for v in coords[:2]):
             skipped_without_coords += 1
             continue
+
         lon, lat = float(coords[0]), float(coords[1])
+
         candidate = {
             "type": "Feature",
             "properties": {
@@ -268,7 +280,9 @@ def main():
             },
             "geometry": {"type": "Point", "coordinates": [lon, lat]}
         }
+
         duplicate, distance = _is_duplicate(candidate, out_features)
+
         if duplicate is not None:
             duplicate_report.append({
                 "distance_m": round(distance, 3),
@@ -284,7 +298,9 @@ def main():
             _merge_duplicate(duplicate, candidate)
             duplicates_removed += 1
             continue
+
         out_features.append(candidate)
+
     cleaned_out_features = []
     for feat in out_features:
         cleaned_props = {
@@ -297,9 +313,11 @@ def main():
             "properties": cleaned_props,
             "geometry": feat["geometry"]
         })
+
     result = {"type": "FeatureCollection", "features": cleaned_out_features}
     with open(OUTPUT_GEOJSON, "w", encoding="utf-8") as f:
         json.dump(result, f, ensure_ascii=False, indent=2)
+
     csv_rows = []
     for feat in cleaned_out_features:
         lon, lat = feat["geometry"]["coordinates"]
@@ -312,11 +330,13 @@ def main():
             "name": props["name"],
             "info": "" if props["info"] is None else str(props["info"])
         })
+
     headers = ["type", "coordinates long", "coordinates lat", "category", "name", "info"]
     with open(OUTPUT_CSV, "w", encoding="utf-8", newline="") as f:
         writer = csv.DictWriter(f, fieldnames=headers)
         writer.writeheader()
         writer.writerows(csv_rows)
+
     duplicate_headers = [
         "distance_m", "removed_source", "removed_name", "removed_lon", "removed_lat",
         "kept_source", "kept_name", "kept_lon", "kept_lat"
@@ -325,6 +345,7 @@ def main():
         writer = csv.DictWriter(f, fieldnames=duplicate_headers)
         writer.writeheader()
         writer.writerows(duplicate_report)
+
     print(
         "✔ Testversion fertig!\n"
         f"- Eingelesene Datensätze: {total_input}\n"
