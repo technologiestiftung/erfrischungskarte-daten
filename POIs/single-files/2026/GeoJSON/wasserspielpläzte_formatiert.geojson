@@ -184,6 +184,21 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Wasserspielplatz im Gleisdreieckpark",
+        "info": null,
+        "category": "Wasserspielplatz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3700104,
+          52.4984881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Wasserspielplatz",
         "info": null,
         "category": "Wasserspielplatz"
